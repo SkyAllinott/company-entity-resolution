@@ -3,24 +3,17 @@ import pandas as pd
 from datetime import datetime, timedelta
 from pathlib import Path
 
+import company_generator_variables as cv
+
 generator = np.random.default_rng(seed = 4)
 def generate_random_date(start_date, end_date, generator):
     time_between = end_date - start_date
     days_between = time_between.days
-
     random_number_days = int(generator.integers(low = 0, high = days_between + 1))
 
     return start_date + timedelta(days = random_number_days)
 
-company_name_prefix = ["The", "A", "Canadian", "American", "English"]
-company_name_words = ["Apple", "Micro", "Bloom", "Theory", "Red", "Orange", "Python", "Rust", "Ford", "Chevy", "Discord"]
-company_name_suffix = ["Company", "Incorporated", "LLC", "inc.", "Limited", "Mutual", "Financial", "Consulting"]
 
-# Potential operating countries
-countries = ["United Kingdom", "England", "Canada", "United States", "US"]
-
-# Potential industries
-industry = ["Financials", "Technology", "Industrial", "Energy", "Health Care"]
 def generate_companies(records, generator):
     data_list = []
 
@@ -28,10 +21,10 @@ def generate_companies(records, generator):
     for i in range(records):
         data_list.append({
             "company_id": f"COMP-{i + 1:05d}",
-            "company_name": generator.choice(company_name_prefix) + " " + generator.choice(company_name_words),
-            "country": generator.choice(countries),
+            "company_name": generator.choice(cv.company_name_prefix) + " " + generator.choice(cv.company_name_words),
+            "country": generator.choice(cv.countries),
             "registration_id": registration_ids[i],
-            "industry": generator.choice(industry)
+            "industry": generator.choice(cv.industry)
         })
 
     df = pd.DataFrame(data_list)
@@ -50,50 +43,34 @@ def make_missing_records(missing_rate, df, generator, column):
 
 def add_company_suffix(fraction, df, generator):
     rows_to_add_suffix = df.sample(frac = fraction, random_state = generator).index
-    df.loc[rows_to_add_suffix, "company_name"] = df.loc[rows_to_add_suffix, "company_name"] + " " + generator.choice(company_name_suffix, size = len(rows_to_add_suffix))
+    df.loc[rows_to_add_suffix, "company_name"] = df.loc[rows_to_add_suffix, "company_name"] + " " + generator.choice(cv.company_name_suffix, size = len(rows_to_add_suffix))
 
     return df
 
 
-provider_quality = {
-    "Envirotech": {
-        "industry": 0.02,
-        "registration_id": 0.05,
-        "country": 0.05
-    },
-    "FinData": {
-        "industry": 0.05,
-        "registration_id": 0.15,
-        "country": 0.1
-    },
-    "BigData": {
-        "industry": 0.10,
-        "registration_id": 0.1,
-        "country": 0.2
-    }
-}
-
-
 def generate_provider_data(provider, companies, generator):
     """Generate fake synthetic company entity data"""
+
+    # From source of truth, sample some companies
     provider_companies = companies.sample(
         n = 800,
         random_state = generator
     )
+
+    # Create the provider_id variable
     provider_companies.insert(
         0, 
         "provider_id", 
         provider + "-" + (np.arange(len(provider_companies)) + 1).astype(str)
     )
 
+    # drop the company_id which is source of truth from provider (we're trying to match on this later) and alter company name
     provider_companies = provider_companies.drop(columns = "company_id")
-
     provider_companies = add_company_suffix(0.5, provider_companies, generator)
 
 
     # Make some randomly missing records. If provider is new, use BigData rates
-    provider_miss_rates= provider_quality.get(provider, provider_quality["BigData"])
-
+    provider_miss_rates= cv.provider_quality.get(provider, cv.provider_quality["BigData"])
     for column, missing_rate in provider_miss_rates.items():
         provider_companies = make_missing_records(missing_rate, provider_companies, generator, column)
 
@@ -102,6 +79,8 @@ def generate_provider_data(provider, companies, generator):
     provider_companies.to_csv(file_path, index = False)
     return provider_companies
 
+
+# Generate the synthetic data
 providers = ["Envirotech", "FinData", "BigData"]
 actual_companies = generate_companies(1000, generator=generator)
 for provider in providers:
