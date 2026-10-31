@@ -7,6 +7,7 @@ import company_generator_variables as cv
 
 generator = np.random.default_rng(seed = 4)
 def generate_random_date(start_date, end_date, generator):
+    """Generate a random date"""
     time_between = end_date - start_date
     days_between = time_between.days
     random_number_days = int(generator.integers(low = 0, high = days_between + 1))
@@ -15,6 +16,7 @@ def generate_random_date(start_date, end_date, generator):
 
 
 def generate_companies(records, generator):
+    """Generate a master list of companies that serves as source of truth"""
     data_list = []
 
     registration_ids = generator.choice(np.arange(1000, 100000), size = records, replace = False)
@@ -35,6 +37,7 @@ def generate_companies(records, generator):
 
 
 def make_missing_records(missing_rate, df, generator, column):
+    """Replace values in a column with NaN to simulate missing data"""
     rows_to_make_missing = df.sample(frac = missing_rate, random_state = generator).index
     df.loc[rows_to_make_missing, str(column)] = np.nan
 
@@ -42,6 +45,7 @@ def make_missing_records(missing_rate, df, generator, column):
 
 
 def add_company_suffix(fraction, df, generator):
+    """Generate company suffixes like 'inc.' to make names harder to distinguish from master"""
     rows_to_add_suffix = df.sample(frac = fraction, random_state = generator).index
     df.loc[rows_to_add_suffix, "company_name"] = df.loc[rows_to_add_suffix, "company_name"] + " " + generator.choice(cv.company_name_suffix, size = len(rows_to_add_suffix))
 
@@ -49,7 +53,7 @@ def add_company_suffix(fraction, df, generator):
 
 
 def generate_provider_data(provider, companies, generator):
-    """Generate fake synthetic company entity data"""
+    """Sample the master data and introduce some poor data quality elements"""
 
     # From source of truth, sample some companies
     provider_companies = companies.sample(
