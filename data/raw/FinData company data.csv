@@ -1,0 +1,801 @@
+provider_id,company_name,country,registration_id,industry
+FinData-1,English Rust,United Kingdom,14369.0,
+FinData-2,Canadian Rust Limited,,70168.0,
+FinData-3,The Python,England,64715.0,Financials
+FinData-4,American Red Consulting,US,,Industrial
+FinData-5,A Red Company,US,5989.0,Energy
+FinData-6,English Bloom,England,47480.0,Energy
+FinData-7,English Bloom,US,50654.0,Industrial
+FinData-8,The Red LLC,US,2225.0,Financials
+FinData-9,Canadian Discord,,,Technology
+FinData-10,A Apple,,45462.0,Financials
+FinData-11,Canadian Apple,England,67853.0,Financials
+FinData-12,English Micro Consulting,US,91057.0,Financials
+FinData-13,A Bloom,Canada,35148.0,Energy
+FinData-14,American Python Company,Canada,66798.0,Financials
+FinData-15,The Apple,US,67012.0,Financials
+FinData-16,American Theory,England,90117.0,Health Care
+FinData-17,Canadian Chevy,,,Technology
+FinData-18,Canadian Theory Limited,US,63226.0,
+FinData-19,The Python Financial,England,70954.0,Industrial
+FinData-20,English Micro LLC,US,44185.0,Health Care
+FinData-21,The Red Incorporated,Canada,73304.0,Industrial
+FinData-22,Canadian Bloom Financial,Canada,79567.0,Technology
+FinData-23,English Python,US,,Energy
+FinData-24,Canadian Micro,Canada,98825.0,Technology
+FinData-25,Canadian Micro Incorporated,England,48109.0,Technology
+FinData-26,The Red Financial,Canada,33282.0,Industrial
+FinData-27,A Theory Consulting,Canada,52067.0,Energy
+FinData-28,English Orange,Canada,75775.0,Energy
+FinData-29,Canadian Discord Consulting,England,21466.0,
+FinData-30,English Discord,Canada,96094.0,Technology
+FinData-31,English Ford Incorporated,England,56365.0,Health Care
+FinData-32,Canadian Orange Mutual,United States,8764.0,Financials
+FinData-33,American Red,United States,59462.0,Technology
+FinData-34,English Apple Incorporated,United Kingdom,73251.0,Technology
+FinData-35,The Discord,England,16844.0,Technology
+FinData-36,A Rust Company,United States,37062.0,Health Care
+FinData-37,English Chevy,US,31686.0,Energy
+FinData-38,Canadian Ford Financial,United Kingdom,29167.0,Industrial
+FinData-39,The Bloom Mutual,England,78312.0,Technology
+FinData-40,The Rust,Canada,,Technology
+FinData-41,The Orange,England,62026.0,Industrial
+FinData-42,A Bloom Incorporated,England,,Health Care
+FinData-43,English Discord Financial,,53121.0,Financials
+FinData-44,Canadian Chevy,,,Industrial
+FinData-45,The Theory,England,4784.0,Technology
+FinData-46,English Orange,England,9847.0,Industrial
+FinData-47,A Ford Mutual,United States,9343.0,Technology
+FinData-48,Canadian Micro Consulting,US,93461.0,Financials
+FinData-49,American Orange,Canada,71195.0,Health Care
+FinData-50,A Python,England,,Industrial
+FinData-51,A Theory,England,17703.0,Financials
+FinData-52,A Apple LLC,United States,87387.0,Health Care
+FinData-53,Canadian Python Incorporated,United Kingdom,95986.0,Technology
+FinData-54,The Bloom,England,54295.0,Technology
+FinData-55,The Red LLC,United Kingdom,60526.0,Health Care
+FinData-56,A Rust,England,17165.0,Industrial
+FinData-57,English Ford,United Kingdom,16657.0,Energy
+FinData-58,American Theory,United Kingdom,77302.0,Technology
+FinData-59,The Rust Incorporated,,58740.0,
+FinData-60,American Chevy,US,8059.0,Health Care
+FinData-61,American Python Limited,US,,Health Care
+FinData-62,American Theory Mutual,England,81894.0,Energy
+FinData-63,A Discord Company,Canada,86435.0,Financials
+FinData-64,English Theory,United States,,Industrial
+FinData-65,A Python Mutual,Canada,59866.0,Energy
+FinData-66,A Bloom inc.,US,92890.0,Health Care
+FinData-67,Canadian Python Mutual,United States,16097.0,Financials
+FinData-68,A Chevy,Canada,23913.0,Technology
+FinData-69,A Ford Limited,United States,88566.0,Industrial
+FinData-70,A Orange,United Kingdom,47964.0,Energy
+FinData-71,A Python inc.,United Kingdom,10642.0,Energy
+FinData-72,The Discord inc.,United States,93595.0,
+FinData-73,Canadian Orange,England,,Technology
+FinData-74,Canadian Python Financial,United Kingdom,35766.0,Industrial
+FinData-75,The Bloom,England,82019.0,Industrial
+FinData-76,American Python Incorporated,England,53226.0,Technology
+FinData-77,The Chevy,US,73714.0,Technology
+FinData-78,A Ford inc.,Canada,4594.0,Industrial
+FinData-79,A Chevy inc.,Canada,46277.0,Financials
+FinData-80,A Python inc.,England,85181.0,Industrial
+FinData-81,A Micro,United States,78338.0,Industrial
+FinData-82,Canadian Discord,US,77783.0,Industrial
+FinData-83,The Theory LLC,Canada,94942.0,Financials
+FinData-84,Canadian Orange Financial,Canada,67122.0,Technology
+FinData-85,American Micro LLC,US,92194.0,Health Care
+FinData-86,A Ford Financial,United States,,Health Care
+FinData-87,Canadian Chevy Financial,United States,69264.0,Health Care
+FinData-88,Canadian Orange Consulting,United States,8473.0,Industrial
+FinData-89,The Ford,Canada,85667.0,Industrial
+FinData-90,English Chevy Consulting,England,72934.0,Technology
+FinData-91,A Python,England,80442.0,Financials
+FinData-92,American Discord,,71470.0,Energy
+FinData-93,Canadian Rust,Canada,14177.0,Technology
+FinData-94,English Rust Incorporated,US,5341.0,Technology
+FinData-95,Canadian Red Financial,Canada,32817.0,Financials
+FinData-96,The Ford Mutual,United Kingdom,69140.0,Health Care
+FinData-97,English Python Mutual,US,35526.0,Industrial
+FinData-98,English Ford Incorporated,England,50431.0,Health Care
+FinData-99,The Ford Limited,US,66265.0,Industrial
+FinData-100,A Ford,US,36728.0,Industrial
+FinData-101,A Chevy,United Kingdom,50643.0,Industrial
+FinData-102,A Bloom,,,Technology
+FinData-103,American Python,Canada,96531.0,Financials
+FinData-104,The Apple LLC,England,,Health Care
+FinData-105,A Rust,Canada,48854.0,Health Care
+FinData-106,The Apple,Canada,98693.0,Energy
+FinData-107,American Micro,US,97630.0,Technology
+FinData-108,American Orange,Canada,81914.0,
+FinData-109,Canadian Rust Financial,England,74475.0,Health Care
+FinData-110,A Discord Company,US,73625.0,Financials
+FinData-111,The Bloom,United Kingdom,44126.0,Health Care
+FinData-112,Canadian Bloom,,56234.0,Energy
+FinData-113,English Python Incorporated,US,75176.0,Financials
+FinData-114,Canadian Discord,United States,94034.0,Health Care
+FinData-115,English Discord,United Kingdom,47168.0,Health Care
+FinData-116,English Discord,United Kingdom,22166.0,Technology
+FinData-117,English Python,United Kingdom,84485.0,Technology
+FinData-118,English Theory Consulting,England,74619.0,Technology
+FinData-119,English Python,Canada,53425.0,Technology
+FinData-120,English Python Limited,Canada,,Technology
+FinData-121,English Discord Limited,US,1806.0,Industrial
+FinData-122,English Rust,England,92407.0,Health Care
+FinData-123,Canadian Chevy Consulting,United States,,Health Care
+FinData-124,American Python Financial,US,79779.0,Health Care
+FinData-125,Canadian Bloom,United Kingdom,3636.0,Technology
+FinData-126,English Micro Consulting,United States,5322.0,
+FinData-127,Canadian Rust,United States,76326.0,Energy
+FinData-128,American Apple Financial,US,92036.0,Health Care
+FinData-129,Canadian Ford Consulting,US,,Energy
+FinData-130,The Theory Company,United Kingdom,76586.0,Technology
+FinData-131,American Orange inc.,Canada,72192.0,Industrial
+FinData-132,The Discord,United States,,Financials
+FinData-133,The Bloom Limited,,,Financials
+FinData-134,A Ford Company,Canada,,Industrial
+FinData-135,English Apple inc.,Canada,83240.0,Financials
+FinData-136,English Micro Financial,Canada,97476.0,Energy
+FinData-137,English Python Financial,US,45784.0,Health Care
+FinData-138,American Orange Consulting,US,53175.0,Technology
+FinData-139,English Micro,US,60691.0,Industrial
+FinData-140,A Red,Canada,63875.0,Industrial
+FinData-141,English Ford,United Kingdom,34115.0,Energy
+FinData-142,Canadian Bloom,Canada,74811.0,Financials
+FinData-143,English Orange,United Kingdom,55388.0,Financials
+FinData-144,The Chevy,US,11589.0,Financials
+FinData-145,English Theory,Canada,7471.0,Health Care
+FinData-146,The Bloom inc.,US,,Industrial
+FinData-147,A Orange LLC,,62873.0,Financials
+FinData-148,A Theory,United States,32638.0,Health Care
+FinData-149,Canadian Bloom Financial,United Kingdom,,Energy
+FinData-150,The Ford,England,,Technology
+FinData-151,American Discord,United States,40316.0,Financials
+FinData-152,The Chevy,England,,Health Care
+FinData-153,The Discord,United States,22887.0,Health Care
+FinData-154,The Rust Incorporated,US,,Industrial
+FinData-155,A Apple inc.,US,94356.0,Industrial
+FinData-156,American Bloom,United Kingdom,6939.0,Energy
+FinData-157,American Rust Incorporated,England,24240.0,
+FinData-158,English Rust inc.,England,7538.0,Industrial
+FinData-159,American Rust,,9654.0,Industrial
+FinData-160,English Micro,England,39497.0,Energy
+FinData-161,Canadian Ford,Canada,26469.0,Energy
+FinData-162,Canadian Python Company,United Kingdom,79979.0,Technology
+FinData-163,The Discord Mutual,United States,76662.0,Technology
+FinData-164,Canadian Bloom,US,11350.0,Health Care
+FinData-165,American Theory,United Kingdom,25476.0,Financials
+FinData-166,The Rust,Canada,68429.0,Energy
+FinData-167,The Apple inc.,United Kingdom,94265.0,
+FinData-168,A Red,,92245.0,Energy
+FinData-169,American Red,United States,79305.0,Technology
+FinData-170,Canadian Bloom Limited,United States,78096.0,Energy
+FinData-171,A Ford Limited,England,26341.0,Health Care
+FinData-172,A Discord Incorporated,US,,Health Care
+FinData-173,The Theory inc.,Canada,13832.0,Energy
+FinData-174,American Chevy LLC,US,80197.0,Industrial
+FinData-175,American Bloom Consulting,United States,92155.0,Health Care
+FinData-176,Canadian Discord Company,United States,22713.0,Energy
+FinData-177,A Micro Financial,United States,96413.0,Energy
+FinData-178,A Apple Incorporated,,78115.0,Industrial
+FinData-179,American Discord,United Kingdom,9434.0,Industrial
+FinData-180,Canadian Orange,England,83433.0,Industrial
+FinData-181,A Rust Consulting,Canada,28900.0,
+FinData-182,The Ford Mutual,United Kingdom,84709.0,Energy
+FinData-183,American Discord,US,36738.0,Financials
+FinData-184,Canadian Rust LLC,,93142.0,Industrial
+FinData-185,The Rust,United Kingdom,99041.0,Industrial
+FinData-186,A Chevy inc.,United States,14079.0,Technology
+FinData-187,Canadian Chevy,United Kingdom,,Health Care
+FinData-188,The Micro,United Kingdom,95418.0,Technology
+FinData-189,A Rust Financial,,31617.0,Health Care
+FinData-190,The Chevy,England,75395.0,Technology
+FinData-191,The Theory Limited,Canada,88089.0,Financials
+FinData-192,A Python,United States,80824.0,Health Care
+FinData-193,English Python,Canada,16769.0,Financials
+FinData-194,The Apple LLC,Canada,94994.0,Energy
+FinData-195,A Apple Company,,47195.0,Energy
+FinData-196,A Rust,,,Financials
+FinData-197,American Apple,Canada,,Financials
+FinData-198,Canadian Ford,US,52041.0,Technology
+FinData-199,American Bloom Company,United States,41784.0,
+FinData-200,The Apple,US,67902.0,Industrial
+FinData-201,English Rust Consulting,Canada,40420.0,Technology
+FinData-202,A Rust Company,,50030.0,Energy
+FinData-203,A Micro,US,59878.0,Energy
+FinData-204,Canadian Chevy Limited,Canada,33582.0,Technology
+FinData-205,English Ford LLC,Canada,65461.0,Financials
+FinData-206,A Bloom,,44091.0,Financials
+FinData-207,Canadian Python Consulting,England,72289.0,Energy
+FinData-208,English Orange,United Kingdom,36490.0,Technology
+FinData-209,English Chevy Financial,US,62252.0,Industrial
+FinData-210,A Ford LLC,US,90246.0,Energy
+FinData-211,Canadian Bloom Financial,United States,,Technology
+FinData-212,The Bloom inc.,US,,Energy
+FinData-213,A Ford Incorporated,England,63401.0,Financials
+FinData-214,American Apple Mutual,Canada,85173.0,Technology
+FinData-215,The Chevy,Canada,36976.0,Energy
+FinData-216,Canadian Red LLC,,25006.0,Technology
+FinData-217,American Orange,England,40111.0,Health Care
+FinData-218,The Python,United States,95173.0,Technology
+FinData-219,Canadian Orange,US,33738.0,Financials
+FinData-220,American Python,United Kingdom,77642.0,Technology
+FinData-221,Canadian Chevy,England,,Health Care
+FinData-222,Canadian Red Mutual,England,98489.0,Energy
+FinData-223,American Bloom Mutual,United Kingdom,32053.0,Industrial
+FinData-224,Canadian Micro Mutual,England,,Health Care
+FinData-225,American Ford Company,United Kingdom,94595.0,Financials
+FinData-226,American Ford Consulting,,81476.0,Energy
+FinData-227,Canadian Apple Incorporated,United Kingdom,62072.0,Technology
+FinData-228,American Theory Company,US,86655.0,Energy
+FinData-229,American Micro,England,55532.0,Health Care
+FinData-230,A Ford,United States,,Energy
+FinData-231,English Python LLC,US,48393.0,Technology
+FinData-232,Canadian Theory LLC,United States,65879.0,Industrial
+FinData-233,A Ford Company,,33638.0,Industrial
+FinData-234,The Python,United States,,Industrial
+FinData-235,The Orange,United Kingdom,47982.0,Financials
+FinData-236,American Chevy,England,56076.0,Financials
+FinData-237,The Chevy Mutual,,91940.0,Health Care
+FinData-238,Canadian Python,US,1149.0,Industrial
+FinData-239,English Rust LLC,England,83771.0,Energy
+FinData-240,Canadian Red Consulting,United States,52123.0,Energy
+FinData-241,English Micro,Canada,45449.0,
+FinData-242,Canadian Chevy,Canada,13538.0,Technology
+FinData-243,English Rust Incorporated,US,57937.0,Health Care
+FinData-244,A Discord Limited,Canada,73233.0,Technology
+FinData-245,American Python,Canada,10530.0,Industrial
+FinData-246,A Orange,Canada,58509.0,Health Care
+FinData-247,English Orange,United Kingdom,98923.0,Industrial
+FinData-248,Canadian Rust,,31788.0,Technology
+FinData-249,American Orange Incorporated,,11743.0,Financials
+FinData-250,Canadian Ford,US,63171.0,Technology
+FinData-251,A Chevy Mutual,United Kingdom,27826.0,Technology
+FinData-252,American Ford,,,Health Care
+FinData-253,English Micro,England,74498.0,Health Care
+FinData-254,English Python Mutual,United Kingdom,78274.0,Financials
+FinData-255,Canadian Apple LLC,Canada,24301.0,Technology
+FinData-256,Canadian Python,United Kingdom,92804.0,Energy
+FinData-257,American Ford Limited,England,8105.0,Energy
+FinData-258,A Chevy,England,8009.0,Financials
+FinData-259,Canadian Rust,United States,58827.0,Energy
+FinData-260,English Python Limited,,56688.0,Financials
+FinData-261,American Python,United States,62880.0,Energy
+FinData-262,The Chevy,England,6803.0,Health Care
+FinData-263,The Chevy LLC,Canada,35424.0,Financials
+FinData-264,Canadian Bloom Limited,United States,,Health Care
+FinData-265,A Red,United Kingdom,23988.0,Energy
+FinData-266,The Ford inc.,United States,75575.0,Health Care
+FinData-267,A Discord Financial,,25257.0,Industrial
+FinData-268,Canadian Apple LLC,United Kingdom,53621.0,Health Care
+FinData-269,Canadian Chevy,United States,73404.0,Industrial
+FinData-270,Canadian Micro,United States,83583.0,Technology
+FinData-271,Canadian Rust,,47126.0,Industrial
+FinData-272,The Ford Financial,Canada,,Technology
+FinData-273,American Apple Consulting,US,89436.0,Industrial
+FinData-274,The Chevy Company,,5706.0,Industrial
+FinData-275,English Bloom LLC,US,50295.0,
+FinData-276,A Orange,US,7329.0,Technology
+FinData-277,American Python Company,Canada,28974.0,Health Care
+FinData-278,American Ford,Canada,20252.0,Technology
+FinData-279,English Apple,United States,34793.0,Financials
+FinData-280,A Apple,England,29844.0,Health Care
+FinData-281,American Orange Financial,Canada,,Health Care
+FinData-282,American Red,US,93167.0,Financials
+FinData-283,The Bloom Limited,,23809.0,Energy
+FinData-284,A Python inc.,United Kingdom,9054.0,Energy
+FinData-285,The Orange Company,United Kingdom,,Energy
+FinData-286,Canadian Ford inc.,United States,4074.0,Health Care
+FinData-287,A Rust LLC,United Kingdom,,Technology
+FinData-288,Canadian Bloom Mutual,United States,91316.0,Technology
+FinData-289,American Discord Incorporated,United States,,Energy
+FinData-290,The Rust Incorporated,Canada,8225.0,Technology
+FinData-291,A Orange,United Kingdom,20631.0,
+FinData-292,The Discord,United States,69636.0,Technology
+FinData-293,A Bloom Consulting,England,61834.0,Industrial
+FinData-294,A Micro,Canada,,Health Care
+FinData-295,Canadian Theory,Canada,51112.0,Energy
+FinData-296,American Bloom Consulting,England,46409.0,Technology
+FinData-297,Canadian Bloom Limited,United Kingdom,14041.0,Health Care
+FinData-298,English Bloom Mutual,United Kingdom,33140.0,Industrial
+FinData-299,American Ford inc.,US,67294.0,Industrial
+FinData-300,The Orange,United Kingdom,58185.0,Industrial
+FinData-301,English Red Financial,,70035.0,Health Care
+FinData-302,A Red Limited,United Kingdom,81926.0,Technology
+FinData-303,Canadian Python Financial,England,24311.0,
+FinData-304,The Red Mutual,United States,2713.0,Financials
+FinData-305,A Red Limited,US,96545.0,Industrial
+FinData-306,Canadian Red,United Kingdom,81836.0,Technology
+FinData-307,American Python Financial,Canada,,Health Care
+FinData-308,Canadian Theory,,79909.0,Energy
+FinData-309,Canadian Micro LLC,United States,,Financials
+FinData-310,American Rust,United States,32259.0,Energy
+FinData-311,A Ford,United States,69985.0,Energy
+FinData-312,The Chevy,United Kingdom,,Financials
+FinData-313,Canadian Orange,United States,48019.0,Technology
+FinData-314,English Bloom Consulting,United Kingdom,39487.0,Technology
+FinData-315,A Orange Financial,United Kingdom,93866.0,Financials
+FinData-316,A Red,US,9655.0,Industrial
+FinData-317,English Red,Canada,22942.0,Industrial
+FinData-318,Canadian Ford,Canada,66550.0,Technology
+FinData-319,The Micro inc.,United States,35523.0,Financials
+FinData-320,A Ford Limited,United Kingdom,49815.0,Industrial
+FinData-321,The Orange Limited,England,76951.0,Energy
+FinData-322,A Micro Company,United Kingdom,98263.0,Industrial
+FinData-323,English Chevy Limited,United States,33906.0,Health Care
+FinData-324,English Rust Mutual,United States,87379.0,Energy
+FinData-325,A Ford,Canada,73975.0,Financials
+FinData-326,The Orange,,14203.0,Industrial
+FinData-327,American Bloom Company,US,80275.0,Financials
+FinData-328,The Micro,United Kingdom,82725.0,Health Care
+FinData-329,A Python Financial,US,67279.0,Health Care
+FinData-330,A Apple Company,,51742.0,Energy
+FinData-331,Canadian Red Limited,United States,,Health Care
+FinData-332,The Chevy LLC,US,,Financials
+FinData-333,American Apple Mutual,Canada,44130.0,Energy
+FinData-334,The Python,Canada,,Industrial
+FinData-335,English Ford,United Kingdom,49225.0,Technology
+FinData-336,Canadian Chevy Financial,United States,38298.0,Technology
+FinData-337,English Theory,United States,,
+FinData-338,The Apple Company,United States,33580.0,Industrial
+FinData-339,The Red,England,76213.0,Health Care
+FinData-340,English Theory,Canada,75819.0,Technology
+FinData-341,Canadian Rust,US,,Financials
+FinData-342,A Chevy Limited,United Kingdom,81840.0,Industrial
+FinData-343,English Orange,United States,30878.0,Technology
+FinData-344,The Orange,England,,Energy
+FinData-345,American Theory,England,6708.0,Financials
+FinData-346,American Rust,United States,,
+FinData-347,American Rust LLC,Canada,88551.0,Energy
+FinData-348,A Python Financial,US,77696.0,Health Care
+FinData-349,English Orange,England,13150.0,Technology
+FinData-350,A Apple,England,,Financials
+FinData-351,English Python Financial,Canada,24545.0,Industrial
+FinData-352,A Orange,United Kingdom,28329.0,Energy
+FinData-353,Canadian Ford,England,56822.0,Industrial
+FinData-354,Canadian Rust Limited,Canada,74852.0,Financials
+FinData-355,A Micro,England,75631.0,Industrial
+FinData-356,Canadian Theory Consulting,US,89435.0,Health Care
+FinData-357,Canadian Chevy inc.,United Kingdom,64865.0,Technology
+FinData-358,Canadian Python inc.,Canada,34542.0,Technology
+FinData-359,A Theory Incorporated,US,,Industrial
+FinData-360,Canadian Red,United Kingdom,96402.0,Industrial
+FinData-361,The Bloom,United States,75607.0,Industrial
+FinData-362,Canadian Theory Limited,United States,6972.0,Financials
+FinData-363,American Chevy inc.,,94955.0,Industrial
+FinData-364,A Apple,Canada,,
+FinData-365,A Bloom LLC,England,46754.0,Health Care
+FinData-366,The Apple inc.,United Kingdom,,Health Care
+FinData-367,American Theory,Canada,36551.0,Technology
+FinData-368,English Red inc.,Canada,29170.0,Technology
+FinData-369,Canadian Bloom Limited,,7569.0,Industrial
+FinData-370,The Apple,US,90364.0,Energy
+FinData-371,Canadian Chevy Consulting,United Kingdom,91947.0,Health Care
+FinData-372,English Discord,United Kingdom,52997.0,Financials
+FinData-373,Canadian Rust,England,67064.0,Technology
+FinData-374,English Bloom inc.,Canada,36044.0,Health Care
+FinData-375,Canadian Python,Canada,50290.0,
+FinData-376,The Rust inc.,Canada,,Financials
+FinData-377,American Bloom,,95194.0,Energy
+FinData-378,American Chevy,US,58576.0,Energy
+FinData-379,Canadian Micro Incorporated,England,13631.0,Financials
+FinData-380,Canadian Python Financial,United States,1341.0,Technology
+FinData-381,American Orange inc.,US,,Energy
+FinData-382,English Apple,England,,Technology
+FinData-383,The Bloom LLC,United States,14704.0,Industrial
+FinData-384,American Rust,England,21334.0,Technology
+FinData-385,The Bloom,Canada,32757.0,Industrial
+FinData-386,English Rust Mutual,US,53195.0,Financials
+FinData-387,English Python,US,47147.0,Health Care
+FinData-388,American Discord Incorporated,United States,25699.0,Health Care
+FinData-389,English Chevy,Canada,81183.0,Technology
+FinData-390,English Chevy,United States,70101.0,Technology
+FinData-391,Canadian Red Company,Canada,92377.0,Energy
+FinData-392,The Apple,US,78583.0,Industrial
+FinData-393,English Apple Financial,Canada,56272.0,Technology
+FinData-394,American Python,United Kingdom,33645.0,Energy
+FinData-395,Canadian Python Incorporated,US,75659.0,Energy
+FinData-396,Canadian Rust,Canada,12310.0,Financials
+FinData-397,The Red LLC,Canada,55800.0,Financials
+FinData-398,American Discord,Canada,43913.0,Health Care
+FinData-399,Canadian Micro,England,5747.0,Health Care
+FinData-400,American Chevy,United Kingdom,14669.0,Technology
+FinData-401,American Theory Mutual,US,97534.0,Financials
+FinData-402,American Apple inc.,Canada,48228.0,Energy
+FinData-403,English Chevy Company,United Kingdom,73391.0,Health Care
+FinData-404,A Rust Limited,England,21478.0,Industrial
+FinData-405,American Bloom,US,73543.0,Industrial
+FinData-406,English Micro Consulting,United Kingdom,52093.0,
+FinData-407,The Red inc.,United States,97268.0,Financials
+FinData-408,American Red inc.,US,98326.0,Financials
+FinData-409,American Orange inc.,US,17762.0,Industrial
+FinData-410,The Python,England,1750.0,Health Care
+FinData-411,American Python,United Kingdom,,Financials
+FinData-412,Canadian Theory Consulting,United Kingdom,58420.0,Health Care
+FinData-413,The Rust Consulting,United States,77039.0,Technology
+FinData-414,English Apple,United States,50376.0,Industrial
+FinData-415,Canadian Micro,,89131.0,Technology
+FinData-416,Canadian Bloom,England,,Industrial
+FinData-417,English Orange,Canada,76744.0,Technology
+FinData-418,Canadian Bloom,England,78042.0,Health Care
+FinData-419,A Discord Incorporated,United States,,Industrial
+FinData-420,The Orange inc.,United States,17924.0,Industrial
+FinData-421,American Discord,England,67257.0,Energy
+FinData-422,English Discord,US,1420.0,Energy
+FinData-423,Canadian Chevy,,77750.0,Energy
+FinData-424,English Rust Incorporated,Canada,67820.0,Energy
+FinData-425,The Chevy,Canada,5117.0,Industrial
+FinData-426,A Micro,England,23433.0,Financials
+FinData-427,English Red Incorporated,US,28490.0,Health Care
+FinData-428,English Apple Company,United Kingdom,24073.0,Technology
+FinData-429,Canadian Discord Mutual,England,72355.0,Industrial
+FinData-430,A Theory inc.,US,79259.0,Financials
+FinData-431,English Python,Canada,98067.0,Industrial
+FinData-432,Canadian Discord,United States,,Technology
+FinData-433,Canadian Red Consulting,United States,87131.0,Energy
+FinData-434,Canadian Chevy LLC,England,42609.0,Financials
+FinData-435,American Micro Financial,England,93601.0,Energy
+FinData-436,The Bloom,US,,Energy
+FinData-437,A Apple Mutual,Canada,74790.0,Financials
+FinData-438,The Micro LLC,US,65442.0,Health Care
+FinData-439,The Micro,Canada,58369.0,Industrial
+FinData-440,English Theory,England,50150.0,Financials
+FinData-441,A Rust,United Kingdom,24663.0,Technology
+FinData-442,The Red Incorporated,US,5812.0,Industrial
+FinData-443,The Bloom,,88163.0,Industrial
+FinData-444,A Orange,United Kingdom,84890.0,Industrial
+FinData-445,American Micro,England,19035.0,Energy
+FinData-446,American Chevy,United States,99666.0,Financials
+FinData-447,Canadian Red inc.,,5320.0,Energy
+FinData-448,Canadian Ford,Canada,99244.0,Energy
+FinData-449,Canadian Discord,US,,Technology
+FinData-450,English Orange Incorporated,US,,Financials
+FinData-451,English Chevy LLC,United States,90224.0,Technology
+FinData-452,Canadian Apple,United Kingdom,,Financials
+FinData-453,American Bloom,England,37625.0,Technology
+FinData-454,A Red Consulting,United States,58077.0,Health Care
+FinData-455,English Python Mutual,United States,56007.0,Industrial
+FinData-456,The Ford,US,,Health Care
+FinData-457,A Micro Company,,1236.0,Technology
+FinData-458,Canadian Ford,United Kingdom,89264.0,Health Care
+FinData-459,The Micro Financial,United States,87770.0,Industrial
+FinData-460,English Chevy,,64311.0,Technology
+FinData-461,The Ford,,73947.0,Health Care
+FinData-462,A Micro,England,83729.0,Financials
+FinData-463,English Chevy Limited,England,65464.0,Financials
+FinData-464,A Apple Company,United States,17192.0,Health Care
+FinData-465,English Discord Company,England,50016.0,Industrial
+FinData-466,The Discord Company,,,Energy
+FinData-467,English Red LLC,US,70106.0,
+FinData-468,A Rust,England,37900.0,Health Care
+FinData-469,The Micro,,18737.0,Financials
+FinData-470,English Red,England,,Technology
+FinData-471,A Discord Company,United Kingdom,20620.0,Health Care
+FinData-472,The Red Consulting,Canada,97127.0,Financials
+FinData-473,The Orange,United Kingdom,57170.0,Health Care
+FinData-474,A Discord Incorporated,Canada,93508.0,Industrial
+FinData-475,Canadian Bloom,United States,71999.0,Technology
+FinData-476,The Bloom inc.,United States,68758.0,Financials
+FinData-477,English Theory,United States,25676.0,Industrial
+FinData-478,American Chevy Company,Canada,41794.0,Energy
+FinData-479,A Rust,US,54291.0,Energy
+FinData-480,English Bloom,Canada,98132.0,Industrial
+FinData-481,English Chevy Consulting,United States,84366.0,
+FinData-482,The Micro Consulting,England,,Financials
+FinData-483,English Ford,,8922.0,Energy
+FinData-484,Canadian Bloom,United Kingdom,38502.0,Energy
+FinData-485,The Chevy Financial,US,65172.0,Health Care
+FinData-486,Canadian Apple,United Kingdom,6468.0,Financials
+FinData-487,American Bloom,US,6935.0,Energy
+FinData-488,A Python,United Kingdom,57222.0,Technology
+FinData-489,The Red Incorporated,,33893.0,Technology
+FinData-490,A Red Financial,United States,82190.0,Industrial
+FinData-491,A Red LLC,United States,58173.0,Energy
+FinData-492,Canadian Chevy Mutual,United States,53978.0,Technology
+FinData-493,English Rust Financial,United Kingdom,16149.0,Financials
+FinData-494,American Apple Company,US,76762.0,Health Care
+FinData-495,Canadian Apple,Canada,5475.0,Technology
+FinData-496,The Chevy Company,Canada,1405.0,Health Care
+FinData-497,A Ford LLC,England,,Energy
+FinData-498,American Chevy Limited,US,,Industrial
+FinData-499,English Apple,,92546.0,Industrial
+FinData-500,A Ford Consulting,,62757.0,Industrial
+FinData-501,Canadian Apple,United States,28745.0,Health Care
+FinData-502,American Bloom,Canada,69145.0,Health Care
+FinData-503,American Orange Consulting,England,,Financials
+FinData-504,American Theory,US,80742.0,Energy
+FinData-505,English Discord,US,37781.0,Health Care
+FinData-506,Canadian Discord,US,55243.0,Technology
+FinData-507,American Orange Financial,United States,55756.0,
+FinData-508,English Red inc.,,86104.0,Industrial
+FinData-509,English Theory LLC,US,,Technology
+FinData-510,A Theory Mutual,United States,43441.0,Energy
+FinData-511,English Ford inc.,United States,52510.0,Industrial
+FinData-512,American Apple Incorporated,England,68926.0,Industrial
+FinData-513,Canadian Apple Consulting,United Kingdom,,Financials
+FinData-514,The Rust inc.,,73246.0,Technology
+FinData-515,American Bloom inc.,US,68922.0,Financials
+FinData-516,Canadian Apple Consulting,US,86372.0,Health Care
+FinData-517,A Chevy,England,47772.0,Technology
+FinData-518,Canadian Chevy,US,,Health Care
+FinData-519,American Python LLC,United Kingdom,34574.0,Technology
+FinData-520,Canadian Apple Company,,25510.0,
+FinData-521,The Theory,US,36701.0,Technology
+FinData-522,A Ford,Canada,,Industrial
+FinData-523,The Micro Incorporated,United Kingdom,71161.0,Financials
+FinData-524,Canadian Rust,United States,11762.0,Financials
+FinData-525,A Chevy Financial,US,31615.0,
+FinData-526,Canadian Rust Company,England,6467.0,Energy
+FinData-527,A Ford,US,92947.0,Technology
+FinData-528,A Micro,United States,,Health Care
+FinData-529,Canadian Apple,Canada,20576.0,Health Care
+FinData-530,American Micro,Canada,29108.0,Health Care
+FinData-531,A Red,US,10999.0,Health Care
+FinData-532,The Micro,United States,64368.0,Health Care
+FinData-533,A Red inc.,US,43138.0,Financials
+FinData-534,Canadian Micro,Canada,24731.0,Health Care
+FinData-535,Canadian Orange,Canada,92953.0,Industrial
+FinData-536,English Ford LLC,US,82039.0,Energy
+FinData-537,English Bloom Incorporated,England,62338.0,Technology
+FinData-538,The Micro Mutual,United States,,Industrial
+FinData-539,The Discord,,63163.0,Health Care
+FinData-540,The Bloom Incorporated,United Kingdom,83975.0,Financials
+FinData-541,American Apple Company,US,63854.0,Technology
+FinData-542,Canadian Theory LLC,United Kingdom,92547.0,Financials
+FinData-543,The Orange Company,England,49733.0,Industrial
+FinData-544,The Theory Company,England,2926.0,Technology
+FinData-545,American Theory,England,23174.0,Health Care
+FinData-546,A Ford,United Kingdom,45796.0,Health Care
+FinData-547,Canadian Ford Financial,Canada,81886.0,Financials
+FinData-548,American Orange Limited,United States,1334.0,Technology
+FinData-549,Canadian Ford,US,30212.0,Technology
+FinData-550,A Chevy,US,46065.0,Industrial
+FinData-551,English Theory Limited,United States,,Financials
+FinData-552,American Micro,Canada,64228.0,Industrial
+FinData-553,English Bloom Financial,,36502.0,Financials
+FinData-554,Canadian Red,United Kingdom,94296.0,Industrial
+FinData-555,English Theory,United Kingdom,81706.0,Technology
+FinData-556,A Micro Limited,United States,62594.0,Technology
+FinData-557,A Ford Company,Canada,,Industrial
+FinData-558,English Orange,England,49400.0,Industrial
+FinData-559,English Ford Incorporated,England,96289.0,Technology
+FinData-560,A Rust Mutual,US,62739.0,Energy
+FinData-561,English Python,Canada,13555.0,Technology
+FinData-562,American Bloom,United States,59259.0,Health Care
+FinData-563,Canadian Ford Limited,United Kingdom,,Industrial
+FinData-564,English Orange,Canada,41824.0,Energy
+FinData-565,The Python,,41303.0,Industrial
+FinData-566,English Orange inc.,England,99201.0,Industrial
+FinData-567,The Theory,United States,90102.0,Health Care
+FinData-568,The Orange Financial,US,83391.0,Technology
+FinData-569,English Theory,England,89226.0,
+FinData-570,A Python,United States,,Health Care
+FinData-571,English Apple,United States,42308.0,Health Care
+FinData-572,English Apple Mutual,United Kingdom,15170.0,Technology
+FinData-573,A Orange Limited,England,62000.0,Health Care
+FinData-574,English Red,Canada,33169.0,Energy
+FinData-575,English Red inc.,United Kingdom,,Financials
+FinData-576,English Discord,United States,40526.0,Technology
+FinData-577,Canadian Apple Company,Canada,87011.0,Health Care
+FinData-578,American Ford,Canada,71140.0,Industrial
+FinData-579,A Red Limited,United Kingdom,1438.0,Health Care
+FinData-580,American Python,England,11353.0,Financials
+FinData-581,English Micro,England,,Technology
+FinData-582,A Rust Financial,Canada,35314.0,Financials
+FinData-583,English Chevy inc.,United Kingdom,33934.0,Health Care
+FinData-584,The Red,United States,67814.0,Energy
+FinData-585,English Python,US,31883.0,Technology
+FinData-586,A Chevy Limited,United Kingdom,72674.0,Financials
+FinData-587,Canadian Apple,United Kingdom,28473.0,Financials
+FinData-588,The Python Company,United Kingdom,5501.0,Energy
+FinData-589,American Rust,England,89109.0,
+FinData-590,American Discord Consulting,United Kingdom,,Industrial
+FinData-591,English Red,England,,Energy
+FinData-592,The Micro LLC,United States,80022.0,Technology
+FinData-593,Canadian Theory inc.,United Kingdom,27694.0,Industrial
+FinData-594,Canadian Discord,,78941.0,
+FinData-595,A Rust Incorporated,US,15383.0,Technology
+FinData-596,American Ford Company,US,27110.0,Health Care
+FinData-597,The Python,,43636.0,Industrial
+FinData-598,American Theory,US,80220.0,
+FinData-599,A Python,Canada,3481.0,Technology
+FinData-600,A Bloom,United States,61766.0,Health Care
+FinData-601,Canadian Micro Limited,Canada,70171.0,Technology
+FinData-602,Canadian Orange,Canada,,Health Care
+FinData-603,A Chevy Financial,US,93796.0,Financials
+FinData-604,English Bloom,United Kingdom,7598.0,Financials
+FinData-605,American Ford Mutual,United States,69679.0,Health Care
+FinData-606,The Apple inc.,US,83823.0,Technology
+FinData-607,The Chevy,United States,4930.0,Industrial
+FinData-608,Canadian Theory,United Kingdom,37244.0,Financials
+FinData-609,A Red inc.,,55502.0,Industrial
+FinData-610,American Discord,United States,95240.0,Industrial
+FinData-611,English Python LLC,US,65112.0,Energy
+FinData-612,English Red,United Kingdom,72825.0,Industrial
+FinData-613,American Red,US,,Technology
+FinData-614,Canadian Discord Incorporated,United States,71752.0,Health Care
+FinData-615,American Theory Incorporated,United States,50085.0,Financials
+FinData-616,The Python inc.,Canada,9682.0,Technology
+FinData-617,English Ford Limited,United Kingdom,65657.0,Health Care
+FinData-618,Canadian Red,Canada,,Health Care
+FinData-619,Canadian Theory,US,12100.0,Industrial
+FinData-620,English Theory Company,Canada,19713.0,Health Care
+FinData-621,A Orange,Canada,54317.0,Financials
+FinData-622,English Ford,US,37622.0,Health Care
+FinData-623,The Apple,,42069.0,Technology
+FinData-624,American Rust,US,25944.0,Health Care
+FinData-625,Canadian Apple,United Kingdom,92746.0,Financials
+FinData-626,A Theory,Canada,,Energy
+FinData-627,English Micro,United States,62984.0,Energy
+FinData-628,American Ford Mutual,US,51347.0,Health Care
+FinData-629,English Orange,United States,,Technology
+FinData-630,American Bloom,United Kingdom,75943.0,Financials
+FinData-631,Canadian Chevy inc.,Canada,,Health Care
+FinData-632,American Orange Financial,US,81447.0,Industrial
+FinData-633,American Rust,United Kingdom,25663.0,Technology
+FinData-634,The Theory Limited,Canada,,Energy
+FinData-635,Canadian Micro,United States,,Health Care
+FinData-636,Canadian Bloom,United States,4977.0,Financials
+FinData-637,The Ford Limited,United Kingdom,25642.0,Energy
+FinData-638,A Chevy Incorporated,United Kingdom,,Health Care
+FinData-639,The Red,,64611.0,Financials
+FinData-640,The Bloom,United Kingdom,95832.0,Energy
+FinData-641,The Micro,Canada,54660.0,Technology
+FinData-642,English Bloom inc.,England,11410.0,Industrial
+FinData-643,The Ford inc.,United States,63294.0,Technology
+FinData-644,American Python,US,6267.0,Industrial
+FinData-645,English Apple,United States,31714.0,Health Care
+FinData-646,Canadian Red Financial,Canada,90575.0,Industrial
+FinData-647,A Red,United Kingdom,95544.0,Industrial
+FinData-648,English Chevy,Canada,93374.0,Technology
+FinData-649,Canadian Bloom LLC,,25493.0,Technology
+FinData-650,The Chevy,Canada,93915.0,Energy
+FinData-651,Canadian Python,United Kingdom,7978.0,Industrial
+FinData-652,The Ford Incorporated,United States,22130.0,Health Care
+FinData-653,The Orange Incorporated,United Kingdom,,Financials
+FinData-654,The Ford,United States,83050.0,Financials
+FinData-655,American Bloom,US,40775.0,Energy
+FinData-656,A Bloom,United Kingdom,38811.0,Health Care
+FinData-657,Canadian Orange,United States,20103.0,Health Care
+FinData-658,English Discord,US,48403.0,Financials
+FinData-659,English Theory,US,16940.0,Technology
+FinData-660,The Red inc.,Canada,33558.0,Industrial
+FinData-661,The Orange,Canada,34854.0,Industrial
+FinData-662,English Red,United Kingdom,,Technology
+FinData-663,A Micro inc.,England,87140.0,Energy
+FinData-664,Canadian Theory Financial,United States,41704.0,Health Care
+FinData-665,Canadian Bloom,Canada,61933.0,
+FinData-666,The Theory Company,United States,,Energy
+FinData-667,The Chevy Consulting,United States,98255.0,Technology
+FinData-668,Canadian Chevy,England,60555.0,Technology
+FinData-669,Canadian Micro,US,52634.0,Technology
+FinData-670,The Discord,US,69758.0,Industrial
+FinData-671,A Chevy,United Kingdom,88801.0,Health Care
+FinData-672,Canadian Red Incorporated,United States,4717.0,Industrial
+FinData-673,English Rust,US,93529.0,
+FinData-674,American Orange,United Kingdom,20148.0,Technology
+FinData-675,English Bloom,England,92803.0,
+FinData-676,Canadian Discord,United States,,Energy
+FinData-677,The Bloom inc.,US,37352.0,Financials
+FinData-678,American Chevy,United Kingdom,72763.0,Technology
+FinData-679,A Micro LLC,US,8803.0,Financials
+FinData-680,American Discord,United States,67788.0,Energy
+FinData-681,English Rust,England,,Health Care
+FinData-682,English Micro,US,95912.0,Energy
+FinData-683,English Micro Consulting,United Kingdom,64607.0,Health Care
+FinData-684,English Discord Mutual,United States,,Technology
+FinData-685,A Bloom,,89883.0,Energy
+FinData-686,A Chevy Mutual,United Kingdom,47586.0,Technology
+FinData-687,The Bloom Mutual,England,99178.0,Technology
+FinData-688,Canadian Ford Financial,,91103.0,Financials
+FinData-689,The Chevy,England,4431.0,Technology
+FinData-690,Canadian Orange,US,,
+FinData-691,English Ford,US,16889.0,Industrial
+FinData-692,American Red,US,52196.0,Financials
+FinData-693,Canadian Theory,US,88983.0,
+FinData-694,Canadian Rust Incorporated,Canada,74541.0,Technology
+FinData-695,A Ford inc.,Canada,75137.0,Financials
+FinData-696,Canadian Theory,England,25151.0,Financials
+FinData-697,A Rust,United Kingdom,19709.0,
+FinData-698,American Red inc.,US,,Health Care
+FinData-699,English Chevy,US,79303.0,Financials
+FinData-700,American Apple Company,United Kingdom,18420.0,Energy
+FinData-701,A Discord inc.,England,46112.0,Energy
+FinData-702,The Theory Consulting,United Kingdom,,Industrial
+FinData-703,Canadian Theory,,,Energy
+FinData-704,Canadian Discord,United Kingdom,,Energy
+FinData-705,The Ford,United Kingdom,52296.0,Industrial
+FinData-706,American Red,United Kingdom,52702.0,Industrial
+FinData-707,American Bloom LLC,Canada,10564.0,Financials
+FinData-708,American Python Incorporated,,4187.0,Energy
+FinData-709,The Python Incorporated,England,41841.0,Financials
+FinData-710,English Python Mutual,United Kingdom,36316.0,Health Care
+FinData-711,The Red,Canada,29006.0,Health Care
+FinData-712,Canadian Micro,England,46138.0,Energy
+FinData-713,English Red,United Kingdom,23113.0,Health Care
+FinData-714,English Apple,United Kingdom,67510.0,Technology
+FinData-715,A Theory Mutual,England,92184.0,Health Care
+FinData-716,A Red,US,2381.0,
+FinData-717,A Python,United States,53599.0,Industrial
+FinData-718,Canadian Chevy,England,26717.0,Health Care
+FinData-719,The Apple,Canada,28522.0,Health Care
+FinData-720,Canadian Theory,England,26767.0,Energy
+FinData-721,The Ford,United Kingdom,,Technology
+FinData-722,Canadian Red,US,92035.0,Health Care
+FinData-723,A Chevy LLC,England,75481.0,Energy
+FinData-724,A Orange Financial,United States,5323.0,Energy
+FinData-725,English Red Financial,England,92221.0,Financials
+FinData-726,American Micro,,35444.0,Industrial
+FinData-727,Canadian Discord Financial,England,75314.0,Financials
+FinData-728,English Discord Financial,,38229.0,Financials
+FinData-729,A Orange,Canada,26317.0,Health Care
+FinData-730,English Red Limited,Canada,17563.0,Energy
+FinData-731,English Red Financial,United Kingdom,32407.0,Health Care
+FinData-732,A Chevy,United States,25110.0,Financials
+FinData-733,A Python,England,50575.0,
+FinData-734,The Red LLC,Canada,26572.0,Industrial
+FinData-735,The Discord,United Kingdom,39685.0,Health Care
+FinData-736,American Chevy Limited,England,77275.0,Financials
+FinData-737,American Micro Mutual,United Kingdom,15062.0,Financials
+FinData-738,The Bloom Consulting,United States,52615.0,Technology
+FinData-739,American Micro,United States,5691.0,Technology
+FinData-740,American Apple Limited,US,,Energy
+FinData-741,A Python Consulting,Canada,56422.0,Industrial
+FinData-742,American Micro Limited,US,70117.0,Industrial
+FinData-743,English Chevy,United Kingdom,1717.0,Energy
+FinData-744,Canadian Apple,United States,17068.0,Technology
+FinData-745,The Apple,,86369.0,Energy
+FinData-746,English Theory,,,Technology
+FinData-747,The Apple inc.,Canada,,Health Care
+FinData-748,A Python,United States,16137.0,Energy
+FinData-749,A Python Company,United Kingdom,51170.0,Health Care
+FinData-750,American Theory,United States,62794.0,Financials
+FinData-751,American Theory,US,25132.0,Energy
+FinData-752,American Bloom Financial,US,16074.0,Energy
+FinData-753,English Discord inc.,United Kingdom,34757.0,
+FinData-754,The Theory,United States,63642.0,Health Care
+FinData-755,English Ford Financial,Canada,39165.0,Financials
+FinData-756,English Bloom Financial,United States,,Industrial
+FinData-757,American Python,United Kingdom,,Industrial
+FinData-758,A Discord,United Kingdom,79597.0,Energy
+FinData-759,A Rust,US,18627.0,Technology
+FinData-760,The Rust,Canada,89626.0,Health Care
+FinData-761,A Apple,US,62999.0,Technology
+FinData-762,English Micro,United Kingdom,14610.0,Energy
+FinData-763,American Chevy,,6493.0,Industrial
+FinData-764,A Discord inc.,US,31417.0,Industrial
+FinData-765,American Apple,England,93365.0,Energy
+FinData-766,The Theory,Canada,46397.0,Financials
+FinData-767,The Python Financial,England,42523.0,Financials
+FinData-768,English Red,United Kingdom,25261.0,Financials
+FinData-769,American Apple,,18751.0,Energy
+FinData-770,Canadian Rust LLC,,83720.0,
+FinData-771,Canadian Chevy,England,99965.0,Technology
+FinData-772,English Red LLC,United Kingdom,87668.0,Energy
+FinData-773,A Bloom,,83508.0,Energy
+FinData-774,Canadian Red Financial,US,78111.0,Energy
+FinData-775,American Red,United Kingdom,18621.0,Health Care
+FinData-776,The Red Mutual,United States,59668.0,Financials
+FinData-777,Canadian Chevy Consulting,England,2626.0,Industrial
+FinData-778,American Discord Company,US,91219.0,Health Care
+FinData-779,A Bloom,United Kingdom,,Health Care
+FinData-780,Canadian Red,England,52839.0,Energy
+FinData-781,Canadian Ford Company,England,74403.0,Financials
+FinData-782,American Red,,,Industrial
+FinData-783,Canadian Discord Company,Canada,95961.0,Industrial
+FinData-784,American Bloom Consulting,Canada,,Health Care
+FinData-785,American Theory Incorporated,England,67652.0,Industrial
+FinData-786,The Rust Company,United Kingdom,1190.0,Financials
+FinData-787,The Apple Mutual,Canada,41696.0,Energy
+FinData-788,American Python,England,95080.0,Industrial
+FinData-789,A Discord inc.,,,Technology
+FinData-790,English Apple LLC,Canada,95929.0,Technology
+FinData-791,A Rust,US,89192.0,Energy
+FinData-792,American Micro,England,92773.0,Energy
+FinData-793,Canadian Apple,,85298.0,Industrial
+FinData-794,Canadian Discord LLC,United States,10370.0,Energy
+FinData-795,A Ford,US,55089.0,Technology
+FinData-796,A Apple,United States,56788.0,Health Care
+FinData-797,The Micro Company,United Kingdom,14483.0,Financials
+FinData-798,The Apple,Canada,75976.0,Financials
+FinData-799,The Orange,US,,Technology
+FinData-800,The Python,US,25880.0,Industrial

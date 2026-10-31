@@ -1,0 +1,1001 @@
+company_id,company_name,country,registration_id,industry
+COMP-00001,Canadian Theory,US,18106,Health Care
+COMP-00002,A Discord,Canada,93508,Industrial
+COMP-00003,A Rust,Canada,87004,Health Care
+COMP-00004,A Ford,England,33638,Industrial
+COMP-00005,A Python,England,85181,Industrial
+COMP-00006,American Python,United Kingdom,38290,Industrial
+COMP-00007,A Orange,United Kingdom,93866,Financials
+COMP-00008,Canadian Apple,United Kingdom,62072,Technology
+COMP-00009,Canadian Theory,United Kingdom,92547,Financials
+COMP-00010,English Rust,United States,87379,Energy
+COMP-00011,A Ford,US,90246,Energy
+COMP-00012,English Red,United Kingdom,2949,Financials
+COMP-00013,American Red,US,12067,Financials
+COMP-00014,The Chevy,United Kingdom,89501,Financials
+COMP-00015,The Ford,United States,83050,Financials
+COMP-00016,Canadian Chevy,United Kingdom,28341,Health Care
+COMP-00017,The Discord,United Kingdom,34151,Health Care
+COMP-00018,Canadian Chevy,England,99965,Technology
+COMP-00019,Canadian Chevy,US,87740,Health Care
+COMP-00020,Canadian Discord,England,72355,Industrial
+COMP-00021,Canadian Chevy,United States,41425,Health Care
+COMP-00022,English Chevy,Canada,92309,Financials
+COMP-00023,English Python,United States,56007,Industrial
+COMP-00024,American Discord,United States,67788,Energy
+COMP-00025,American Orange,Canada,71195,Health Care
+COMP-00026,The Orange,United States,14203,Industrial
+COMP-00027,The Rust,United States,50498,Technology
+COMP-00028,A Discord,United States,46058,Industrial
+COMP-00029,Canadian Theory,England,11284,Health Care
+COMP-00030,American Ford,US,67294,Industrial
+COMP-00031,Canadian Orange,Canada,67122,Technology
+COMP-00032,Canadian Red,United Kingdom,58583,Energy
+COMP-00033,A Micro,United States,38524,Health Care
+COMP-00034,The Red,England,25557,Energy
+COMP-00035,English Ford,US,37622,Health Care
+COMP-00036,Canadian Apple,United Kingdom,92746,Financials
+COMP-00037,American Red,US,52196,Financials
+COMP-00038,Canadian Orange,United States,20103,Health Care
+COMP-00039,A Micro,US,51150,Health Care
+COMP-00040,The Chevy,US,65172,Health Care
+COMP-00041,Canadian Micro,Canada,98825,Technology
+COMP-00042,American Chevy,Canada,20695,Health Care
+COMP-00043,A Ford,England,63401,Financials
+COMP-00044,Canadian Bloom,US,11350,Health Care
+COMP-00045,English Ford,United Kingdom,34115,Energy
+COMP-00046,American Orange,US,11743,Financials
+COMP-00047,The Python,Canada,43636,Industrial
+COMP-00048,Canadian Bloom,United States,91316,Technology
+COMP-00049,The Chevy,Canada,36976,Energy
+COMP-00050,Canadian Discord,US,55243,Technology
+COMP-00051,American Apple,US,92036,Health Care
+COMP-00052,Canadian Ford,United States,4074,Health Care
+COMP-00053,The Chevy,United States,4930,Industrial
+COMP-00054,English Theory,United States,24134,Industrial
+COMP-00055,American Python,Canada,28974,Health Care
+COMP-00056,English Theory,United States,17232,Financials
+COMP-00057,English Chevy,United Kingdom,73391,Health Care
+COMP-00058,American Red,England,10180,Industrial
+COMP-00059,The Python,England,42523,Financials
+COMP-00060,American Red,United Kingdom,99599,Technology
+COMP-00061,The Discord,United States,93595,Industrial
+COMP-00062,Canadian Python,Canada,50290,Health Care
+COMP-00063,The Ford,United Kingdom,69140,Health Care
+COMP-00064,A Ford,United States,88566,Industrial
+COMP-00065,A Python,Canada,31503,Industrial
+COMP-00066,A Bloom,England,69717,Health Care
+COMP-00067,Canadian Rust,England,6467,Energy
+COMP-00068,Canadian Orange,England,63653,Technology
+COMP-00069,A Rust,United Kingdom,46841,Technology
+COMP-00070,A Ford,United States,69985,Energy
+COMP-00071,Canadian Red,United States,87131,Energy
+COMP-00072,American Discord,US,98149,Health Care
+COMP-00073,Canadian Ford,Canada,81886,Financials
+COMP-00074,American Discord,United Kingdom,9434,Industrial
+COMP-00075,Canadian Bloom,England,46206,Industrial
+COMP-00076,American Apple,United Kingdom,2326,Energy
+COMP-00077,A Rust,US,40587,Financials
+COMP-00078,The Ford,United States,22130,Health Care
+COMP-00079,American Red,United Kingdom,32683,Technology
+COMP-00080,The Rust,United States,77039,Technology
+COMP-00081,The Ford,United Kingdom,84709,Energy
+COMP-00082,English Micro,England,39497,Energy
+COMP-00083,Canadian Chevy,United Kingdom,64865,Technology
+COMP-00084,A Red,US,10999,Health Care
+COMP-00085,Canadian Rust,Canada,74852,Financials
+COMP-00086,A Bloom,United Kingdom,49874,Financials
+COMP-00087,American Apple,US,99704,Energy
+COMP-00088,The Bloom,United States,52615,Technology
+COMP-00089,Canadian Chevy,United States,38298,Technology
+COMP-00090,Canadian Rust,United States,3490,Energy
+COMP-00091,Canadian Chevy,United States,69264,Health Care
+COMP-00092,A Chevy,US,31615,Financials
+COMP-00093,English Rust,Canada,67820,Energy
+COMP-00094,A Discord,United Kingdom,79597,Energy
+COMP-00095,American Theory,US,25132,Energy
+COMP-00096,The Red,Canada,97127,Financials
+COMP-00097,A Python,Canada,59866,Energy
+COMP-00098,A Python,United Kingdom,57222,Technology
+COMP-00099,American Orange,United Kingdom,20148,Technology
+COMP-00100,The Apple,Canada,80423,Health Care
+COMP-00101,American Discord,US,42731,Industrial
+COMP-00102,American Rust,Canada,88551,Energy
+COMP-00103,English Chevy,US,37354,Financials
+COMP-00104,English Python,US,4403,Energy
+COMP-00105,A Red,Canada,63875,Industrial
+COMP-00106,A Discord,England,25257,Industrial
+COMP-00107,A Rust,United Kingdom,17772,Health Care
+COMP-00108,Canadian Python,Canada,34542,Technology
+COMP-00109,American Micro,Canada,64228,Industrial
+COMP-00110,The Red,Canada,73304,Industrial
+COMP-00111,Canadian Red,England,63249,Technology
+COMP-00112,English Chevy,United Kingdom,33934,Health Care
+COMP-00113,A Red,US,96545,Industrial
+COMP-00114,American Micro,US,70117,Industrial
+COMP-00115,A Ford,United States,99114,Health Care
+COMP-00116,A Bloom,Canada,41026,Technology
+COMP-00117,Canadian Theory,US,89435,Health Care
+COMP-00118,The Ford,US,66265,Industrial
+COMP-00119,The Apple,US,67012,Financials
+COMP-00120,A Micro,United Kingdom,98263,Industrial
+COMP-00121,English Rust,Canada,1760,Financials
+COMP-00122,English Rust,England,9323,Health Care
+COMP-00123,The Red,England,76213,Health Care
+COMP-00124,Canadian Apple,US,86372,Health Care
+COMP-00125,Canadian Chevy,Canada,26349,Financials
+COMP-00126,The Red,Canada,46681,Financials
+COMP-00127,A Python,England,80442,Financials
+COMP-00128,American Orange,US,17762,Industrial
+COMP-00129,A Rust,England,63250,Technology
+COMP-00130,Canadian Discord,US,77783,Industrial
+COMP-00131,Canadian Bloom,United Kingdom,38502,Energy
+COMP-00132,English Ford,England,50431,Health Care
+COMP-00133,American Bloom,US,6935,Energy
+COMP-00134,The Theory,United States,33002,Energy
+COMP-00135,English Orange,United States,30878,Technology
+COMP-00136,Canadian Orange,United Kingdom,4139,Energy
+COMP-00137,English Rust,United Kingdom,14369,Technology
+COMP-00138,English Orange,US,77586,Financials
+COMP-00139,English Ford,United Kingdom,65657,Health Care
+COMP-00140,English Theory,US,45993,Technology
+COMP-00141,American Theory,England,23174,Health Care
+COMP-00142,A Chevy,United Kingdom,47586,Technology
+COMP-00143,English Red,US,16794,Industrial
+COMP-00144,The Orange,United Kingdom,95744,Energy
+COMP-00145,A Micro,England,23433,Financials
+COMP-00146,Canadian Red,United States,4717,Industrial
+COMP-00147,English Apple,United Kingdom,67510,Technology
+COMP-00148,A Discord,United Kingdom,20620,Health Care
+COMP-00149,A Chevy,United Kingdom,27826,Technology
+COMP-00150,The Theory,England,37476,Health Care
+COMP-00151,The Ford,United Kingdom,25642,Energy
+COMP-00152,The Apple,United States,33580,Industrial
+COMP-00153,The Ford,United Kingdom,89600,Energy
+COMP-00154,English Theory,England,89226,Energy
+COMP-00155,A Bloom,US,92890,Health Care
+COMP-00156,English Apple,Canada,56272,Technology
+COMP-00157,A Bloom,United States,68906,Technology
+COMP-00158,English Red,Canada,33169,Energy
+COMP-00159,English Chevy,US,79303,Financials
+COMP-00160,The Discord,US,69758,Industrial
+COMP-00161,The Chevy,England,75395,Technology
+COMP-00162,English Chevy,US,31686,Energy
+COMP-00163,A Ford,England,82871,Energy
+COMP-00164,American Ford,US,27110,Health Care
+COMP-00165,English Apple,Canada,7222,Energy
+COMP-00166,English Orange,England,9847,Industrial
+COMP-00167,Canadian Orange,US,78397,Financials
+COMP-00168,A Discord,United Kingdom,44345,Financials
+COMP-00169,A Python,United States,53599,Industrial
+COMP-00170,Canadian Rust,United Kingdom,23076,Energy
+COMP-00171,A Ford,US,36728,Industrial
+COMP-00172,English Python,Canada,98067,Industrial
+COMP-00173,A Micro,United States,78338,Industrial
+COMP-00174,The Chevy,Canada,93915,Energy
+COMP-00175,American Discord,United States,6083,Energy
+COMP-00176,A Red,United Kingdom,95544,Industrial
+COMP-00177,Canadian Rust,Canada,92401,Financials
+COMP-00178,Canadian Red,United Kingdom,96402,Industrial
+COMP-00179,A Chevy,Canada,92078,Industrial
+COMP-00180,The Ford,Canada,61595,Industrial
+COMP-00181,The Rust,Canada,8225,Technology
+COMP-00182,A Micro,US,8803,Financials
+COMP-00183,English Micro,United Kingdom,52093,Financials
+COMP-00184,A Orange,United Kingdom,20631,Energy
+COMP-00185,A Micro,England,75631,Industrial
+COMP-00186,The Ford,England,36318,Technology
+COMP-00187,A Python,US,77696,Health Care
+COMP-00188,American Micro,Canada,35444,Industrial
+COMP-00189,The Orange,US,74150,Technology
+COMP-00190,The Discord,US,71640,Industrial
+COMP-00191,English Micro,United Kingdom,14610,Energy
+COMP-00192,The Chevy,Canada,1405,Health Care
+COMP-00193,American Python,Canada,96531,Financials
+COMP-00194,American Red,US,94804,Technology
+COMP-00195,The Red,Canada,33558,Industrial
+COMP-00196,The Bloom,US,25851,Energy
+COMP-00197,English Red,United States,70035,Health Care
+COMP-00198,A Red,United States,82190,Industrial
+COMP-00199,The Python,United States,94957,Industrial
+COMP-00200,The Red,Canada,55800,Financials
+COMP-00201,Canadian Bloom,United States,25493,Technology
+COMP-00202,A Bloom,England,46754,Health Care
+COMP-00203,A Python,Canada,3481,Technology
+COMP-00204,The Red,United States,2713,Financials
+COMP-00205,A Apple,United States,47195,Energy
+COMP-00206,American Ford,US,9724,Health Care
+COMP-00207,The Discord,United States,53398,Financials
+COMP-00208,Canadian Apple,United Kingdom,28473,Financials
+COMP-00209,The Chevy,United Kingdom,18972,Health Care
+COMP-00210,A Python,England,66018,Industrial
+COMP-00211,Canadian Bloom,Canada,61933,Technology
+COMP-00212,A Apple,US,94356,Industrial
+COMP-00213,American Chevy,US,58576,Energy
+COMP-00214,American Python,Canada,37105,Health Care
+COMP-00215,Canadian Micro,United Kingdom,86168,Health Care
+COMP-00216,Canadian Discord,United Kingdom,33117,Technology
+COMP-00217,English Bloom,US,50654,Industrial
+COMP-00218,A Red,Canada,55502,Industrial
+COMP-00219,American Rust,United States,32259,Energy
+COMP-00220,Canadian Orange,Canada,83764,Energy
+COMP-00221,English Chevy,England,72934,Technology
+COMP-00222,The Chevy,US,69799,Financials
+COMP-00223,English Ford,United Kingdom,16657,Energy
+COMP-00224,A Red,Canada,48640,Energy
+COMP-00225,A Micro,US,59878,Energy
+COMP-00226,The Apple,Canada,98693,Energy
+COMP-00227,English Ford,US,16889,Industrial
+COMP-00228,The Orange,England,33962,Energy
+COMP-00229,The Orange,England,62778,Industrial
+COMP-00230,English Discord,United Kingdom,53121,Financials
+COMP-00231,A Micro,England,83729,Financials
+COMP-00232,Canadian Chevy,England,42609,Financials
+COMP-00233,American Apple,United Kingdom,61585,Health Care
+COMP-00234,American Bloom,Canada,69145,Health Care
+COMP-00235,American Theory,United States,50085,Financials
+COMP-00236,A Apple,England,12583,Financials
+COMP-00237,American Theory,Canada,57474,Technology
+COMP-00238,Canadian Apple,United States,23028,Industrial
+COMP-00239,A Chevy,US,93796,Financials
+COMP-00240,The Theory,US,24521,Energy
+COMP-00241,American Apple,England,93365,Energy
+COMP-00242,American Theory,US,97534,Financials
+COMP-00243,Canadian Micro,United States,82176,Industrial
+COMP-00244,The Micro,Canada,58369,Industrial
+COMP-00245,English Chevy,United Kingdom,1717,Energy
+COMP-00246,A Red,United States,58173,Energy
+COMP-00247,A Bloom,United Kingdom,83508,Energy
+COMP-00248,Canadian Rust,US,29200,Industrial
+COMP-00249,English Python,US,45784,Health Care
+COMP-00250,The Apple,England,75609,Energy
+COMP-00251,English Rust,US,53195,Financials
+COMP-00252,Canadian Theory,United Kingdom,27694,Industrial
+COMP-00253,Canadian Chevy,US,59305,Industrial
+COMP-00254,A Ford,US,55089,Technology
+COMP-00255,The Micro,United States,35523,Financials
+COMP-00256,The Ford,US,65322,Health Care
+COMP-00257,Canadian Micro,United States,83583,Technology
+COMP-00258,The Discord,United States,69636,Technology
+COMP-00259,The Apple,Canada,41696,Energy
+COMP-00260,Canadian Red,United States,52123,Energy
+COMP-00261,Canadian Ford,United Kingdom,91103,Financials
+COMP-00262,American Ford,United Kingdom,94595,Financials
+COMP-00263,The Micro,Canada,54660,Technology
+COMP-00264,Canadian Python,United Kingdom,7978,Industrial
+COMP-00265,The Chevy,United States,15893,Industrial
+COMP-00266,American Ford,England,24198,Financials
+COMP-00267,English Red,United Kingdom,87668,Energy
+COMP-00268,American Red,United Kingdom,52702,Industrial
+COMP-00269,English Apple,Canada,34149,Health Care
+COMP-00270,A Red,England,92245,Energy
+COMP-00271,The Python,England,41841,Financials
+COMP-00272,American Ford,United States,87928,Health Care
+COMP-00273,Canadian Rust,England,67064,Technology
+COMP-00274,English Orange,England,13150,Technology
+COMP-00275,A Red,United States,6204,Technology
+COMP-00276,Canadian Chevy,England,26717,Health Care
+COMP-00277,A Discord,US,31417,Industrial
+COMP-00278,Canadian Theory,United Kingdom,58420,Health Care
+COMP-00279,A Python,US,67279,Health Care
+COMP-00280,The Theory,Canada,94942,Financials
+COMP-00281,The Orange,United States,17924,Industrial
+COMP-00282,A Apple,United States,56788,Health Care
+COMP-00283,English Apple,United States,34059,Technology
+COMP-00284,The Red,England,33893,Technology
+COMP-00285,Canadian Theory,United States,6972,Financials
+COMP-00286,A Python,United Kingdom,9054,Energy
+COMP-00287,The Rust,Canada,89626,Health Care
+COMP-00288,American Chevy,US,80197,Industrial
+COMP-00289,Canadian Ford,US,30022,Energy
+COMP-00290,English Python,Canada,16769,Financials
+COMP-00291,English Ford,Canada,39165,Financials
+COMP-00292,Canadian Ford,Canada,26469,Energy
+COMP-00293,The Micro,United Kingdom,71161,Financials
+COMP-00294,American Discord,United Kingdom,71470,Energy
+COMP-00295,Canadian Theory,US,88983,Energy
+COMP-00296,A Ford,United States,80301,Energy
+COMP-00297,A Orange,England,62873,Financials
+COMP-00298,American Micro,US,92194,Health Care
+COMP-00299,A Apple,United States,87387,Health Care
+COMP-00300,A Python,United Kingdom,53972,Energy
+COMP-00301,Canadian Discord,United States,94034,Health Care
+COMP-00302,Canadian Rust,United States,58827,Energy
+COMP-00303,American Discord,Canada,21368,Health Care
+COMP-00304,American Apple,England,68926,Industrial
+COMP-00305,English Orange,United States,37132,Technology
+COMP-00306,The Chevy,US,73714,Technology
+COMP-00307,English Rust,US,93529,Energy
+COMP-00308,Canadian Discord,United Kingdom,78941,Health Care
+COMP-00309,American Orange,Canada,81914,Technology
+COMP-00310,Canadian Theory,United Kingdom,37244,Financials
+COMP-00311,English Theory,Canada,7471,Health Care
+COMP-00312,The Red,Canada,32486,Health Care
+COMP-00313,English Apple,United States,34793,Financials
+COMP-00314,English Ford,US,12816,Energy
+COMP-00315,English Ford,US,82039,Energy
+COMP-00316,American Discord,Canada,43913,Health Care
+COMP-00317,American Orange,Canada,89269,Health Care
+COMP-00318,A Micro,United States,96413,Energy
+COMP-00319,The Rust,US,58740,Health Care
+COMP-00320,The Rust,Canada,68459,Financials
+COMP-00321,Canadian Red,United States,3533,Health Care
+COMP-00322,American Micro,England,92773,Energy
+COMP-00323,English Discord,US,1420,Energy
+COMP-00324,Canadian Discord,United States,71752,Health Care
+COMP-00325,English Python,Canada,24545,Industrial
+COMP-00326,English Python,United Kingdom,84485,Technology
+COMP-00327,The Python,US,27266,Technology
+COMP-00328,Canadian Bloom,Canada,79567,Technology
+COMP-00329,Canadian Chevy,England,7997,Health Care
+COMP-00330,Canadian Python,US,75659,Energy
+COMP-00331,English Apple,United Kingdom,92546,Industrial
+COMP-00332,Canadian Red,Canada,2303,Health Care
+COMP-00333,The Rust,England,7117,Health Care
+COMP-00334,A Chevy,United Kingdom,72674,Financials
+COMP-00335,American Theory,US,80220,Financials
+COMP-00336,American Ford,US,51347,Health Care
+COMP-00337,English Bloom,England,11410,Industrial
+COMP-00338,American Orange,England,47688,Financials
+COMP-00339,Canadian Discord,Canada,95961,Industrial
+COMP-00340,Canadian Theory,US,12100,Industrial
+COMP-00341,English Micro,England,72533,Technology
+COMP-00342,The Red,United States,64611,Financials
+COMP-00343,A Orange,United States,16198,Industrial
+COMP-00344,Canadian Red,United Kingdom,50049,Energy
+COMP-00345,The Bloom,England,99178,Technology
+COMP-00346,American Bloom,England,46409,Technology
+COMP-00347,English Bloom,United States,36502,Financials
+COMP-00348,English Rust,Canada,32466,Financials
+COMP-00349,Canadian Ford,United Kingdom,17958,Industrial
+COMP-00350,American Bloom,US,40775,Energy
+COMP-00351,The Bloom,Canada,32757,Industrial
+COMP-00352,English Python,US,31883,Technology
+COMP-00353,American Chevy,England,77275,Financials
+COMP-00354,A Rust,England,96488,Industrial
+COMP-00355,The Ford,United States,63294,Technology
+COMP-00356,A Red,United States,58077,Health Care
+COMP-00357,English Discord,United Kingdom,34757,Industrial
+COMP-00358,A Ford,Canada,91560,Industrial
+COMP-00359,Canadian Micro,United States,59512,Health Care
+COMP-00360,English Theory,England,74619,Technology
+COMP-00361,Canadian Ford,United Kingdom,18656,Industrial
+COMP-00362,Canadian Micro,Canada,70171,Technology
+COMP-00363,The Red,England,62528,Technology
+COMP-00364,English Python,Canada,91642,Technology
+COMP-00365,Canadian Red,Canada,92377,Energy
+COMP-00366,American Bloom,United Kingdom,75943,Financials
+COMP-00367,Canadian Chevy,United Kingdom,91947,Health Care
+COMP-00368,American Rust,England,21334,Technology
+COMP-00369,A Micro,England,87140,Energy
+COMP-00370,American Discord,US,43329,Technology
+COMP-00371,American Red,US,95937,Health Care
+COMP-00372,A Red,United Kingdom,1438,Health Care
+COMP-00373,Canadian Theory,United Kingdom,40251,Technology
+COMP-00374,The Bloom,United States,15944,Health Care
+COMP-00375,English Discord,United States,40526,Technology
+COMP-00376,The Apple,US,78583,Industrial
+COMP-00377,American Ford,United States,69679,Health Care
+COMP-00378,American Orange,England,9564,Energy
+COMP-00379,A Orange,United States,5323,Energy
+COMP-00380,The Theory,US,36701,Technology
+COMP-00381,Canadian Orange,United States,44336,Technology
+COMP-00382,American Theory,US,51261,Health Care
+COMP-00383,The Apple,Canada,28522,Health Care
+COMP-00384,The Red,United Kingdom,14953,Energy
+COMP-00385,English Red,United Kingdom,76304,Technology
+COMP-00386,The Apple,US,42069,Technology
+COMP-00387,American Rust,United Kingdom,25663,Technology
+COMP-00388,English Theory,Canada,67963,Technology
+COMP-00389,English Red,United Kingdom,25261,Financials
+COMP-00390,American Theory,United Kingdom,77302,Technology
+COMP-00391,The Python,England,64715,Financials
+COMP-00392,A Rust,England,37900,Health Care
+COMP-00393,A Discord,United Kingdom,48818,Energy
+COMP-00394,The Python,Canada,39274,Industrial
+COMP-00395,A Red,United Kingdom,23988,Energy
+COMP-00396,The Apple,Canada,86369,Energy
+COMP-00397,A Theory,United Kingdom,39511,Health Care
+COMP-00398,English Bloom,England,47480,Energy
+COMP-00399,English Red,England,34393,Technology
+COMP-00400,The Rust,Canada,68429,Energy
+COMP-00401,A Ford,United Kingdom,49815,Industrial
+COMP-00402,The Chevy,England,4431,Technology
+COMP-00403,American Python,England,95080,Industrial
+COMP-00404,American Rust,England,24240,Energy
+COMP-00405,A Red,US,43138,Financials
+COMP-00406,English Apple,England,27693,Industrial
+COMP-00407,American Theory,England,61115,Industrial
+COMP-00408,A Chevy,United States,25110,Financials
+COMP-00409,American Orange,Canada,65880,Energy
+COMP-00410,English Rust,United Kingdom,16149,Financials
+COMP-00411,English Python,Canada,53425,Technology
+COMP-00412,English Micro,US,95912,Energy
+COMP-00413,Canadian Bloom,Canada,56234,Energy
+COMP-00414,English Red,United States,99761,Financials
+COMP-00415,The Ford,United Kingdom,52296,Industrial
+COMP-00416,A Apple,England,51742,Energy
+COMP-00417,The Chevy,United States,91940,Health Care
+COMP-00418,English Python,Canada,13555,Technology
+COMP-00419,A Micro,United Kingdom,1236,Technology
+COMP-00420,The Discord,Canada,69144,Technology
+COMP-00421,The Red,Canada,29006,Health Care
+COMP-00422,The Rust,US,1321,Industrial
+COMP-00423,A Chevy,Canada,46277,Financials
+COMP-00424,American Apple,US,93421,Health Care
+COMP-00425,The Apple,United Kingdom,94265,Health Care
+COMP-00426,American Bloom,United Kingdom,28749,Financials
+COMP-00427,A Discord,Canada,73233,Technology
+COMP-00428,American Ford,Canada,71140,Industrial
+COMP-00429,Canadian Bloom,United Kingdom,7569,Industrial
+COMP-00430,American Micro,Canada,6650,Industrial
+COMP-00431,English Apple,Canada,83240,Financials
+COMP-00432,American Theory,England,98147,Energy
+COMP-00433,Canadian Orange,England,83433,Industrial
+COMP-00434,The Bloom,US,37352,Financials
+COMP-00435,English Ford,England,29776,Health Care
+COMP-00436,American Bloom,United States,59259,Health Care
+COMP-00437,A Chevy,England,8009,Financials
+COMP-00438,English Red,Canada,17563,Energy
+COMP-00439,Canadian Bloom,United States,7847,Technology
+COMP-00440,Canadian Orange,United States,8473,Industrial
+COMP-00441,A Apple,US,36704,Financials
+COMP-00442,English Discord,Canada,38229,Financials
+COMP-00443,English Chevy,US,62252,Industrial
+COMP-00444,English Red,United Kingdom,52544,Health Care
+COMP-00445,Canadian Theory,United States,65879,Industrial
+COMP-00446,A Orange,Canada,58509,Health Care
+COMP-00447,Canadian Rust,Canada,12310,Financials
+COMP-00448,American Bloom,US,16074,Energy
+COMP-00449,English Discord,US,1806,Industrial
+COMP-00450,American Theory,England,6708,Financials
+COMP-00451,Canadian Ford,United Kingdom,89264,Health Care
+COMP-00452,The Discord,England,16844,Technology
+COMP-00453,Canadian Rust,Canada,93142,Industrial
+COMP-00454,Canadian Rust,US,49057,Financials
+COMP-00455,American Apple,Canada,85173,Technology
+COMP-00456,A Ford,Canada,4594,Industrial
+COMP-00457,Canadian Rust,Canada,14177,Technology
+COMP-00458,English Bloom,United States,32076,Industrial
+COMP-00459,A Bloom,United Kingdom,38811,Health Care
+COMP-00460,American Theory,United States,62794,Financials
+COMP-00461,Canadian Micro,US,93461,Financials
+COMP-00462,American Bloom,Canada,10564,Financials
+COMP-00463,A Rust,Canada,28900,Energy
+COMP-00464,American Red,US,98326,Financials
+COMP-00465,Canadian Bloom,United Kingdom,3636,Technology
+COMP-00466,A Python,United States,41365,Financials
+COMP-00467,American Theory,England,26207,Health Care
+COMP-00468,Canadian Red,US,92035,Health Care
+COMP-00469,A Python,United States,80824,Health Care
+COMP-00470,Canadian Rust,England,74475,Health Care
+COMP-00471,English Orange,Canada,75775,Energy
+COMP-00472,A Ford,US,90551,Industrial
+COMP-00473,A Theory,England,17703,Financials
+COMP-00474,The Red,United States,59668,Financials
+COMP-00475,American Theory,England,54518,Energy
+COMP-00476,American Discord,United States,95240,Industrial
+COMP-00477,English Bloom,United Kingdom,54792,Financials
+COMP-00478,A Rust,United Kingdom,19709,Energy
+COMP-00479,The Theory,Canada,46397,Financials
+COMP-00480,Canadian Ford,England,6870,Health Care
+COMP-00481,The Apple,US,67902,Industrial
+COMP-00482,A Theory,US,79259,Financials
+COMP-00483,English Chevy,United States,90224,Technology
+COMP-00484,A Chevy,England,37279,Technology
+COMP-00485,The Python,United States,95173,Technology
+COMP-00486,American Bloom,United States,41784,Financials
+COMP-00487,Canadian Orange,Canada,90772,Health Care
+COMP-00488,Canadian Discord,England,75314,Financials
+COMP-00489,Canadian Ford,United Kingdom,29167,Industrial
+COMP-00490,American Discord,England,22257,Health Care
+COMP-00491,English Discord,England,55007,Technology
+COMP-00492,English Chevy,United States,84366,Industrial
+COMP-00493,A Rust,US,62739,Energy
+COMP-00494,American Orange,US,53175,Technology
+COMP-00495,Canadian Chevy,England,97334,Technology
+COMP-00496,The Orange,Canada,34854,Industrial
+COMP-00497,The Rust,US,55790,Industrial
+COMP-00498,The Apple,US,90364,Energy
+COMP-00499,English Discord,Canada,96094,Technology
+COMP-00500,English Discord,United Kingdom,47168,Health Care
+COMP-00501,American Discord,United States,40316,Financials
+COMP-00502,Canadian Orange,United States,31664,Energy
+COMP-00503,A Ford,Canada,75137,Financials
+COMP-00504,English Python,US,47147,Health Care
+COMP-00505,The Chevy,England,6803,Health Care
+COMP-00506,Canadian Micro,England,48109,Technology
+COMP-00507,The Python,Canada,9682,Technology
+COMP-00508,The Bloom,US,23809,Energy
+COMP-00509,English Rust,England,92407,Health Care
+COMP-00510,American Bloom,Canada,15872,Health Care
+COMP-00511,Canadian Orange,United States,8764,Financials
+COMP-00512,A Chevy,England,47772,Technology
+COMP-00513,American Python,Canada,66798,Financials
+COMP-00514,A Chevy,Canada,23913,Technology
+COMP-00515,The Orange,England,76951,Energy
+COMP-00516,A Ford,US,62757,Industrial
+COMP-00517,American Rust,United States,19081,Financials
+COMP-00518,English Apple,Canada,72451,Industrial
+COMP-00519,English Orange,England,49400,Industrial
+COMP-00520,English Micro,United Kingdom,40030,Technology
+COMP-00521,A Red,US,9655,Industrial
+COMP-00522,The Rust,United Kingdom,1190,Financials
+COMP-00523,Canadian Red,England,52839,Energy
+COMP-00524,The Python,United Kingdom,5501,Energy
+COMP-00525,A Rust,England,21478,Industrial
+COMP-00526,English Python,United Kingdom,56688,Financials
+COMP-00527,English Red,England,89401,Energy
+COMP-00528,The Bloom,United Kingdom,83975,Financials
+COMP-00529,English Python,United Kingdom,36316,Health Care
+COMP-00530,A Ford,Canada,73975,Financials
+COMP-00531,English Orange,Canada,43773,Health Care
+COMP-00532,A Theory,United States,43441,Energy
+COMP-00533,Canadian Bloom,United States,27488,Health Care
+COMP-00534,A Ford,Canada,23042,Industrial
+COMP-00535,English Orange,Canada,41824,Energy
+COMP-00536,A Rust,US,54291,Energy
+COMP-00537,Canadian Rust,Canada,74541,Technology
+COMP-00538,A Chevy,US,46065,Industrial
+COMP-00539,American Micro,US,97630,Technology
+COMP-00540,English Rust,England,83771,Energy
+COMP-00541,A Theory,England,92184,Health Care
+COMP-00542,The Ford,Canada,61779,Technology
+COMP-00543,Canadian Theory,United States,60285,Energy
+COMP-00544,The Micro,United States,80022,Technology
+COMP-00545,A Micro,Canada,53196,Health Care
+COMP-00546,American Apple,Canada,60214,Financials
+COMP-00547,The Discord,United States,76662,Technology
+COMP-00548,A Rust,United Kingdom,24663,Technology
+COMP-00549,English Bloom,England,92803,Financials
+COMP-00550,Canadian Discord,England,8725,Health Care
+COMP-00551,American Python,England,11353,Financials
+COMP-00552,English Ford,England,28480,Industrial
+COMP-00553,English Micro,England,67647,Industrial
+COMP-00554,The Orange,United Kingdom,58185,Industrial
+COMP-00555,American Python,Canada,10530,Industrial
+COMP-00556,American Chevy,United Kingdom,6493,Industrial
+COMP-00557,English Orange,United States,90770,Technology
+COMP-00558,English Apple,Canada,52366,Financials
+COMP-00559,A Rust,United States,37062,Health Care
+COMP-00560,English Ford,England,56365,Health Care
+COMP-00561,A Orange,United Kingdom,28329,Energy
+COMP-00562,American Micro,England,19035,Energy
+COMP-00563,Canadian Micro,Canada,24731,Health Care
+COMP-00564,The Ford,England,52106,Financials
+COMP-00565,A Orange,England,62000,Health Care
+COMP-00566,English Rust,US,79318,Energy
+COMP-00567,American Micro,US,17127,Financials
+COMP-00568,English Discord,US,48403,Financials
+COMP-00569,American Chevy,Canada,19780,Industrial
+COMP-00570,The Micro,United Kingdom,95418,Technology
+COMP-00571,American Red,United Kingdom,18621,Health Care
+COMP-00572,The Orange,England,49733,Industrial
+COMP-00573,Canadian Discord,US,56866,Technology
+COMP-00574,Canadian Ford,England,74403,Financials
+COMP-00575,A Chevy,United Kingdom,81840,Industrial
+COMP-00576,A Theory,United States,32638,Health Care
+COMP-00577,The Ford,United Kingdom,37903,Health Care
+COMP-00578,Canadian Bloom,United Kingdom,46495,Energy
+COMP-00579,American Apple,US,89436,Industrial
+COMP-00580,English Red,United Kingdom,72825,Industrial
+COMP-00581,American Orange,United States,55756,Financials
+COMP-00582,Canadian Apple,England,67853,Financials
+COMP-00583,Canadian Theory,England,26767,Energy
+COMP-00584,The Theory,United States,63642,Health Care
+COMP-00585,English Micro,US,60691,Industrial
+COMP-00586,The Rust,Canada,20792,Technology
+COMP-00587,English Theory,England,50150,Financials
+COMP-00588,English Rust,England,7538,Industrial
+COMP-00589,A Orange,United States,30343,Technology
+COMP-00590,The Orange,United Kingdom,93094,Financials
+COMP-00591,Canadian Bloom,Canada,74811,Financials
+COMP-00592,American Micro,United Kingdom,64025,Health Care
+COMP-00593,Canadian Apple,United States,17068,Technology
+COMP-00594,Canadian Python,England,72289,Energy
+COMP-00595,Canadian Red,US,25006,Technology
+COMP-00596,The Bloom,US,23104,Industrial
+COMP-00597,Canadian Ford,United States,74518,Energy
+COMP-00598,American Bloom,US,73543,Industrial
+COMP-00599,American Apple,Canada,78593,Health Care
+COMP-00600,The Micro,US,65442,Health Care
+COMP-00601,English Theory,Canada,19713,Health Care
+COMP-00602,American Discord,England,11235,Health Care
+COMP-00603,American Chevy,England,94955,Industrial
+COMP-00604,American Discord,US,91219,Health Care
+COMP-00605,English Apple,United Kingdom,73251,Technology
+COMP-00606,A Rust,United States,2031,Industrial
+COMP-00607,Canadian Theory,United States,73550,Technology
+COMP-00608,The Theory,Canada,88089,Financials
+COMP-00609,English Ford,United Kingdom,49225,Technology
+COMP-00610,Canadian Python,US,1149,Industrial
+COMP-00611,Canadian Red,United Kingdom,94296,Industrial
+COMP-00612,A Discord,US,86673,Health Care
+COMP-00613,Canadian Chevy,England,91136,Energy
+COMP-00614,A Discord,United Kingdom,1902,Industrial
+COMP-00615,The Bloom,United States,68758,Financials
+COMP-00616,A Chevy,United Kingdom,50643,Industrial
+COMP-00617,English Chevy,England,65464,Financials
+COMP-00618,The Apple,Canada,12030,Health Care
+COMP-00619,The Micro,United Kingdom,82725,Health Care
+COMP-00620,American Chevy,US,8059,Health Care
+COMP-00621,English Bloom,Canada,36044,Health Care
+COMP-00622,The Red,US,2225,Financials
+COMP-00623,Canadian Chevy,Canada,13538,Technology
+COMP-00624,American Red,United States,79305,Technology
+COMP-00625,American Python,England,4187,Energy
+COMP-00626,American Discord,England,67257,Energy
+COMP-00627,A Red,US,2381,Health Care
+COMP-00628,The Micro,United Kingdom,18737,Financials
+COMP-00629,American Micro,United Kingdom,15062,Financials
+COMP-00630,English Micro,United States,5322,Industrial
+COMP-00631,A Bloom,England,61834,Industrial
+COMP-00632,American Apple,United States,79302,Health Care
+COMP-00633,A Ford,US,92947,Technology
+COMP-00634,American Apple,United Kingdom,18420,Energy
+COMP-00635,American Micro,US,32177,Technology
+COMP-00636,American Apple,US,76762,Health Care
+COMP-00637,American Bloom,United Kingdom,6939,Energy
+COMP-00638,English Theory,United Kingdom,81706,Technology
+COMP-00639,A Orange,US,7329,Technology
+COMP-00640,American Micro,England,93601,Energy
+COMP-00641,American Apple,Canada,44130,Energy
+COMP-00642,A Ford,England,26341,Health Care
+COMP-00643,A Apple,US,62999,Technology
+COMP-00644,American Red,United States,59462,Technology
+COMP-00645,English Orange,England,99201,Industrial
+COMP-00646,English Red,United Kingdom,32407,Health Care
+COMP-00647,Canadian Apple,Canada,87011,Health Care
+COMP-00648,The Python,England,1750,Health Care
+COMP-00649,American Chevy,Canada,41794,Energy
+COMP-00650,A Bloom,England,95257,Health Care
+COMP-00651,American Python,United States,62880,Energy
+COMP-00652,Canadian Chevy,United States,53978,Technology
+COMP-00653,A Bloom,Canada,35148,Energy
+COMP-00654,A Rust,Canada,36877,Energy
+COMP-00655,Canadian Rust,United States,83720,Health Care
+COMP-00656,A Chevy,United Kingdom,26962,Health Care
+COMP-00657,The Micro,United States,87770,Industrial
+COMP-00658,American Chevy,England,56076,Financials
+COMP-00659,The Chevy,Canada,35424,Financials
+COMP-00660,American Theory,US,80742,Energy
+COMP-00661,English Apple,Canada,95929,Technology
+COMP-00662,A Orange,Canada,54317,Financials
+COMP-00663,The Python,England,70954,Industrial
+COMP-00664,The Bloom,United Kingdom,44126,Health Care
+COMP-00665,A Discord,US,73625,Financials
+COMP-00666,Canadian Discord,United Kingdom,73723,Energy
+COMP-00667,English Ford,Canada,8922,Energy
+COMP-00668,A Rust,US,18627,Technology
+COMP-00669,Canadian Micro,England,15319,Health Care
+COMP-00670,The Red,US,5812,Industrial
+COMP-00671,English Theory,United States,46458,Financials
+COMP-00672,Canadian Ford,US,52041,Technology
+COMP-00673,Canadian Ford,Canada,99244,Energy
+COMP-00674,English Chevy,United States,33906,Health Care
+COMP-00675,The Theory,United States,71342,Financials
+COMP-00676,The Theory,England,4784,Technology
+COMP-00677,Canadian Apple,United States,28745,Health Care
+COMP-00678,English Red,Canada,30797,Financials
+COMP-00679,Canadian Chevy,England,60555,Technology
+COMP-00680,English Rust,US,5341,Technology
+COMP-00681,English Theory,United States,25676,Industrial
+COMP-00682,A Chevy,United Kingdom,88801,Health Care
+COMP-00683,English Discord,United Kingdom,52997,Financials
+COMP-00684,The Apple,Canada,75976,Financials
+COMP-00685,English Rust,United Kingdom,29805,Financials
+COMP-00686,English Apple,United States,50376,Industrial
+COMP-00687,English Apple,United Kingdom,24073,Technology
+COMP-00688,Canadian Rust,Canada,70168,Industrial
+COMP-00689,Canadian Python,England,24311,Energy
+COMP-00690,A Python,United Kingdom,51170,Health Care
+COMP-00691,American Python,United Kingdom,22281,Financials
+COMP-00692,The Bloom,United Kingdom,88163,Industrial
+COMP-00693,Canadian Apple,Canada,5475,Technology
+COMP-00694,Canadian Chevy,England,2626,Industrial
+COMP-00695,Canadian Micro,United States,23413,Financials
+COMP-00696,The Python,United States,64297,Technology
+COMP-00697,Canadian Apple,Canada,20576,Health Care
+COMP-00698,The Apple,Canada,94994,Energy
+COMP-00699,Canadian Red,England,5320,Energy
+COMP-00700,A Apple,England,29844,Health Care
+COMP-00701,Canadian Apple,United States,53783,Technology
+COMP-00702,Canadian Apple,Canada,24301,Technology
+COMP-00703,A Micro,United States,62594,Technology
+COMP-00704,American Rust,US,25944,Health Care
+COMP-00705,English Python,US,65112,Energy
+COMP-00706,American Orange,US,77264,Industrial
+COMP-00707,The Bloom,United States,14704,Industrial
+COMP-00708,The Bloom,England,78312,Technology
+COMP-00709,The Red,Canada,26572,Industrial
+COMP-00710,A Apple,United States,17192,Health Care
+COMP-00711,The Discord,United States,22887,Health Care
+COMP-00712,American Discord,United States,25699,Health Care
+COMP-00713,American Discord,US,67767,Health Care
+COMP-00714,English Ford,United States,52510,Industrial
+COMP-00715,American Micro,United Kingdom,37558,Health Care
+COMP-00716,Canadian Chevy,United States,73404,Industrial
+COMP-00717,Canadian Discord,England,16007,Energy
+COMP-00718,English Red,US,28490,Health Care
+COMP-00719,English Theory,US,16940,Technology
+COMP-00720,Canadian Micro,England,5747,Health Care
+COMP-00721,American Discord,US,36738,Financials
+COMP-00722,A Rust,US,15383,Technology
+COMP-00723,English Apple,United States,42308,Health Care
+COMP-00724,American Chevy,United Kingdom,14669,Technology
+COMP-00725,The Ford,United States,75575,Health Care
+COMP-00726,American Theory,England,34924,Health Care
+COMP-00727,American Bloom,England,37625,Technology
+COMP-00728,A Rust,United Kingdom,31617,Health Care
+COMP-00729,English Micro,United Kingdom,64607,Health Care
+COMP-00730,American Red,US,93167,Financials
+COMP-00731,A Theory,US,16804,Industrial
+COMP-00732,English Red,United States,86104,Industrial
+COMP-00733,A Rust,England,17165,Industrial
+COMP-00734,American Ford,United Kingdom,24031,Technology
+COMP-00735,A Bloom,United Kingdom,21611,Health Care
+COMP-00736,American Theory,US,86655,Energy
+COMP-00737,English Rust,US,17747,Financials
+COMP-00738,The Bloom,United States,38633,Financials
+COMP-00739,English Apple,United States,83820,Energy
+COMP-00740,A Discord,US,67674,Financials
+COMP-00741,Canadian Red,Canada,32817,Financials
+COMP-00742,English Rust,US,57937,Health Care
+COMP-00743,Canadian Orange,United States,48019,Technology
+COMP-00744,Canadian Python,United States,1341,Technology
+COMP-00745,American Chevy,US,70451,Industrial
+COMP-00746,English Discord,US,81384,Health Care
+COMP-00747,The Theory,United States,90102,Health Care
+COMP-00748,A Red,US,5989,Energy
+COMP-00749,A Apple,Canada,53700,Energy
+COMP-00750,Canadian Chevy,England,94617,Industrial
+COMP-00751,American Orange,US,81447,Industrial
+COMP-00752,A Ford,US,53554,Financials
+COMP-00753,English Ford,United Kingdom,24524,Health Care
+COMP-00754,Canadian Rust,United States,76326,Energy
+COMP-00755,American Bloom,US,80275,Financials
+COMP-00756,A Discord,Canada,86435,Financials
+COMP-00757,Canadian Ford,Canada,32554,Technology
+COMP-00758,English Discord,England,50016,Industrial
+COMP-00759,Canadian Ford,US,63171,Technology
+COMP-00760,The Theory,Canada,88176,Health Care
+COMP-00761,English Discord,United States,93436,Technology
+COMP-00762,Canadian Chevy,Canada,33582,Technology
+COMP-00763,American Python,United Kingdom,34574,Technology
+COMP-00764,English Python,United Kingdom,78274,Financials
+COMP-00765,American Bloom,United States,92155,Health Care
+COMP-00766,Canadian Theory,England,58781,Energy
+COMP-00767,American Python,England,53226,Technology
+COMP-00768,American Discord,US,74795,Industrial
+COMP-00769,A Ford,United States,9343,Technology
+COMP-00770,The Python,United States,96677,Financials
+COMP-00771,A Python,Canada,56422,Industrial
+COMP-00772,The Ford,United Kingdom,22530,Technology
+COMP-00773,American Bloom,US,68922,Financials
+COMP-00774,American Python,United Kingdom,33645,Energy
+COMP-00775,Canadian Discord,United States,92370,Technology
+COMP-00776,The Python,United States,41303,Industrial
+COMP-00777,The Python,US,25880,Industrial
+COMP-00778,Canadian Rust,United States,31788,Technology
+COMP-00779,English Chevy,England,98728,Energy
+COMP-00780,Canadian Theory,England,25151,Financials
+COMP-00781,The Red,Canada,33282,Industrial
+COMP-00782,Canadian Discord,Canada,95661,Health Care
+COMP-00783,American Python,US,39761,Health Care
+COMP-00784,English Red,US,70106,Energy
+COMP-00785,English Micro,Canada,45449,Technology
+COMP-00786,A Red,United Kingdom,34556,Industrial
+COMP-00787,American Apple,US,18751,Energy
+COMP-00788,American Micro,United States,5691,Technology
+COMP-00789,Canadian Micro,England,46138,Energy
+COMP-00790,English Rust,United Kingdom,89164,Energy
+COMP-00791,English Red,Canada,29170,Technology
+COMP-00792,English Rust,Canada,40420,Technology
+COMP-00793,The Theory,England,2926,Technology
+COMP-00794,A Python,United States,16137,Energy
+COMP-00795,The Bloom,United Kingdom,95832,Energy
+COMP-00796,American Apple,US,63854,Technology
+COMP-00797,English Orange,Canada,76744,Technology
+COMP-00798,The Bloom,England,42186,Financials
+COMP-00799,English Red,Canada,22942,Industrial
+COMP-00800,Canadian Chevy,Canada,70567,Energy
+COMP-00801,A Theory,US,17932,Industrial
+COMP-00802,Canadian Micro,Canada,89131,Technology
+COMP-00803,The Apple,England,89535,Financials
+COMP-00804,A Orange,United Kingdom,47964,Energy
+COMP-00805,Canadian Orange,England,69002,Health Care
+COMP-00806,The Apple,US,83823,Technology
+COMP-00807,A Apple,England,45462,Financials
+COMP-00808,American Chevy,Canada,20479,Technology
+COMP-00809,English Python,US,35526,Industrial
+COMP-00810,The Discord,England,63163,Health Care
+COMP-00811,Canadian Python,United Kingdom,79979,Technology
+COMP-00812,English Ford,England,96289,Technology
+COMP-00813,American Theory,US,20216,Energy
+COMP-00814,Canadian Apple,United States,54610,Industrial
+COMP-00815,Canadian Bloom,England,78042,Health Care
+COMP-00816,A Python,United Kingdom,10642,Energy
+COMP-00817,American Rust,England,9654,Industrial
+COMP-00818,English Chevy,Canada,93374,Technology
+COMP-00819,Canadian Python,United Kingdom,92804,Energy
+COMP-00820,English Discord,United States,18010,Technology
+COMP-00821,English Micro,Canada,97476,Energy
+COMP-00822,A Bloom,England,44091,Financials
+COMP-00823,The Chevy,United States,98255,Technology
+COMP-00824,English Micro,US,91057,Financials
+COMP-00825,A Ford,United Kingdom,92385,Financials
+COMP-00826,American Python,US,79779,Health Care
+COMP-00827,American Micro,Canada,29108,Health Care
+COMP-00828,English Bloom,United Kingdom,7598,Financials
+COMP-00829,The Discord,US,31161,Technology
+COMP-00830,English Chevy,England,64311,Technology
+COMP-00831,American Red,Canada,26254,Financials
+COMP-00832,Canadian Rust,United States,73707,Financials
+COMP-00833,The Theory,United Kingdom,96544,Industrial
+COMP-00834,American Orange,Canada,72192,Industrial
+COMP-00835,The Ford,US,73947,Health Care
+COMP-00836,English Discord,United Kingdom,22166,Technology
+COMP-00837,The Discord,United States,60316,Energy
+COMP-00838,The Micro,England,74276,Financials
+COMP-00839,The Red,United States,97268,Financials
+COMP-00840,Canadian Ford,England,56822,Industrial
+COMP-00841,Canadian Orange,US,33738,Financials
+COMP-00842,A Python,England,50575,Energy
+COMP-00843,English Theory,United Kingdom,80274,Technology
+COMP-00844,Canadian Red,US,78111,Energy
+COMP-00845,Canadian Theory,United States,79909,Energy
+COMP-00846,A Rust,Canada,48854,Health Care
+COMP-00847,A Theory,Canada,52067,Energy
+COMP-00848,The Bloom,England,82019,Industrial
+COMP-00849,American Apple,England,85907,Health Care
+COMP-00850,American Orange,United States,1334,Technology
+COMP-00851,The Chevy,Canada,5117,Industrial
+COMP-00852,English Bloom,Canada,98132,Industrial
+COMP-00853,Canadian Python,United Kingdom,95986,Technology
+COMP-00854,A Bloom,United States,61766,Health Care
+COMP-00855,English Orange,United Kingdom,36490,Technology
+COMP-00856,The Chevy,England,5706,Industrial
+COMP-00857,The Chevy,England,14123,Health Care
+COMP-00858,The Orange,England,63788,Financials
+COMP-00859,Canadian Ford,Canada,66550,Technology
+COMP-00860,A Apple,England,60173,Energy
+COMP-00861,American Theory,Canada,92488,Health Care
+COMP-00862,The Red,United States,67814,Energy
+COMP-00863,Canadian Orange,Canada,92953,Industrial
+COMP-00864,The Bloom,US,99547,Energy
+COMP-00865,Canadian Discord,England,21466,Health Care
+COMP-00866,English Apple,England,5347,Technology
+COMP-00867,Canadian Discord,United States,22713,Energy
+COMP-00868,English Apple,United States,31714,Health Care
+COMP-00869,English Micro,US,44185,Health Care
+COMP-00870,Canadian Bloom,United States,71999,Technology
+COMP-00871,English Red,England,92221,Financials
+COMP-00872,Canadian Rust,Canada,47126,Industrial
+COMP-00873,Canadian Theory,US,63226,Industrial
+COMP-00874,Canadian Chevy,Canada,77750,Energy
+COMP-00875,The Rust,England,73246,Technology
+COMP-00876,American Orange,England,40111,Health Care
+COMP-00877,English Orange,Canada,31607,Health Care
+COMP-00878,English Theory,Canada,75819,Technology
+COMP-00879,A Theory,Canada,80332,Energy
+COMP-00880,A Rust,England,98408,Industrial
+COMP-00881,Canadian Bloom,United States,4977,Financials
+COMP-00882,The Rust,United Kingdom,99041,Industrial
+COMP-00883,English Python,US,48393,Technology
+COMP-00884,American Theory,England,90117,Health Care
+COMP-00885,Canadian Apple,United Kingdom,6468,Financials
+COMP-00886,Canadian Micro,England,54953,Energy
+COMP-00887,American Theory,Canada,36551,Technology
+COMP-00888,Canadian Red,United Kingdom,81836,Technology
+COMP-00889,The Theory,England,62451,Energy
+COMP-00890,American Orange,United States,80814,Industrial
+COMP-00891,The Orange,England,62026,Industrial
+COMP-00892,Canadian Python,United Kingdom,35766,Industrial
+COMP-00893,American Micro,England,55532,Health Care
+COMP-00894,A Chevy,England,75481,Energy
+COMP-00895,American Ford,Canada,83243,Industrial
+COMP-00896,Canadian Discord,United States,10370,Energy
+COMP-00897,A Apple,US,78115,Industrial
+COMP-00898,Canadian Micro,England,13631,Financials
+COMP-00899,English Micro,England,24799,Technology
+COMP-00900,Canadian Apple,United Kingdom,10272,Financials
+COMP-00901,The Red,England,76643,Technology
+COMP-00902,The Ford,Canada,57689,Health Care
+COMP-00903,American Bloom,United Kingdom,32053,Industrial
+COMP-00904,Canadian Red,England,50129,Energy
+COMP-00905,Canadian Apple,United Kingdom,59147,Financials
+COMP-00906,A Rust,US,89192,Energy
+COMP-00907,English Bloom,US,43199,Health Care
+COMP-00908,English Discord,US,37781,Health Care
+COMP-00909,English Ford,Canada,65461,Financials
+COMP-00910,English Apple,United Kingdom,15170,Technology
+COMP-00911,The Apple,United Kingdom,81283,Health Care
+COMP-00912,Canadian Python,United States,16097,Financials
+COMP-00913,English Bloom,United Kingdom,33140,Industrial
+COMP-00914,Canadian Chevy,England,79197,Health Care
+COMP-00915,The Orange,United Kingdom,57170,Health Care
+COMP-00916,English Chevy,United States,70101,Technology
+COMP-00917,The Chevy,United Kingdom,2816,Technology
+COMP-00918,Canadian Micro,US,52634,Technology
+COMP-00919,American Orange,US,95988,Financials
+COMP-00920,American Chevy,United Kingdom,72763,Technology
+COMP-00921,The Ford,Canada,85667,Industrial
+COMP-00922,The Chevy,US,11589,Financials
+COMP-00923,Canadian Ford,US,30212,Technology
+COMP-00924,The Bloom,United States,75607,Industrial
+COMP-00925,English Red,United Kingdom,23113,Health Care
+COMP-00926,The Theory,Canada,28704,Energy
+COMP-00927,American Ford,Canada,20252,Technology
+COMP-00928,American Theory,United Kingdom,25476,Financials
+COMP-00929,American Discord,United Kingdom,79676,Industrial
+COMP-00930,English Micro,United States,62984,Energy
+COMP-00931,Canadian Chevy,United Kingdom,21338,Health Care
+COMP-00932,Canadian Apple,United Kingdom,85298,Industrial
+COMP-00933,A Rust,US,50030,Energy
+COMP-00934,American Theory,England,81894,Energy
+COMP-00935,A Ford,Canada,49842,Industrial
+COMP-00936,The Chevy,United Kingdom,84442,Health Care
+COMP-00937,A Rust,Canada,62390,Financials
+COMP-00938,Canadian Theory,United Kingdom,28072,Technology
+COMP-00939,The Theory,United Kingdom,76586,Technology
+COMP-00940,English Orange,United Kingdom,55388,Financials
+COMP-00941,American Theory,England,67652,Industrial
+COMP-00942,Canadian Chevy,Canada,58826,Health Care
+COMP-00943,Canadian Red,England,98489,Energy
+COMP-00944,English Bloom,US,50295,Energy
+COMP-00945,A Python,United States,42160,Health Care
+COMP-00946,Canadian Apple,United States,25510,Financials
+COMP-00947,English Python,US,75176,Financials
+COMP-00948,Canadian Red,Canada,90575,Industrial
+COMP-00949,Canadian Theory,United States,41704,Health Care
+COMP-00950,English Orange,United Kingdom,98923,Industrial
+COMP-00951,The Micro,United States,64368,Health Care
+COMP-00952,The Chevy,US,10607,Industrial
+COMP-00953,American Rust,England,89109,Industrial
+COMP-00954,A Rust,England,29675,Financials
+COMP-00955,American Orange,US,80424,Energy
+COMP-00956,American Red,US,13458,Industrial
+COMP-00957,A Orange,Canada,26317,Health Care
+COMP-00958,English Apple,United States,96514,Financials
+COMP-00959,American Chevy,United States,99666,Financials
+COMP-00960,English Bloom,United Kingdom,39487,Technology
+COMP-00961,American Python,United Kingdom,77642,Technology
+COMP-00962,A Bloom,US,89883,Energy
+COMP-00963,Canadian Red,United Kingdom,4682,Energy
+COMP-00964,The Theory,Canada,50961,Financials
+COMP-00965,A Discord,England,46112,Energy
+COMP-00966,English Micro,England,74498,Health Care
+COMP-00967,A Ford,United Kingdom,45796,Health Care
+COMP-00968,A Red,United Kingdom,81926,Technology
+COMP-00969,Canadian Discord,United States,74544,Energy
+COMP-00970,The Discord,United Kingdom,39685,Health Care
+COMP-00971,The Orange,United Kingdom,47982,Financials
+COMP-00972,Canadian Apple,United Kingdom,53621,Health Care
+COMP-00973,The Bloom,England,54295,Technology
+COMP-00974,American Ford,England,8105,Energy
+COMP-00975,The Red,United Kingdom,60526,Health Care
+COMP-00976,American Python,US,6267,Industrial
+COMP-00977,A Chevy,United States,14079,Technology
+COMP-00978,The Apple,England,25856,Health Care
+COMP-00979,American Discord,England,17621,Industrial
+COMP-00980,Canadian Theory,US,79203,Technology
+COMP-00981,American Apple,Canada,48228,Energy
+COMP-00982,The Micro,United Kingdom,14483,Financials
+COMP-00983,A Rust,Canada,35314,Financials
+COMP-00984,A Discord,Canada,70365,Technology
+COMP-00985,English Bloom,England,62338,Technology
+COMP-00986,Canadian Theory,Canada,51112,Energy
+COMP-00987,A Apple,Canada,74790,Financials
+COMP-00988,A Orange,United Kingdom,84890,Industrial
+COMP-00989,A Bloom,United States,15086,Health Care
+COMP-00990,The Orange,US,83391,Technology
+COMP-00991,American Ford,United Kingdom,81476,Energy
+COMP-00992,Canadian Rust,United States,11762,Financials
+COMP-00993,Canadian Bloom,United States,78096,Energy
+COMP-00994,English Chevy,Canada,81183,Technology
+COMP-00995,Canadian Bloom,United Kingdom,14041,Health Care
+COMP-00996,American Bloom,United States,95194,Energy
+COMP-00997,The Theory,Canada,13832,Energy
+COMP-00998,The Micro,United States,75000,Industrial
+COMP-00999,A Discord,United Kingdom,86407,Technology
+COMP-01000,American Theory,Canada,11546,Financials
