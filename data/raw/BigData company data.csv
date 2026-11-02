@@ -1,801 +1,801 @@
 provider_id,company_name,country,registration_id,industry
-BigData-1,English Bloom,England,11410.0,Industrial
-BigData-2,A Ford,US,,Energy
-BigData-3,A Python LLC,United States,16137.0,Energy
-BigData-4,American Apple,United States,79302.0,Health Care
-BigData-5,American Chevy,,58576.0,Energy
-BigData-6,American Micro inc.,England,19035.0,
-BigData-7,American Orange Financial,US,17762.0,
-BigData-8,English Micro,United Kingdom,40030.0,Technology
-BigData-9,Canadian Apple Financial,United States,23028.0,Industrial
-BigData-10,A Chevy Limited,,75481.0,Energy
-BigData-11,A Orange Limited,England,62873.0,Financials
-BigData-12,English Micro Mutual,United Kingdom,,
-BigData-13,A Discord,United States,46058.0,
-BigData-14,American Apple,Canada,60214.0,Financials
-BigData-15,Canadian Orange,Canada,90772.0,Health Care
-BigData-16,Canadian Python,United Kingdom,7978.0,Industrial
-BigData-17,Canadian Python,US,75659.0,Energy
-BigData-18,The Bloom,US,37352.0,Financials
-BigData-19,Canadian Rust,United States,,Energy
-BigData-20,English Theory,United States,24134.0,Industrial
-BigData-21,English Chevy Financial,US,31686.0,Energy
-BigData-22,American Red,,52196.0,Financials
-BigData-23,Canadian Discord inc.,United States,71752.0,Health Care
-BigData-24,American Python Mutual,United Kingdom,34574.0,Technology
-BigData-25,Canadian Bloom inc.,United Kingdom,7569.0,Industrial
-BigData-26,The Red Mutual,US,5812.0,
-BigData-27,English Python,,16769.0,
-BigData-28,American Theory,England,54518.0,Energy
-BigData-29,The Python,Canada,9682.0,Technology
-BigData-30,A Red inc.,United States,58077.0,Health Care
-BigData-31,American Micro,Canada,29108.0,Health Care
-BigData-32,A Python Consulting,Canada,,Technology
-BigData-33,The Orange Incorporated,,62026.0,Industrial
-BigData-34,American Rust,United Kingdom,25663.0,Technology
-BigData-35,English Apple Financial,Canada,34149.0,Health Care
-BigData-36,The Ford inc.,United States,22130.0,Health Care
-BigData-37,The Chevy,,,Technology
-BigData-38,English Rust,,93529.0,Energy
-BigData-39,A Python Incorporated,United States,53599.0,Industrial
-BigData-40,American Red,United States,79305.0,Technology
-BigData-41,A Orange,United Kingdom,47964.0,Energy
-BigData-42,English Micro,US,95912.0,Energy
-BigData-43,English Bloom,England,,Financials
-BigData-44,English Bloom LLC,Canada,36044.0,Health Care
-BigData-45,A Chevy Financial,United Kingdom,26962.0,Health Care
-BigData-46,English Python,US,35526.0,Industrial
-BigData-47,English Orange Company,Canada,41824.0,Energy
-BigData-48,A Chevy Incorporated,,23913.0,Technology
-BigData-49,Canadian Ford,Canada,26469.0,Energy
-BigData-50,English Chevy,England,65464.0,Financials
-BigData-51,A Chevy,,37279.0,Technology
-BigData-52,A Ford,,99114.0,
-BigData-53,The Red,Canada,29006.0,Health Care
-BigData-54,American Theory Mutual,US,,Energy
-BigData-55,The Ford,United Kingdom,,Energy
-BigData-56,The Chevy Consulting,Canada,5117.0,Industrial
-BigData-57,American Red,US,98326.0,Financials
-BigData-58,Canadian Theory Consulting,England,11284.0,Health Care
-BigData-59,English Orange Incorporated,US,77586.0,Financials
-BigData-60,The Chevy Consulting,England,4431.0,Technology
-BigData-61,English Python Company,,47147.0,Health Care
-BigData-62,The Chevy LLC,England,6803.0,Health Care
-BigData-63,The Ford,United Kingdom,25642.0,
-BigData-64,American Python Incorporated,,39761.0,Health Care
-BigData-65,American Bloom,US,80275.0,Financials
-BigData-66,English Discord inc.,England,50016.0,
-BigData-67,The Bloom,,83975.0,
-BigData-68,A Apple Incorporated,,87387.0,
-BigData-69,Canadian Rust inc.,England,6467.0,
-BigData-70,American Micro inc.,US,97630.0,Technology
-BigData-71,A Theory,United Kingdom,39511.0,Health Care
-BigData-72,The Discord LLC,Canada,,
-BigData-73,The Red,,73304.0,Industrial
-BigData-74,The Apple Company,Canada,41696.0,Energy
-BigData-75,English Ford,US,12816.0,Energy
-BigData-76,Canadian Ford Consulting,,,Financials
-BigData-77,A Python Mutual,United Kingdom,57222.0,Technology
-BigData-78,A Bloom,England,46754.0,
-BigData-79,The Rust inc.,US,55790.0,Industrial
-BigData-80,The Red,United States,2713.0,Financials
-BigData-81,English Apple Consulting,Canada,83240.0,Financials
-BigData-82,A Chevy Consulting,United Kingdom,88801.0,Health Care
-BigData-83,American Micro,United States,5691.0,Technology
-BigData-84,A Rust Incorporated,England,,Industrial
-BigData-85,The Red,,67814.0,
-BigData-86,The Discord Financial,,63163.0,Health Care
-BigData-87,The Theory,Canada,88176.0,Health Care
-BigData-88,Canadian Python,,24311.0,Energy
-BigData-89,American Theory,Canada,92488.0,Health Care
-BigData-90,A Python Company,US,77696.0,Health Care
-BigData-91,A Apple,US,62999.0,Technology
-BigData-92,English Python,United Kingdom,78274.0,
-BigData-93,American Rust Company,England,9654.0,Industrial
-BigData-94,The Theory,Canada,94942.0,Financials
-BigData-95,A Discord inc.,Canada,93508.0,Industrial
-BigData-96,Canadian Rust,,76326.0,Energy
-BigData-97,The Discord Mutual,United States,76662.0,Technology
-BigData-98,The Discord Limited,United States,22887.0,Health Care
-BigData-99,The Bloom,Canada,32757.0,Industrial
-BigData-100,A Micro LLC,England,87140.0,Energy
-BigData-101,English Rust Incorporated,US,53195.0,Financials
-BigData-102,A Red Incorporated,US,5989.0,Energy
-BigData-103,A Python,,50575.0,Energy
-BigData-104,Canadian Theory Incorporated,,27694.0,Industrial
-BigData-105,A Red Limited,US,2381.0,
-BigData-106,American Micro Company,US,70117.0,Industrial
-BigData-107,The Orange LLC,England,33962.0,Energy
-BigData-108,The Rust,US,58740.0,
-BigData-109,A Orange,United States,,Technology
-BigData-110,A Discord Incorporated,US,,
-BigData-111,American Bloom,,10564.0,Financials
-BigData-112,A Red,United Kingdom,81926.0,Technology
-BigData-113,A Chevy Mutual,United States,,Technology
-BigData-114,The Micro,United Kingdom,18737.0,Financials
-BigData-115,American Ford LLC,United States,87928.0,Health Care
-BigData-116,English Apple LLC,United States,31714.0,Health Care
-BigData-117,Canadian Chevy Company,United Kingdom,28341.0,
-BigData-118,The Apple Financial,,67012.0,Financials
-BigData-119,American Ford,,24031.0,Technology
-BigData-120,American Orange LLC,England,,Financials
-BigData-121,American Apple,United Kingdom,2326.0,Energy
-BigData-122,English Rust Limited,,92407.0,Health Care
-BigData-123,Canadian Ford,United States,4074.0,Health Care
-BigData-124,Canadian Discord,England,16007.0,Energy
-BigData-125,A Orange Limited,England,62000.0,Health Care
-BigData-126,The Red,England,62528.0,Technology
-BigData-127,English Chevy LLC,England,98728.0,Energy
-BigData-128,English Rust,Canada,1760.0,Financials
-BigData-129,English Apple,England,,Technology
-BigData-130,American Theory,,34924.0,Health Care
-BigData-131,A Ford Consulting,Canada,75137.0,Financials
-BigData-132,Canadian Rust inc.,,74852.0,Financials
-BigData-133,Canadian Chevy Consulting,England,60555.0,Technology
-BigData-134,American Chevy Mutual,,56076.0,Financials
-BigData-135,The Discord Company,United States,69636.0,Technology
-BigData-136,American Bloom Consulting,,37625.0,Technology
-BigData-137,Canadian Theory Mutual,United States,65879.0,Industrial
-BigData-138,American Red Financial,US,93167.0,Financials
-BigData-139,A Micro,England,75631.0,
-BigData-140,A Chevy inc.,United States,25110.0,Financials
-BigData-141,English Rust inc.,US,17747.0,Financials
-BigData-142,The Apple Company,Canada,86369.0,Energy
-BigData-143,American Chevy,US,70451.0,Industrial
-BigData-144,Canadian Chevy,United States,38298.0,Technology
-BigData-145,A Bloom,United Kingdom,49874.0,Financials
-BigData-146,American Discord,United Kingdom,,Energy
-BigData-147,English Theory Financial,,67963.0,Technology
-BigData-148,English Ford inc.,United Kingdom,65657.0,Health Care
-BigData-149,A Rust Limited,,,Energy
-BigData-150,American Apple Consulting,US,18751.0,Energy
-BigData-151,English Red,United Kingdom,2949.0,Financials
-BigData-152,English Red,United States,,Health Care
-BigData-153,Canadian Rust Financial,United States,11762.0,Financials
-BigData-154,English Python,,65112.0,Energy
-BigData-155,English Ford,,28480.0,Industrial
-BigData-156,The Chevy inc.,Canada,,
-BigData-157,American Discord Consulting,US,42731.0,
-BigData-158,The Rust,United Kingdom,1190.0,
-BigData-159,A Orange,United Kingdom,84890.0,Industrial
-BigData-160,A Python Consulting,,41365.0,Financials
-BigData-161,A Discord,United Kingdom,79597.0,Energy
-BigData-162,English Theory LLC,England,50150.0,Financials
-BigData-163,American Python,Canada,,Health Care
-BigData-164,American Orange LLC,,81447.0,Industrial
-BigData-165,The Orange Financial,,63788.0,Financials
-BigData-166,Canadian Orange,England,83433.0,Industrial
-BigData-167,The Bloom,England,78312.0,Technology
-BigData-168,American Orange,Canada,72192.0,Industrial
-BigData-169,English Red,,28490.0,Health Care
-BigData-170,American Chevy,Canada,19780.0,
-BigData-171,English Red Incorporated,,92221.0,Financials
-BigData-172,The Apple Financial,US,78583.0,Industrial
-BigData-173,English Apple,United Kingdom,67510.0,Technology
-BigData-174,The Python,England,41841.0,Financials
-BigData-175,A Orange,,7329.0,Technology
-BigData-176,American Red Limited,US,95937.0,Health Care
-BigData-177,English Ford Mutual,US,,Health Care
-BigData-178,Canadian Discord,United States,10370.0,Energy
-BigData-179,American Ford,US,67294.0,Industrial
-BigData-180,The Ford Limited,United States,63294.0,Technology
-BigData-181,The Ford Limited,United Kingdom,,Energy
-BigData-182,English Theory,United Kingdom,81706.0,Technology
-BigData-183,A Python,,56422.0,
-BigData-184,American Ford inc.,England,24198.0,Financials
-BigData-185,A Rust,United Kingdom,19709.0,Energy
-BigData-186,A Theory,United States,43441.0,Energy
-BigData-187,The Chevy,US,,Financials
-BigData-188,Canadian Chevy,US,59305.0,Industrial
-BigData-189,A Python,,51170.0,Health Care
-BigData-190,A Chevy,England,8009.0,Financials
-BigData-191,The Red,England,33893.0,Technology
-BigData-192,English Apple,United Kingdom,92546.0,Industrial
-BigData-193,A Red Consulting,,48640.0,Energy
-BigData-194,American Theory,England,23174.0,Health Care
-BigData-195,Canadian Theory Limited,,79909.0,
-BigData-196,Canadian Red inc.,United Kingdom,96402.0,Industrial
-BigData-197,The Micro Mutual,,54660.0,Technology
-BigData-198,Canadian Orange,England,69002.0,Health Care
-BigData-199,Canadian Chevy,Canada,26349.0,Financials
-BigData-200,Canadian Micro,England,54953.0,Energy
-BigData-201,English Discord,United Kingdom,53121.0,Financials
-BigData-202,Canadian Theory Limited,England,25151.0,Financials
-BigData-203,American Chevy Consulting,Canada,20479.0,Technology
-BigData-204,English Chevy,United States,33906.0,Health Care
-BigData-205,The Orange Financial,US,83391.0,Technology
-BigData-206,A Rust,Canada,28900.0,
-BigData-207,American Theory,US,,Health Care
-BigData-208,Canadian Chevy Limited,Canada,70567.0,Energy
-BigData-209,American Red,Canada,26254.0,Financials
-BigData-210,English Chevy Consulting,United Kingdom,33934.0,Health Care
-BigData-211,Canadian Ford,United States,74518.0,Energy
-BigData-212,A Apple,United States,56788.0,Health Care
-BigData-213,The Ford Company,United Kingdom,22530.0,Technology
-BigData-214,English Python,US,31883.0,Technology
-BigData-215,English Chevy,United Kingdom,,Energy
-BigData-216,Canadian Red Financial,,,Financials
-BigData-217,The Chevy,Canada,35424.0,Financials
-BigData-218,English Discord inc.,United States,40526.0,Technology
-BigData-219,A Micro Financial,US,59878.0,Energy
-BigData-220,A Discord,United Kingdom,20620.0,Health Care
-BigData-221,English Micro,US,44185.0,Health Care
-BigData-222,English Micro inc.,US,60691.0,Industrial
-BigData-223,A Discord,England,25257.0,Industrial
-BigData-224,A Rust Limited,England,37900.0,Health Care
-BigData-225,The Orange,US,74150.0,Technology
-BigData-226,American Ford,US,51347.0,Health Care
-BigData-227,American Discord Consulting,England,17621.0,Industrial
-BigData-228,The Micro Consulting,US,65442.0,Health Care
-BigData-229,American Ford Incorporated,Canada,71140.0,Industrial
-BigData-230,A Discord Financial,England,46112.0,Energy
-BigData-231,English Chevy,Canada,92309.0,Financials
-BigData-232,English Bloom LLC,,47480.0,
-BigData-233,Canadian Discord LLC,,56866.0,Technology
-BigData-234,The Red,,59668.0,
-BigData-235,Canadian Chevy,England,2626.0,Industrial
-BigData-236,A Python Incorporated,England,80442.0,Financials
-BigData-237,The Apple Limited,United States,,Industrial
-BigData-238,Canadian Theory Company,United Kingdom,40251.0,Technology
-BigData-239,Canadian Chevy,Canada,77750.0,Energy
-BigData-240,American Ford,Canada,20252.0,
-BigData-241,American Apple Company,Canada,78593.0,Health Care
-BigData-242,A Apple,Canada,74790.0,Financials
-BigData-243,Canadian Micro,United States,,Industrial
-BigData-244,English Micro,,74498.0,Health Care
-BigData-245,American Theory,US,86655.0,Energy
-BigData-246,English Rust Mutual,England,83771.0,Energy
-BigData-247,Canadian Chevy Limited,United States,73404.0,Industrial
-BigData-248,The Chevy inc.,,4930.0,Industrial
-BigData-249,A Discord Company,US,67674.0,Financials
-BigData-250,A Python,United Kingdom,53972.0,Energy
-BigData-251,American Bloom,United States,92155.0,Health Care
-BigData-252,American Bloom Incorporated,,,Industrial
-BigData-253,A Ford,Canada,91560.0,Industrial
-BigData-254,The Theory Incorporated,United States,,Energy
-BigData-255,A Red,United Kingdom,34556.0,Industrial
-BigData-256,Canadian Theory,,58781.0,Energy
-BigData-257,English Orange,England,9847.0,Industrial
-BigData-258,American Bloom inc.,United Kingdom,6939.0,
-BigData-259,The Ford Limited,United Kingdom,52296.0,Industrial
-BigData-260,Canadian Python Incorporated,United Kingdom,95986.0,Technology
-BigData-261,American Red Incorporated,United Kingdom,52702.0,Industrial
-BigData-262,American Discord,United Kingdom,79676.0,Industrial
-BigData-263,The Apple Mutual,United Kingdom,81283.0,Health Care
-BigData-264,American Orange Mutual,England,9564.0,Energy
-BigData-265,The Orange Company,,95744.0,Energy
-BigData-266,A Bloom Company,United States,,Health Care
-BigData-267,The Rust,Canada,89626.0,Health Care
-BigData-268,The Discord Company,,71640.0,Industrial
-BigData-269,The Apple,Canada,98693.0,Energy
-BigData-270,English Chevy LLC,England,64311.0,Technology
-BigData-271,A Red Incorporated,,92245.0,Energy
-BigData-272,Canadian Micro LLC,United Kingdom,86168.0,Health Care
-BigData-273,American Orange Company,Canada,71195.0,Health Care
-BigData-274,Canadian Ford,United Kingdom,17958.0,Industrial
-BigData-275,English Discord,United Kingdom,22166.0,Technology
-BigData-276,A Bloom Consulting,US,89883.0,Energy
-BigData-277,Canadian Micro Consulting,US,93461.0,Financials
-BigData-278,The Theory,Canada,13832.0,Energy
-BigData-279,American Orange LLC,US,95988.0,Financials
-BigData-280,Canadian Red,,5320.0,Energy
-BigData-281,A Orange Financial,United States,5323.0,Energy
-BigData-282,A Micro LLC,England,83729.0,Financials
-BigData-283,American Theory inc.,England,6708.0,Financials
-BigData-284,A Rust,US,18627.0,Technology
-BigData-285,Canadian Bloom Mutual,,,Energy
-BigData-286,English Red,United Kingdom,32407.0,Health Care
-BigData-287,The Bloom,US,23809.0,Energy
-BigData-288,The Theory Incorporated,England,4784.0,Technology
-BigData-289,The Orange Limited,,47982.0,Financials
-BigData-290,Canadian Red inc.,United States,,Energy
-BigData-291,English Red,US,,Industrial
-BigData-292,English Ford Company,England,96289.0,Technology
-BigData-293,American Python,United Kingdom,33645.0,Energy
-BigData-294,English Chevy,United Kingdom,73391.0,Health Care
-BigData-295,English Micro,Canada,97476.0,Energy
-BigData-296,Canadian Red Limited,United Kingdom,81836.0,
-BigData-297,The Red Incorporated,Canada,46681.0,
+BigData-1,English Ford,Uk,11410.0,Industrial
+BigData-2,A Paramount,Fra,,Energy
+BigData-3,A Books llc,Us,16137.0,Energy
+BigData-4,American Bloom,Usa,79302.0,Health Care
+BigData-5,American Cbc,,58576.0,Energy
+BigData-6,American Rust inc.,Scotland,19035.0,
+BigData-7,American Satellite financial,France,17762.0,
+BigData-8,English Python,England,40030.0,Technology
+BigData-9,Canadian Apple financial,United States,23028.0,Industrial
+BigData-10,A Cbc limited,,75481.0,Energy
+BigData-11,A Amazon limited,Canada,62873.0,Financials
+BigData-12,English Orange mutual,United Kingdom,,
+BigData-13,A A&W,Usa,46058.0,
+BigData-14,American Bloom,United States,60214.0,Financials
+BigData-15,Canadian Hyper,Can,90772.0,Health Care
+BigData-16,Canadian Big Business,United Kingdom,7978.0,Industrial
+BigData-17,Canadian Big Business,Fra,75659.0,Energy
+BigData-18,The Ford,Fra,37352.0,Financials
+BigData-19,Canadian Mcdonalds,Us,,Energy
+BigData-20,English Intact,Usa,24134.0,Industrial
+BigData-21,English Marvel financial,Fra,31686.0,Energy
+BigData-22,American Corsair,,52196.0,Financials
+BigData-23,Canadian Greggs inc.,Us,71752.0,Health Care
+BigData-24,American Big One mutual,United Kingdom,34574.0,Technology
+BigData-25,Canadian Ford inc.,England,7569.0,Industrial
+BigData-26,The Nvidia mutual,Fr,5812.0,
+BigData-27,English Hyper,,16769.0,
+BigData-28,American Anthropic,Canada,54518.0,Energy
+BigData-29,The Big One,United States,9682.0,Technology
+BigData-30,A Nvidia inc.,Usa,58077.0,Health Care
+BigData-31,American Orange,United States,29108.0,Health Care
+BigData-32,A Big Business consulting,Ca,,Technology
+BigData-33,The Satellite incorporated,,62026.0,Industrial
+BigData-34,American Good,England,25663.0,Technology
+BigData-35,English Bloom financial,United States,34149.0,Health Care
+BigData-36,The Bbc inc.,France,22130.0,Health Care
+BigData-37,The Dc,,,Technology
+BigData-38,English Evil,,93529.0,Energy
+BigData-39,A Big Business incorporated,Usa,53599.0,Industrial
+BigData-40,American Nvidia,Us,79305.0,Technology
+BigData-41,A Amazon,England,47964.0,Energy
+BigData-42,English Python,France,95912.0,Energy
+BigData-43,English Discord,Canada,,Financials
+BigData-44,English Discord llc,Ca,36044.0,Health Care
+BigData-45,A Dc financial,England,26962.0,Health Care
+BigData-46,English Brooks,Fr,35526.0,Industrial
+BigData-47,English Hyper company,Ca,41824.0,Energy
+BigData-48,A Dc incorporated,,23913.0,Technology
+BigData-49,Canadian Unicorn,Ca,26469.0,Energy
+BigData-50,English Nbc,Scotland,65464.0,Financials
+BigData-51,A Dc,,37279.0,Technology
+BigData-52,A Bbc,,99114.0,
+BigData-53,The Nvidia,United States,29006.0,Health Care
+BigData-54,American Aviva mutual,Fr,,Energy
+BigData-55,The Paramount,Uk,,Energy
+BigData-56,The Dc consulting,Ca,5117.0,Industrial
+BigData-57,American Nvidia,Fr,98326.0,Financials
+BigData-58,Canadian Intact consulting,Canada,11284.0,Health Care
+BigData-59,English Satellite incorporated,France,77586.0,Financials
+BigData-60,The Dc consulting,Uk,4431.0,Technology
+BigData-61,English Books company,,47147.0,Health Care
+BigData-62,The Nbc llc,Scotland,6803.0,Health Care
+BigData-63,The Bbc,England,25642.0,
+BigData-64,American Big Business incorporated,,39761.0,Health Care
+BigData-65,American Rust,Fra,80275.0,Financials
+BigData-66,English A&W inc.,Uk,50016.0,
+BigData-67,The Discord,,83975.0,
+BigData-68,A Apple incorporated,,87387.0,
+BigData-69,Canadian Good inc.,Uk,6467.0,
+BigData-70,American Python inc.,Fr,97630.0,Technology
+BigData-71,A Anthropic,England,39511.0,Health Care
+BigData-72,The Lucas Films llc,Ca,,
+BigData-73,The Nvidia,,73304.0,Industrial
+BigData-74,The Theory company,Can,41696.0,Energy
+BigData-75,English Skydance,Fr,12816.0,Energy
+BigData-76,Canadian Skydance consulting,,,Financials
+BigData-77,A Big One mutual,England,57222.0,Technology
+BigData-78,A Ford,Canada,46754.0,
+BigData-79,The Evil inc.,Fra,55790.0,Industrial
+BigData-80,The Corsair,Us,2713.0,Financials
+BigData-81,English Theory consulting,United States,83240.0,Financials
+BigData-82,A Nbc consulting,England,88801.0,Health Care
+BigData-83,American Python,Us,5691.0,Technology
+BigData-84,A Evil incorporated,Scotland,,Industrial
+BigData-85,The Corsair,,67814.0,
+BigData-86,The Lucas Films financial,,63163.0,Health Care
+BigData-87,The Intact,Ca,88176.0,Health Care
+BigData-88,Canadian Big Business,,24311.0,Energy
+BigData-89,American Intact,Can,92488.0,Health Care
+BigData-90,A Big One company,Fr,77696.0,Health Care
+BigData-91,A Micro,Fr,62999.0,Technology
+BigData-92,English Brooks,United Kingdom,78274.0,
+BigData-93,American Evil company,Scotland,9654.0,Industrial
+BigData-94,The Macro,United States,94942.0,Financials
+BigData-95,A Marvel inc.,Ca,93508.0,Industrial
+BigData-96,Canadian Good,,76326.0,Energy
+BigData-97,The A&W mutual,United States,76662.0,Technology
+BigData-98,The A&W limited,Usa,22887.0,Health Care
+BigData-99,The Chevy,Ca,32757.0,Industrial
+BigData-100,A Python llc,Canada,87140.0,Energy
+BigData-101,English Mcdonalds incorporated,Fra,53195.0,Financials
+BigData-102,A Tesla incorporated,Fra,5989.0,Energy
+BigData-103,A Hyper,,50575.0,Energy
+BigData-104,Canadian Anthropic incorporated,,27694.0,Industrial
+BigData-105,A Nvidia limited,Fr,2381.0,
+BigData-106,American Theory company,Fr,70117.0,Industrial
+BigData-107,The Amazon llc,Scotland,33962.0,Energy
+BigData-108,The Good,Fr,58740.0,
+BigData-109,A Google,Usa,,Technology
+BigData-110,A Marvel incorporated,Fra,,
+BigData-111,American Discord,,10564.0,Financials
+BigData-112,A Aviva,England,81926.0,Technology
+BigData-113,A Marvel mutual,Us,,Technology
+BigData-114,The Red,England,18737.0,Financials
+BigData-115,American Paramount llc,Us,87928.0,Health Care
+BigData-116,English Theory llc,Usa,31714.0,Health Care
+BigData-117,Canadian Marvel company,England,28341.0,
+BigData-118,The Bloom financial,,67012.0,Financials
+BigData-119,American Bbc,,24031.0,Technology
+BigData-120,American Satellite llc,Scotland,,Financials
+BigData-121,American Micro,United Kingdom,2326.0,Energy
+BigData-122,English Evil limited,,92407.0,Health Care
+BigData-123,Canadian Skydance,United States,4074.0,Health Care
+BigData-124,Canadian A&W,Scotland,16007.0,Energy
+BigData-125,A Google limited,Can,62000.0,Health Care
+BigData-126,The Nvidia,Scotland,62528.0,Technology
+BigData-127,English Nbc llc,Canada,98728.0,Energy
+BigData-128,English Evil,Can,1760.0,Financials
+BigData-129,English Theory,Can,,Technology
+BigData-130,American Intact,,34924.0,Health Care
+BigData-131,A Paramount consulting,Ca,75137.0,Financials
+BigData-132,Canadian Good inc.,,74852.0,Financials
+BigData-133,Canadian Nbc consulting,Canada,60555.0,Technology
+BigData-134,American Bbc mutual,,56076.0,Financials
+BigData-135,The A&W company,Us,69636.0,Technology
+BigData-136,American Ford consulting,,37625.0,Technology
+BigData-137,Canadian Anthropic mutual,Us,65879.0,Industrial
+BigData-138,American Satellite financial,France,93167.0,Financials
+BigData-139,A Python,Canada,75631.0,
+BigData-140,A Dc inc.,Usa,25110.0,Financials
+BigData-141,English Mcdonalds inc.,Fra,17747.0,Financials
+BigData-142,The Apple company,Ca,86369.0,Energy
+BigData-143,American Nbc,Fr,70451.0,Industrial
+BigData-144,Canadian Dc,Us,38298.0,Technology
+BigData-145,A Chevy,United Kingdom,49874.0,Financials
+BigData-146,American Lucas Films,United Kingdom,,Energy
+BigData-147,English Macro financial,,67963.0,Technology
+BigData-148,English Skydance inc.,United Kingdom,65657.0,Health Care
+BigData-149,A Good limited,,,Energy
+BigData-150,American Bloom consulting,Fra,18751.0,Energy
+BigData-151,English Tesla,England,2949.0,Financials
+BigData-152,English Corsair,Us,,Health Care
+BigData-153,Canadian Brooks financial,Us,11762.0,Financials
+BigData-154,English Big Business,,65112.0,Energy
+BigData-155,English Skydance,,28480.0,Industrial
+BigData-156,The Bbc inc.,Ca,,
+BigData-157,American Greggs consulting,France,42731.0,
+BigData-158,The Good,United Kingdom,1190.0,
+BigData-159,A Amazon,United Kingdom,84890.0,Industrial
+BigData-160,A Hyper consulting,,41365.0,Financials
+BigData-161,A A&W,England,79597.0,Energy
+BigData-162,English Anthropic llc,Can,50150.0,Financials
+BigData-163,American Big Business,Ca,,Health Care
+BigData-164,American Satellite llc,,81447.0,Industrial
+BigData-165,The Amazon financial,,63788.0,Financials
+BigData-166,Canadian Google,Scotland,83433.0,Industrial
+BigData-167,The Rust,Canada,78312.0,Technology
+BigData-168,American Google,United States,72192.0,Industrial
+BigData-169,English Tesla,,28490.0,Health Care
+BigData-170,American Marvel,United States,19780.0,
+BigData-171,English Corsair incorporated,,92221.0,Financials
+BigData-172,The Bloom financial,Fra,78583.0,Industrial
+BigData-173,English Apple,England,67510.0,Technology
+BigData-174,The Hyper,Canada,41841.0,Financials
+BigData-175,A Satellite,,7329.0,Technology
+BigData-176,American Corsair limited,Fra,95937.0,Health Care
+BigData-177,English Unicorn mutual,Fra,,Health Care
+BigData-178,Canadian Lucas Films,Us,10370.0,Energy
+BigData-179,American Paramount,Fra,67294.0,Industrial
+BigData-180,The Skydance limited,Us,63294.0,Technology
+BigData-181,The Unicorn limited,United Kingdom,,Energy
+BigData-182,English Aviva,England,81706.0,Technology
+BigData-183,A Big Business,,56422.0,
+BigData-184,American Bbc inc.,Canada,24198.0,Financials
+BigData-185,A Good,United Kingdom,19709.0,Energy
+BigData-186,A Intact,Us,43441.0,Energy
+BigData-187,The Dc,Fr,,Financials
+BigData-188,Canadian Cbc,Fr,59305.0,Industrial
+BigData-189,A Books,,51170.0,Health Care
+BigData-190,A Cbc,Scotland,8009.0,Financials
+BigData-191,The Corsair,Scotland,33893.0,Technology
+BigData-192,English Micro,England,92546.0,Industrial
+BigData-193,A Tesla consulting,,48640.0,Energy
+BigData-194,American Anthropic,Scotland,23174.0,Health Care
+BigData-195,Canadian Macro limited,,79909.0,
+BigData-196,Canadian Aviva inc.,Uk,96402.0,Industrial
+BigData-197,The Orange mutual,,54660.0,Technology
+BigData-198,Canadian Satellite,Canada,69002.0,Health Care
+BigData-199,Canadian Cbc,Ca,26349.0,Financials
+BigData-200,Canadian Red,Canada,54953.0,Energy
+BigData-201,English Greggs,United Kingdom,53121.0,Financials
+BigData-202,Canadian Intact limited,Canada,25151.0,Financials
+BigData-203,American Cbc consulting,United States,20479.0,Technology
+BigData-204,English Nbc,Usa,33906.0,Health Care
+BigData-205,The Hyper financial,Fr,83391.0,Technology
+BigData-206,A Evil,Ca,28900.0,
+BigData-207,American Macro,Fr,,Health Care
+BigData-208,Canadian Cbc limited,Can,70567.0,Energy
+BigData-209,American Corsair,Can,26254.0,Financials
+BigData-210,English Nbc consulting,Uk,33934.0,Health Care
+BigData-211,Canadian Unicorn,Us,74518.0,Energy
+BigData-212,A Bloom,Usa,56788.0,Health Care
+BigData-213,The Paramount company,Uk,22530.0,Technology
+BigData-214,English Big Business,France,31883.0,Technology
+BigData-215,English Cbc,United Kingdom,,Energy
+BigData-216,Canadian Nvidia financial,,,Financials
+BigData-217,The Dc,Ca,35424.0,Financials
+BigData-218,English A&W inc.,Usa,40526.0,Technology
+BigData-219,A Red financial,France,59878.0,Energy
+BigData-220,A Marvel,United Kingdom,20620.0,Health Care
+BigData-221,English Orange,Fr,44185.0,Health Care
+BigData-222,English Red inc.,Fra,60691.0,Industrial
+BigData-223,A A&W,Scotland,25257.0,Industrial
+BigData-224,A Evil limited,Canada,37900.0,Health Care
+BigData-225,The Google,Fr,74150.0,Technology
+BigData-226,American Paramount,Fra,51347.0,Health Care
+BigData-227,American Greggs consulting,Scotland,17621.0,Industrial
+BigData-228,The Rust consulting,Fr,65442.0,Health Care
+BigData-229,American Skydance incorporated,Ca,71140.0,Industrial
+BigData-230,A Lucas Films financial,Canada,46112.0,Energy
+BigData-231,English Dc,Can,92309.0,Financials
+BigData-232,English Rust llc,,47480.0,
+BigData-233,Canadian Lucas Films llc,,56866.0,Technology
+BigData-234,The Aviva,,59668.0,
+BigData-235,Canadian Marvel,Scotland,2626.0,Industrial
+BigData-236,A Books incorporated,Canada,80442.0,Financials
+BigData-237,The Theory limited,Us,,Industrial
+BigData-238,Canadian Anthropic company,England,40251.0,Technology
+BigData-239,Canadian Dc,Ca,77750.0,Energy
+BigData-240,American Unicorn,United States,20252.0,
+BigData-241,American Bloom company,Can,78593.0,Health Care
+BigData-242,A Micro,Ca,74790.0,Financials
+BigData-243,Canadian Theory,Us,,Industrial
+BigData-244,English Orange,,74498.0,Health Care
+BigData-245,American Intact,Fra,86655.0,Energy
+BigData-246,English Good mutual,Canada,83771.0,Energy
+BigData-247,Canadian Cbc limited,Us,73404.0,Industrial
+BigData-248,The Nbc inc.,,4930.0,Industrial
+BigData-249,A Lucas Films company,France,67674.0,Financials
+BigData-250,A Big Business,United Kingdom,53972.0,Energy
+BigData-251,American Ford,United States,92155.0,Health Care
+BigData-252,American Chevy incorporated,,,Industrial
+BigData-253,A Skydance,United States,91560.0,Industrial
+BigData-254,The Discord incorporated,Usa,,Energy
+BigData-255,A Corsair,Uk,34556.0,Industrial
+BigData-256,Canadian Intact,,58781.0,Energy
+BigData-257,English Amazon,Can,9847.0,Industrial
+BigData-258,American Ford inc.,Uk,6939.0,
+BigData-259,The Paramount limited,United Kingdom,52296.0,Industrial
+BigData-260,Canadian Books incorporated,United Kingdom,95986.0,Technology
+BigData-261,American Corsair incorporated,England,52702.0,Industrial
+BigData-262,American Lucas Films,United Kingdom,79676.0,Industrial
+BigData-263,The Bloom mutual,England,81283.0,Health Care
+BigData-264,American Google mutual,Canada,9564.0,Energy
+BigData-265,The Amazon company,,95744.0,Energy
+BigData-266,A Chevy company,Usa,,Health Care
+BigData-267,The Evil,Ca,89626.0,Health Care
+BigData-268,The Greggs company,,71640.0,Industrial
+BigData-269,The Theory,United States,98693.0,Energy
+BigData-270,English Cbc llc,Canada,64311.0,Technology
+BigData-271,A Corsair incorporated,,92245.0,Energy
+BigData-272,Canadian Red llc,United Kingdom,86168.0,Health Care
+BigData-273,American Satellite company,Ca,71195.0,Health Care
+BigData-274,Canadian Paramount,United Kingdom,17958.0,Industrial
+BigData-275,English A&W,United Kingdom,22166.0,Technology
+BigData-276,A Discord consulting,Fr,89883.0,Energy
+BigData-277,Canadian Python consulting,France,93461.0,Financials
+BigData-278,The Macro,United States,13832.0,Energy
+BigData-279,American Amazon llc,France,95988.0,Financials
+BigData-280,Canadian Nvidia,,5320.0,Energy
+BigData-281,A Google financial,Usa,5323.0,Energy
+BigData-282,A Orange llc,Can,83729.0,Financials
+BigData-283,American Anthropic inc.,Scotland,6708.0,Financials
+BigData-284,A Evil,France,18627.0,Technology
+BigData-285,Canadian Discord mutual,,,Energy
+BigData-286,English Nvidia,England,32407.0,Health Care
+BigData-287,The Ford,Fr,23809.0,Energy
+BigData-288,The Macro incorporated,Uk,4784.0,Technology
+BigData-289,The Satellite limited,,47982.0,Financials
+BigData-290,Canadian Nvidia inc.,Us,,Energy
+BigData-291,English Nvidia,France,,Industrial
+BigData-292,English Unicorn company,Scotland,96289.0,Technology
+BigData-293,American Big Business,England,33645.0,Energy
+BigData-294,English Dc,England,73391.0,Health Care
+BigData-295,English Python,Ca,97476.0,Energy
+BigData-296,Canadian Corsair limited,United Kingdom,81836.0,
+BigData-297,The Tesla incorporated,Ca,46681.0,
 BigData-298,English Apple inc.,,42308.0,Health Care
-BigData-299,A Red,US,10999.0,Health Care
-BigData-300,English Python Mutual,US,45784.0,Health Care
-BigData-301,Canadian Bloom Mutual,United States,4977.0,Financials
-BigData-302,The Micro Consulting,,,Financials
-BigData-303,English Orange LLC,Canada,76744.0,Technology
-BigData-304,Canadian Chevy,United States,53978.0,
-BigData-305,American Rust inc.,England,21334.0,Technology
-BigData-306,American Python,England,,Technology
-BigData-307,The Theory Incorporated,Canada,28704.0,Energy
-BigData-308,English Apple Consulting,,24073.0,Technology
-BigData-309,American Discord LLC,,,Health Care
-BigData-310,The Rust Limited,United Kingdom,99041.0,Industrial
-BigData-311,The Rust LLC,Canada,68429.0,Energy
-BigData-312,The Bloom,England,99178.0,Technology
-BigData-313,A Rust,United Kingdom,24663.0,Technology
-BigData-314,Canadian Apple LLC,Canada,87011.0,Health Care
-BigData-315,The Discord,United States,53398.0,Financials
-BigData-316,English Micro Consulting,US,91057.0,Financials
-BigData-317,A Ford,United States,80301.0,Energy
-BigData-318,Canadian Bloom,,78096.0,Energy
-BigData-319,English Orange Mutual,Canada,31607.0,Health Care
-BigData-320,English Ford LLC,,50431.0,Health Care
-BigData-321,American Theory LLC,US,25132.0,Energy
-BigData-322,A Bloom,United Kingdom,38811.0,Health Care
-BigData-323,The Discord LLC,,69758.0,Industrial
-BigData-324,A Ford Limited,Canada,23042.0,Industrial
-BigData-325,A Rust,England,21478.0,Industrial
-BigData-326,Canadian Theory,US,12100.0,Industrial
-BigData-327,English Apple LLC,United Kingdom,73251.0,Technology
-BigData-328,English Red,United States,86104.0,Industrial
-BigData-329,English Micro Incorporated,England,24799.0,Technology
-BigData-330,Canadian Python,US,1149.0,Industrial
-BigData-331,A Rust Mutual,US,54291.0,Energy
-BigData-332,English Bloom Mutual,United Kingdom,33140.0,Industrial
-BigData-333,The Ford Mutual,US,66265.0,Industrial
-BigData-334,American Apple Incorporated,United Kingdom,61585.0,Health Care
-BigData-335,English Red,Canada,22942.0,Industrial
-BigData-336,Canadian Orange,United States,20103.0,Health Care
-BigData-337,American Apple,US,76762.0,
-BigData-338,Canadian Micro Financial,Canada,89131.0,Technology
-BigData-339,A Micro,United States,38524.0,Health Care
-BigData-340,English Micro Consulting,Canada,45449.0,Technology
-BigData-341,American Apple,Canada,44130.0,Energy
-BigData-342,A Discord,Canada,70365.0,Technology
-BigData-343,American Red inc.,United States,59462.0,Technology
-BigData-344,American Rust,United States,19081.0,Financials
-BigData-345,A Rust Consulting,,63250.0,Technology
-BigData-346,The Chevy,Canada,93915.0,
-BigData-347,The Python,Canada,43636.0,Industrial
-BigData-348,A Red Financial,United Kingdom,95544.0,Industrial
-BigData-349,Canadian Ford Consulting,Canada,66550.0,
-BigData-350,Canadian Apple,US,86372.0,Health Care
-BigData-351,The Theory Consulting,United States,71342.0,Financials
-BigData-352,A Bloom,England,44091.0,Financials
-BigData-353,American Apple Consulting,,93421.0,
-BigData-354,Canadian Python inc.,,92804.0,Energy
-BigData-355,A Rust,United Kingdom,17772.0,Health Care
-BigData-356,A Apple,,17192.0,Health Care
-BigData-357,The Theory,England,62451.0,Energy
-BigData-358,A Red,,9655.0,Industrial
-BigData-359,American Theory,US,80220.0,
-BigData-360,A Chevy,United Kingdom,47586.0,Technology
-BigData-361,English Red LLC,,87668.0,
-BigData-362,The Red LLC,United States,64611.0,Financials
-BigData-363,Canadian Rust Financial,Canada,47126.0,Industrial
-BigData-364,Canadian Python Limited,,79979.0,Technology
-BigData-365,Canadian Apple,Canada,5475.0,
-BigData-366,Canadian Chevy Consulting,Canada,13538.0,Technology
-BigData-367,Canadian Ford,Canada,99244.0,Energy
-BigData-368,English Theory Incorporated,United States,25676.0,Industrial
-BigData-369,A Bloom,Canada,,Technology
-BigData-370,American Ford inc.,US,27110.0,Health Care
-BigData-371,English Ford,United States,52510.0,Industrial
-BigData-372,English Ford Mutual,,65461.0,Financials
-BigData-373,American Red Limited,US,13458.0,Industrial
-BigData-374,A Red,Canada,55502.0,Industrial
-BigData-375,The Python,US,25880.0,Industrial
-BigData-376,A Apple Mutual,US,36704.0,Financials
-BigData-377,A Red Consulting,,1438.0,Health Care
-BigData-378,English Rust,United Kingdom,16149.0,
-BigData-379,The Apple inc.,Canada,,Health Care
-BigData-380,Canadian Micro Consulting,United States,23413.0,Financials
-BigData-381,English Apple Incorporated,Canada,7222.0,Energy
-BigData-382,English Rust Incorporated,United Kingdom,29805.0,Financials
-BigData-383,The Bloom,United States,68758.0,Financials
-BigData-384,The Bloom Consulting,,82019.0,Industrial
-BigData-385,A Bloom,US,92890.0,Health Care
-BigData-386,American Red Incorporated,US,12067.0,Financials
-BigData-387,English Discord,,1806.0,Industrial
-BigData-388,A Apple Limited,US,78115.0,Industrial
-BigData-389,The Theory Mutual,United States,63642.0,Health Care
-BigData-390,The Rust,England,7117.0,Health Care
-BigData-391,Canadian Bloom,US,11350.0,Health Care
-BigData-392,American Chevy,Canada,20695.0,Health Care
-BigData-393,A Theory,Canada,52067.0,
-BigData-394,Canadian Ford,,56822.0,Industrial
-BigData-395,Canadian Orange inc.,United States,8764.0,Financials
-BigData-396,Canadian Chevy Incorporated,United States,69264.0,Health Care
-BigData-397,Canadian Discord,,8725.0,Health Care
-BigData-398,English Red,United Kingdom,52544.0,Health Care
-BigData-399,American Python inc.,England,4187.0,Energy
-BigData-400,American Bloom,United States,,Health Care
-BigData-401,Canadian Theory,,73550.0,Technology
-BigData-402,Canadian Rust Financial,United States,83720.0,Health Care
-BigData-403,A Ford Company,,62757.0,Industrial
-BigData-404,American Bloom,Canada,15872.0,Health Care
-BigData-405,Canadian Rust,Canada,,Technology
-BigData-406,American Apple,US,63854.0,Technology
-BigData-407,A Orange,,16198.0,Industrial
-BigData-408,The Ford Company,England,36318.0,Technology
-BigData-409,Canadian Micro Mutual,England,5747.0,
-BigData-410,The Discord,United States,93595.0,Industrial
-BigData-411,A Chevy,US,31615.0,Financials
-BigData-412,English Discord,United Kingdom,47168.0,Health Care
-BigData-413,The Theory,Canada,46397.0,Financials
-BigData-414,American Bloom Incorporated,United Kingdom,28749.0,Financials
-BigData-415,English Orange Consulting,,13150.0,Technology
-BigData-416,Canadian Red Incorporated,,92377.0,Energy
-BigData-417,The Orange,United States,17924.0,
-BigData-418,A Ford,United States,88566.0,Industrial
-BigData-419,The Micro,United Kingdom,82725.0,Health Care
-BigData-420,A Theory Company,Canada,80332.0,Energy
-BigData-421,The Rust,Canada,20792.0,Technology
-BigData-422,A Orange Consulting,United Kingdom,28329.0,Energy
-BigData-423,The Chevy,England,5706.0,Industrial
-BigData-424,The Apple,,25856.0,Health Care
-BigData-425,A Python inc.,United States,42160.0,Health Care
-BigData-426,A Bloom,Canada,,Energy
-BigData-427,English Apple Company,Canada,95929.0,Technology
-BigData-428,American Micro,United Kingdom,37558.0,Health Care
-BigData-429,American Theory inc.,,81894.0,Energy
-BigData-430,A Theory Incorporated,United States,32638.0,Health Care
-BigData-431,A Theory Financial,US,17932.0,Industrial
-BigData-432,The Micro LLC,United States,35523.0,Financials
-BigData-433,English Python Company,Canada,53425.0,Technology
-BigData-434,English Theory Financial,United Kingdom,80274.0,Technology
-BigData-435,American Orange inc.,Canada,89269.0,Health Care
-BigData-436,American Chevy Incorporated,US,80197.0,Industrial
-BigData-437,A Discord Consulting,Canada,86435.0,Financials
-BigData-438,A Chevy,United Kingdom,72674.0,Financials
-BigData-439,A Ford,United States,9343.0,Technology
-BigData-440,American Rust,Canada,88551.0,Energy
-BigData-441,Canadian Orange LLC,United States,48019.0,Technology
-BigData-442,The Red Consulting,United Kingdom,60526.0,Health Care
-BigData-443,English Python,United Kingdom,84485.0,Technology
-BigData-444,A Apple,,45462.0,Financials
-BigData-445,The Micro,United States,75000.0,Industrial
-BigData-446,The Theory,US,24521.0,Energy
-BigData-447,American Micro Company,Canada,64228.0,Industrial
-BigData-448,A Ford Company,Canada,49842.0,Industrial
-BigData-449,The Ford,,61595.0,Industrial
-BigData-450,American Discord Limited,England,67257.0,Energy
-BigData-451,English Rust Consulting,England,9323.0,Health Care
-BigData-452,The Rust,United States,50498.0,Technology
-BigData-453,English Chevy Company,US,79303.0,Financials
-BigData-454,A Rust,US,62739.0,Energy
-BigData-455,Canadian Bloom,Canada,74811.0,Financials
-BigData-456,The Chevy,US,69799.0,Financials
-BigData-457,Canadian Red,Canada,90575.0,Industrial
-BigData-458,The Orange Consulting,,49733.0,Industrial
-BigData-459,English Ford inc.,,82039.0,Energy
-BigData-460,Canadian Discord,US,55243.0,Technology
-BigData-461,Canadian Bloom Company,United Kingdom,46495.0,Energy
-BigData-462,A Apple Financial,,94356.0,Industrial
-BigData-463,Canadian Micro LLC,Canada,24731.0,Health Care
-BigData-464,English Ford,US,16889.0,Industrial
-BigData-465,A Theory Incorporated,,17703.0,Financials
-BigData-466,English Micro Mutual,United States,5322.0,Industrial
-BigData-467,Canadian Theory,US,88983.0,Energy
-BigData-468,English Python inc.,US,4403.0,
-BigData-469,American Python Incorporated,,,Financials
-BigData-470,American Theory Financial,United States,62794.0,Financials
-BigData-471,American Micro,US,92194.0,Health Care
-BigData-472,American Discord LLC,,95240.0,Industrial
-BigData-473,Canadian Theory Company,US,89435.0,Health Care
-BigData-474,The Discord Mutual,,60316.0,Energy
-BigData-475,Canadian Chevy inc.,England,,Health Care
-BigData-476,A Python Mutual,Canada,31503.0,Industrial
-BigData-477,American Chevy,United States,99666.0,Financials
-BigData-478,The Red LLC,England,76213.0,Health Care
-BigData-479,Canadian Chevy,Canada,58826.0,Health Care
-BigData-480,American Discord inc.,Canada,43913.0,Health Care
-BigData-481,English Bloom,Canada,98132.0,Industrial
-BigData-482,The Orange Consulting,,76951.0,Energy
-BigData-483,English Bloom inc.,US,50295.0,Energy
-BigData-484,The Apple Company,US,67902.0,Industrial
-BigData-485,The Ford,England,52106.0,Financials
-BigData-486,The Rust,Canada,8225.0,Technology
-BigData-487,English Red,United Kingdom,,Industrial
-BigData-488,The Python,England,1750.0,
-BigData-489,The Python,Canada,39274.0,Industrial
-BigData-490,Canadian Python Consulting,United Kingdom,35766.0,Industrial
-BigData-491,Canadian Python,United States,16097.0,
-BigData-492,Canadian Red,US,78111.0,Energy
-BigData-493,The Bloom,,,Technology
-BigData-494,Canadian Theory,United Kingdom,37244.0,
-BigData-495,Canadian Apple,United Kingdom,6468.0,Financials
-BigData-496,A Theory Consulting,,16804.0,Industrial
-BigData-497,The Chevy,Canada,1405.0,Health Care
-BigData-498,English Rust,US,57937.0,Health Care
-BigData-499,A Chevy,,46065.0,Industrial
-BigData-500,Canadian Theory,United Kingdom,,Financials
-BigData-501,A Apple,United States,47195.0,Energy
-BigData-502,Canadian Chevy Consulting,England,99965.0,Technology
-BigData-503,The Rust Consulting,Canada,68459.0,Financials
-BigData-504,American Bloom Consulting,US,68922.0,Financials
-BigData-505,The Bloom,United States,75607.0,Industrial
-BigData-506,The Chevy,US,10607.0,Industrial
-BigData-507,The Theory,,36701.0,Technology
-BigData-508,The Orange,United States,14203.0,Industrial
-BigData-509,The Micro Company,United Kingdom,95418.0,Technology
-BigData-510,Canadian Chevy,United Kingdom,91947.0,Health Care
-BigData-511,English Theory,United States,46458.0,Financials
-BigData-512,Canadian Rust,,,
-BigData-513,American Red Incorporated,,10180.0,Industrial
-BigData-514,English Rust Consulting,England,7538.0,
-BigData-515,Canadian Theory,United States,41704.0,Health Care
-BigData-516,The Bloom,,25851.0,Energy
-BigData-517,Canadian Ford,Canada,32554.0,Technology
-BigData-518,Canadian Rust,US,29200.0,Industrial
-BigData-519,Canadian Bloom,United States,91316.0,Technology
-BigData-520,Canadian Apple,Canada,24301.0,Technology
-BigData-521,Canadian Ford Financial,United Kingdom,89264.0,Health Care
-BigData-522,The Orange inc.,Canada,,
-BigData-523,American Python,United Kingdom,38290.0,Industrial
-BigData-524,English Bloom Limited,England,62338.0,Technology
-BigData-525,Canadian Apple,United Kingdom,92746.0,Financials
-BigData-526,English Python,Canada,24545.0,Industrial
-BigData-527,English Python Mutual,Canada,13555.0,Technology
-BigData-528,Canadian Apple,United Kingdom,59147.0,Financials
-BigData-529,American Chevy,,77275.0,Financials
-BigData-530,Canadian Orange,United States,44336.0,
-BigData-531,A Rust Consulting,US,40587.0,Financials
-BigData-532,A Red,US,96545.0,Industrial
-BigData-533,American Apple,,92036.0,
-BigData-534,Canadian Red,United States,4717.0,Industrial
-BigData-535,Canadian Theory Limited,US,79203.0,Technology
-BigData-536,English Ford LLC,,56365.0,Health Care
-BigData-537,Canadian Micro,Canada,,Technology
-BigData-538,English Theory LLC,US,16940.0,
-BigData-539,English Theory inc.,Canada,75819.0,Technology
-BigData-540,The Chevy,United Kingdom,84442.0,Health Care
-BigData-541,American Micro,US,17127.0,Financials
-BigData-542,Canadian Apple,United Kingdom,53621.0,Health Care
-BigData-543,American Bloom inc.,United States,95194.0,Energy
-BigData-544,Canadian Ford Financial,United Kingdom,91103.0,Financials
-BigData-545,English Red,,30797.0,Financials
-BigData-546,English Apple inc.,,83820.0,Energy
-BigData-547,The Ford,US,73947.0,Health Care
-BigData-548,Canadian Apple,United States,17068.0,Technology
-BigData-549,American Red,United Kingdom,99599.0,Technology
-BigData-550,A Rust Company,United Kingdom,31617.0,Health Care
-BigData-551,Canadian Rust,United Kingdom,23076.0,Energy
-BigData-552,The Apple Company,,28522.0,Health Care
-BigData-553,Canadian Ford,US,,Technology
-BigData-554,Canadian Ford,US,30212.0,Technology
-BigData-555,English Orange,United States,90770.0,Technology
-BigData-556,A Ford,US,90551.0,Industrial
-BigData-557,Canadian Apple,United Kingdom,28473.0,Financials
-BigData-558,American Chevy Limited,United Kingdom,6493.0,
-BigData-559,Canadian Discord Mutual,United States,74544.0,Energy
-BigData-560,A Ford inc.,US,92947.0,Technology
-BigData-561,Canadian Rust inc.,United States,73707.0,Financials
-BigData-562,Canadian Rust Financial,United States,31788.0,
-BigData-563,A Rust,Canada,62390.0,Financials
-BigData-564,English Discord,United Kingdom,52997.0,Financials
-BigData-565,American Micro,,32177.0,Technology
-BigData-566,Canadian Micro,Canada,98825.0,Technology
-BigData-567,Canadian Chevy,United Kingdom,64865.0,Technology
+BigData-299,A Corsair,Fra,10999.0,Health Care
+BigData-300,English Brooks mutual,Fra,45784.0,Health Care
+BigData-301,Canadian Chevy mutual,Usa,4977.0,Financials
+BigData-302,The Python consulting,,,Financials
+BigData-303,English Google llc,Can,76744.0,Technology
+BigData-304,Canadian Marvel,Usa,53978.0,
+BigData-305,American Good inc.,Can,21334.0,Technology
+BigData-306,American Books,Canada,,Technology
+BigData-307,The Intact incorporated,Ca,28704.0,Energy
+BigData-308,English Bloom consulting,,24073.0,Technology
+BigData-309,American A&W llc,,,Health Care
+BigData-310,The Good limited,United Kingdom,99041.0,Industrial
+BigData-311,The Evil llc,Can,68429.0,Energy
+BigData-312,The Discord,Scotland,99178.0,Technology
+BigData-313,A Mcdonalds,England,24663.0,Technology
+BigData-314,Canadian Micro llc,Ca,87011.0,Health Care
+BigData-315,The Lucas Films,Usa,53398.0,Financials
+BigData-316,English Rust consulting,Fr,91057.0,Financials
+BigData-317,A Paramount,Usa,80301.0,Energy
+BigData-318,Canadian Discord,,78096.0,Energy
+BigData-319,English Amazon mutual,Ca,31607.0,Health Care
+BigData-320,English Paramount llc,,50431.0,Health Care
+BigData-321,American Intact llc,Fr,25132.0,Energy
+BigData-322,A Discord,Uk,38811.0,Health Care
+BigData-323,The Lucas Films llc,,69758.0,Industrial
+BigData-324,A Unicorn limited,United States,23042.0,Industrial
+BigData-325,A Mcdonalds,Canada,21478.0,Industrial
+BigData-326,Canadian Macro,Fra,12100.0,Industrial
+BigData-327,English Theory llc,England,73251.0,Technology
+BigData-328,English Nvidia,United States,86104.0,Industrial
+BigData-329,English Red incorporated,Scotland,24799.0,Technology
+BigData-330,Canadian Big One,Fr,1149.0,Industrial
+BigData-331,A Good mutual,France,54291.0,Energy
+BigData-332,English Discord mutual,United Kingdom,33140.0,Industrial
+BigData-333,The Bbc mutual,Fra,66265.0,Industrial
+BigData-334,American Apple incorporated,England,61585.0,Health Care
+BigData-335,English Corsair,Ca,22942.0,Industrial
+BigData-336,Canadian Google,France,20103.0,Health Care
+BigData-337,American Bloom,Fr,76762.0,
+BigData-338,Canadian Python financial,Can,89131.0,Technology
+BigData-339,A Rust,France,38524.0,Health Care
+BigData-340,English Red consulting,Ca,45449.0,Technology
+BigData-341,American Bloom,Can,44130.0,Energy
+BigData-342,A Lucas Films,United States,70365.0,Technology
+BigData-343,American Nvidia inc.,Usa,59462.0,Technology
+BigData-344,American Evil,Usa,19081.0,Financials
+BigData-345,A Evil consulting,,63250.0,Technology
+BigData-346,The Dc,Can,93915.0,
+BigData-347,The Big Business,Ca,43636.0,Industrial
+BigData-348,A Tesla financial,United Kingdom,95544.0,Industrial
+BigData-349,Canadian Bbc consulting,Can,66550.0,
+BigData-350,Canadian Theory,Fra,86372.0,Health Care
+BigData-351,The Aviva consulting,Usa,71342.0,Financials
+BigData-352,A Rust,Can,44091.0,Financials
+BigData-353,American Bloom consulting,,93421.0,
+BigData-354,Canadian Books inc.,,92804.0,Energy
+BigData-355,A Good,United Kingdom,17772.0,Health Care
+BigData-356,A Micro,,17192.0,Health Care
+BigData-357,The Intact,Scotland,62451.0,Energy
+BigData-358,A Tesla,,9655.0,Industrial
+BigData-359,American Anthropic,Fr,80220.0,
+BigData-360,A Cbc,England,47586.0,Technology
+BigData-361,English Aviva llc,,87668.0,
+BigData-362,The Nvidia llc,Us,64611.0,Financials
+BigData-363,Canadian Brooks financial,Can,47126.0,Industrial
+BigData-364,Canadian Big Business limited,,79979.0,Technology
+BigData-365,Canadian Theory,Can,5475.0,
+BigData-366,Canadian Cbc consulting,Ca,13538.0,Technology
+BigData-367,Canadian Paramount,Ca,99244.0,Energy
+BigData-368,English Macro incorporated,Us,25676.0,Industrial
+BigData-369,A Chevy,Can,,Technology
+BigData-370,American Paramount inc.,Fra,27110.0,Health Care
+BigData-371,English Unicorn,Usa,52510.0,Industrial
+BigData-372,English Skydance mutual,,65461.0,Financials
+BigData-373,American Satellite limited,Fr,13458.0,Industrial
+BigData-374,A Tesla,United States,55502.0,Industrial
+BigData-375,The Books,France,25880.0,Industrial
+BigData-376,A Apple mutual,Fr,36704.0,Financials
+BigData-377,A Aviva consulting,,1438.0,Health Care
+BigData-378,English Mcdonalds,United Kingdom,16149.0,
+BigData-379,The Bloom inc.,Ca,,Health Care
+BigData-380,Canadian Theory consulting,France,23413.0,Financials
+BigData-381,English Theory incorporated,Can,7222.0,Energy
+BigData-382,English Mcdonalds incorporated,England,29805.0,Financials
+BigData-383,The Ford,Usa,68758.0,Financials
+BigData-384,The Ford consulting,,82019.0,Industrial
+BigData-385,A Ford,Fra,92890.0,Health Care
+BigData-386,American Corsair incorporated,Fr,12067.0,Financials
+BigData-387,English Marvel,,1806.0,Industrial
+BigData-388,A Bloom limited,Fr,78115.0,Industrial
+BigData-389,The Discord mutual,Usa,63642.0,Health Care
+BigData-390,The Brooks,Scotland,7117.0,Health Care
+BigData-391,Canadian Chevy,Fra,11350.0,Health Care
+BigData-392,American Nbc,Can,20695.0,Health Care
+BigData-393,A Macro,United States,52067.0,
+BigData-394,Canadian Skydance,,56822.0,Industrial
+BigData-395,Canadian Google inc.,Us,8764.0,Financials
+BigData-396,Canadian Cbc incorporated,Us,69264.0,Health Care
+BigData-397,Canadian Lucas Films,,8725.0,Health Care
+BigData-398,English Nvidia,England,52544.0,Health Care
+BigData-399,American Brooks inc.,Scotland,4187.0,Energy
+BigData-400,American Chevy,France,,Health Care
+BigData-401,Canadian Aviva,,73550.0,Technology
+BigData-402,Canadian Brooks financial,Us,83720.0,Health Care
+BigData-403,A Paramount company,,62757.0,Industrial
+BigData-404,American Chevy,United States,15872.0,Health Care
+BigData-405,Canadian Brooks,Can,,Technology
+BigData-406,American Micro,Fr,63854.0,Technology
+BigData-407,A Satellite,,16198.0,Industrial
+BigData-408,The Skydance company,Uk,36318.0,Technology
+BigData-409,Canadian Orange mutual,Scotland,5747.0,
+BigData-410,The Greggs,Usa,93595.0,Industrial
+BigData-411,A Marvel,Fr,31615.0,Financials
+BigData-412,English Greggs,United Kingdom,47168.0,Health Care
+BigData-413,The Anthropic,United States,46397.0,Financials
+BigData-414,American Chevy incorporated,England,28749.0,Financials
+BigData-415,English Amazon consulting,,13150.0,Technology
+BigData-416,Canadian Nvidia incorporated,,92377.0,Energy
+BigData-417,The Hyper,France,17924.0,
+BigData-418,A Skydance,France,88566.0,Industrial
+BigData-419,The Theory,England,82725.0,Health Care
+BigData-420,A Macro company,Can,80332.0,Energy
+BigData-421,The Evil,United States,20792.0,Technology
+BigData-422,A Google consulting,England,28329.0,Energy
+BigData-423,The Marvel,Canada,5706.0,Industrial
+BigData-424,The Micro,,25856.0,Health Care
+BigData-425,A Big One inc.,Usa,42160.0,Health Care
+BigData-426,A Discord,United States,,Energy
+BigData-427,English Apple company,Can,95929.0,Technology
+BigData-428,American Orange,Uk,37558.0,Health Care
+BigData-429,American Intact inc.,,81894.0,Energy
+BigData-430,A Macro incorporated,Usa,32638.0,Health Care
+BigData-431,A Intact financial,France,17932.0,Industrial
+BigData-432,The Orange llc,Usa,35523.0,Financials
+BigData-433,English Brooks company,Ca,53425.0,Technology
+BigData-434,English Macro financial,England,80274.0,Technology
+BigData-435,American Hyper inc.,Ca,89269.0,Health Care
+BigData-436,American Cbc incorporated,Fra,80197.0,Industrial
+BigData-437,A Lucas Films consulting,Can,86435.0,Financials
+BigData-438,A Bbc,Uk,72674.0,Financials
+BigData-439,A Unicorn,France,9343.0,Technology
+BigData-440,American Unicorn,United States,88551.0,Energy
+BigData-441,Canadian Hyper llc,Us,48019.0,Technology
+BigData-442,The Nvidia consulting,United Kingdom,60526.0,Health Care
+BigData-443,English Books,United Kingdom,84485.0,Technology
+BigData-444,A Bloom,,45462.0,Financials
+BigData-445,The Orange,Usa,75000.0,Industrial
+BigData-446,The Macro,Fra,24521.0,Energy
+BigData-447,American Red company,United States,64228.0,Industrial
+BigData-448,A Skydance company,Can,49842.0,Industrial
+BigData-449,The Unicorn,,61595.0,Industrial
+BigData-450,American Greggs limited,Canada,67257.0,Energy
+BigData-451,English Mcdonalds consulting,Canada,9323.0,Health Care
+BigData-452,The Brooks,Usa,50498.0,Technology
+BigData-453,English Marvel company,Fr,79303.0,Financials
+BigData-454,A Evil,Fr,62739.0,Energy
+BigData-455,Canadian Chevy,United States,74811.0,Financials
+BigData-456,The Bbc,France,69799.0,Financials
+BigData-457,Canadian Aviva,Ca,90575.0,Industrial
+BigData-458,The Hyper consulting,,49733.0,Industrial
+BigData-459,English Skydance inc.,,82039.0,Energy
+BigData-460,Canadian Marvel,France,55243.0,Technology
+BigData-461,Canadian Discord company,England,46495.0,Energy
+BigData-462,A Apple financial,,94356.0,Industrial
+BigData-463,Canadian Red llc,Can,24731.0,Health Care
+BigData-464,English Skydance,France,16889.0,Industrial
+BigData-465,A Intact incorporated,,17703.0,Financials
+BigData-466,English Python mutual,Usa,5322.0,Industrial
+BigData-467,Canadian Intact,Fra,88983.0,Energy
+BigData-468,English Big One inc.,Fr,4403.0,
+BigData-469,American Books incorporated,,,Financials
+BigData-470,American Macro financial,France,62794.0,Financials
+BigData-471,American Rust,France,92194.0,Health Care
+BigData-472,American A&W llc,,95240.0,Industrial
+BigData-473,Canadian Anthropic company,France,89435.0,Health Care
+BigData-474,The Lucas Films mutual,,60316.0,Energy
+BigData-475,Canadian Marvel inc.,Canada,,Health Care
+BigData-476,A Books mutual,United States,31503.0,Industrial
+BigData-477,American Nbc,Usa,99666.0,Financials
+BigData-478,The Nvidia llc,Scotland,76213.0,Health Care
+BigData-479,Canadian Bbc,Can,58826.0,Health Care
+BigData-480,American A&W inc.,United States,43913.0,Health Care
+BigData-481,English Discord,United States,98132.0,Industrial
+BigData-482,The Satellite consulting,,76951.0,Energy
+BigData-483,English Discord inc.,Fr,50295.0,Energy
+BigData-484,The Bloom company,Fra,67902.0,Industrial
+BigData-485,The Unicorn,Canada,52106.0,Financials
+BigData-486,The Evil,Ca,8225.0,Technology
+BigData-487,English Nvidia,United Kingdom,,Industrial
+BigData-488,The Books,Uk,1750.0,
+BigData-489,The Brooks,Can,39274.0,Industrial
+BigData-490,Canadian Big One consulting,Uk,35766.0,Industrial
+BigData-491,Canadian Big Business,France,16097.0,
+BigData-492,Canadian Tesla,France,78111.0,Energy
+BigData-493,The Discord,,,Technology
+BigData-494,Canadian Aviva,Uk,37244.0,
+BigData-495,Canadian Bloom,United Kingdom,6468.0,Financials
+BigData-496,A Anthropic consulting,,16804.0,Industrial
+BigData-497,The Cbc,United States,1405.0,Health Care
+BigData-498,English Evil,Fr,57937.0,Health Care
+BigData-499,A Bbc,,46065.0,Industrial
+BigData-500,Canadian Anthropic,Uk,,Financials
+BigData-501,A Bloom,United States,47195.0,Energy
+BigData-502,Canadian Cbc consulting,Scotland,99965.0,Technology
+BigData-503,The Brooks consulting,Can,68459.0,Financials
+BigData-504,American Rust consulting,Fra,68922.0,Financials
+BigData-505,The Rust,Us,75607.0,Industrial
+BigData-506,The Nbc,Fra,10607.0,Industrial
+BigData-507,The Aviva,,36701.0,Technology
+BigData-508,The Hyper,Us,14203.0,Industrial
+BigData-509,The Theory company,Uk,95418.0,Technology
+BigData-510,Canadian Dc,United Kingdom,91947.0,Health Care
+BigData-511,English Anthropic,France,46458.0,Financials
+BigData-512,Canadian Brooks,,,
+BigData-513,American Aviva incorporated,,10180.0,Industrial
+BigData-514,English Mcdonalds consulting,Scotland,7538.0,
+BigData-515,Canadian Anthropic,Us,41704.0,Health Care
+BigData-516,The Chevy,,25851.0,Energy
+BigData-517,Canadian Bbc,Ca,32554.0,Technology
+BigData-518,Canadian Evil,Fr,29200.0,Industrial
+BigData-519,Canadian Rust,United States,91316.0,Technology
+BigData-520,Canadian Apple,Ca,24301.0,Technology
+BigData-521,Canadian Skydance financial,United Kingdom,89264.0,Health Care
+BigData-522,The Hyper inc.,United States,,
+BigData-523,American Big One,England,38290.0,Industrial
+BigData-524,English Rust limited,Canada,62338.0,Technology
+BigData-525,Canadian Bloom,England,92746.0,Financials
+BigData-526,English Big Business,United States,24545.0,Industrial
+BigData-527,English Books mutual,United States,13555.0,Technology
+BigData-528,Canadian Apple,Uk,59147.0,Financials
+BigData-529,American Nbc,,77275.0,Financials
+BigData-530,Canadian Amazon,Us,44336.0,
+BigData-531,A Evil consulting,Fra,40587.0,Financials
+BigData-532,A Tesla,Fra,96545.0,Industrial
+BigData-533,American Theory,,92036.0,
+BigData-534,Canadian Tesla,Usa,4717.0,Industrial
+BigData-535,Canadian Macro limited,Fra,79203.0,Technology
+BigData-536,English Skydance llc,,56365.0,Health Care
+BigData-537,Canadian Red,Can,,Technology
+BigData-538,English Anthropic llc,France,16940.0,
+BigData-539,English Macro inc.,United States,75819.0,Technology
+BigData-540,The Nbc,United Kingdom,84442.0,Health Care
+BigData-541,American Python,Fr,17127.0,Financials
+BigData-542,Canadian Bloom,England,53621.0,Health Care
+BigData-543,American Discord inc.,Us,95194.0,Energy
+BigData-544,Canadian Unicorn financial,England,91103.0,Financials
+BigData-545,English Corsair,,30797.0,Financials
+BigData-546,English Micro inc.,,83820.0,Energy
+BigData-547,The Bbc,Fra,73947.0,Health Care
+BigData-548,Canadian Micro,Us,17068.0,Technology
+BigData-549,American Aviva,England,99599.0,Technology
+BigData-550,A Evil company,United Kingdom,31617.0,Health Care
+BigData-551,Canadian Mcdonalds,United Kingdom,23076.0,Energy
+BigData-552,The Theory company,,28522.0,Health Care
+BigData-553,Canadian Bbc,Fr,,Technology
+BigData-554,Canadian Skydance,Fra,30212.0,Technology
+BigData-555,English Amazon,Usa,90770.0,Technology
+BigData-556,A Paramount,Fra,90551.0,Industrial
+BigData-557,Canadian Micro,United Kingdom,28473.0,Financials
+BigData-558,American Bbc limited,Uk,6493.0,
+BigData-559,Canadian Lucas Films mutual,Us,74544.0,Energy
+BigData-560,A Skydance inc.,France,92947.0,Technology
+BigData-561,Canadian Good inc.,Usa,73707.0,Financials
+BigData-562,Canadian Brooks financial,Usa,31788.0,
+BigData-563,A Mcdonalds,Ca,62390.0,Financials
+BigData-564,English Lucas Films,United Kingdom,52997.0,Financials
+BigData-565,American Python,,32177.0,Technology
+BigData-566,Canadian Python,United States,98825.0,Technology
+BigData-567,Canadian Marvel,Uk,64865.0,Technology
 BigData-568,The Apple,,94265.0,Health Care
-BigData-569,Canadian Micro LLC,,,
-BigData-570,English Discord Financial,Canada,38229.0,Financials
-BigData-571,American Python Limited,US,79779.0,Health Care
-BigData-572,American Micro,England,92773.0,Energy
-BigData-573,A Discord,US,86673.0,Health Care
-BigData-574,Canadian Chevy,England,94617.0,Industrial
-BigData-575,The Discord,United Kingdom,39685.0,Health Care
-BigData-576,The Python inc.,,94957.0,Industrial
-BigData-577,Canadian Ford,United Kingdom,18656.0,Industrial
-BigData-578,Canadian Orange Company,United States,31664.0,Energy
-BigData-579,English Python LLC,United States,56007.0,Industrial
-BigData-580,Canadian Apple,United States,25510.0,Financials
-BigData-581,American Orange Company,US,11743.0,Financials
-BigData-582,Canadian Chevy,United Kingdom,21338.0,Health Care
-BigData-583,American Python,Canada,28974.0,Health Care
-BigData-584,American Orange,United Kingdom,20148.0,Technology
-BigData-585,English Python Incorporated,United Kingdom,56688.0,Financials
-BigData-586,English Chevy,Canada,81183.0,Technology
-BigData-587,Canadian Red,US,,
-BigData-588,The Micro Mutual,,14483.0,
-BigData-589,Canadian Bloom Consulting,United States,25493.0,Technology
-BigData-590,A Micro Financial,Canada,53196.0,Health Care
-BigData-591,A Chevy,,46277.0,Financials
-BigData-592,The Bloom inc.,United Kingdom,88163.0,Industrial
-BigData-593,Canadian Apple Company,United States,28745.0,Health Care
-BigData-594,Canadian Ford,England,,Health Care
-BigData-595,American Theory Consulting,England,26207.0,Health Care
-BigData-596,American Theory,,,Financials
+BigData-569,Canadian Red llc,,,
+BigData-570,English Lucas Films financial,Ca,38229.0,Financials
+BigData-571,American Brooks limited,Fra,79779.0,Health Care
+BigData-572,American Python,Scotland,92773.0,Energy
+BigData-573,A Lucas Films,France,86673.0,Health Care
+BigData-574,Canadian Dc,Uk,94617.0,Industrial
+BigData-575,The Lucas Films,Uk,39685.0,Health Care
+BigData-576,The Big One inc.,,94957.0,Industrial
+BigData-577,Canadian Unicorn,England,18656.0,Industrial
+BigData-578,Canadian Google company,Us,31664.0,Energy
+BigData-579,English Big One llc,Usa,56007.0,Industrial
+BigData-580,Canadian Bloom,Us,25510.0,Financials
+BigData-581,American Google company,Fr,11743.0,Financials
+BigData-582,Canadian Cbc,Uk,21338.0,Health Care
+BigData-583,American Books,Ca,28974.0,Health Care
+BigData-584,American Amazon,England,20148.0,Technology
+BigData-585,English Big Business incorporated,Uk,56688.0,Financials
+BigData-586,English Marvel,Ca,81183.0,Technology
+BigData-587,Canadian Tesla,France,,
+BigData-588,The Orange mutual,,14483.0,
+BigData-589,Canadian Ford consulting,Usa,25493.0,Technology
+BigData-590,A Python financial,Ca,53196.0,Health Care
+BigData-591,A Marvel,,46277.0,Financials
+BigData-592,The Ford inc.,Uk,88163.0,Industrial
+BigData-593,Canadian Micro company,Us,28745.0,Health Care
+BigData-594,Canadian Bbc,Scotland,,Health Care
+BigData-595,American Discord consulting,Canada,26207.0,Health Care
+BigData-596,American Intact,,,Financials
 BigData-597,English Apple,United States,34059.0,Technology
-BigData-598,Canadian Bloom,United States,71999.0,Technology
-BigData-599,American Micro,United Kingdom,15062.0,Financials
-BigData-600,English Apple Mutual,England,27693.0,Industrial
-BigData-601,Canadian Discord inc.,,95661.0,Health Care
-BigData-602,English Apple inc.,United States,96514.0,Financials
-BigData-603,English Rust LLC,Canada,67820.0,Energy
-BigData-604,The Ford,,75575.0,Health Care
-BigData-605,Canadian Python,,34542.0,Technology
-BigData-606,American Micro,England,55532.0,Health Care
-BigData-607,Canadian Red Financial,US,,Health Care
-BigData-608,American Discord Company,US,67767.0,Health Care
-BigData-609,The Red LLC,United Kingdom,14953.0,
-BigData-610,Canadian Red inc.,United Kingdom,58583.0,Energy
-BigData-611,The Theory Incorporated,United States,90102.0,Health Care
-BigData-612,A Theory inc.,,79259.0,Financials
-BigData-613,The Theory,United Kingdom,96544.0,Industrial
-BigData-614,English Python Mutual,US,48393.0,Technology
-BigData-615,The Python Limited,England,42523.0,Financials
-BigData-616,English Micro,England,39497.0,Energy
-BigData-617,Canadian Orange Consulting,Canada,67122.0,Technology
-BigData-618,Canadian Micro,,46138.0,Energy
-BigData-619,American Discord Company,US,,Technology
-BigData-620,The Bloom Financial,United States,52615.0,Technology
-BigData-621,The Red Mutual,Canada,33282.0,Industrial
-BigData-622,English Theory Mutual,Canada,,Health Care
-BigData-623,American Discord,United States,67788.0,Energy
-BigData-624,The Bloom,United Kingdom,44126.0,
-BigData-625,The Chevy inc.,United States,15893.0,Industrial
-BigData-626,English Orange Consulting,,98923.0,Industrial
-BigData-627,English Red Incorporated,Canada,,
-BigData-628,English Apple Mutual,United States,50376.0,Industrial
-BigData-629,English Bloom,United States,32076.0,Industrial
-BigData-630,English Red Mutual,Canada,33169.0,Energy
-BigData-631,The Discord Company,US,31161.0,Technology
-BigData-632,English Red,,99761.0,Financials
-BigData-633,A Orange,United Kingdom,93866.0,Financials
-BigData-634,The Ford,Canada,61779.0,
-BigData-635,American Python Financial,England,95080.0,Industrial
-BigData-636,Canadian Red LLC,England,50129.0,Energy
-BigData-637,English Orange Limited,United States,30878.0,Technology
-BigData-638,Canadian Micro LLC,United States,59512.0,Health Care
-BigData-639,The Chevy inc.,United States,98255.0,Technology
-BigData-640,Canadian Python LLC,,1341.0,
-BigData-641,English Rust Mutual,Canada,40420.0,Technology
-BigData-642,A Rust Mutual,United States,,Industrial
-BigData-643,The Red inc.,United States,97268.0,Financials
-BigData-644,Canadian Apple,Canada,20576.0,Health Care
-BigData-645,English Red,US,70106.0,Energy
-BigData-646,The Apple Incorporated,,89535.0,Financials
-BigData-647,The Ford,United Kingdom,69140.0,Health Care
-BigData-648,The Chevy Limited,US,65172.0,
-BigData-649,Canadian Apple,,10272.0,Financials
-BigData-650,American Bloom,US,40775.0,Energy
-BigData-651,English Orange,United Kingdom,,Financials
-BigData-652,American Discord,US,74795.0,Industrial
-BigData-653,English Python Limited,,98067.0,Industrial
-BigData-654,A Apple Consulting,,60173.0,Energy
-BigData-655,English Micro Company,United Kingdom,52093.0,
-BigData-656,Canadian Red inc.,United Kingdom,50049.0,Energy
-BigData-657,A Orange Limited,United Kingdom,20631.0,Energy
-BigData-658,The Rust Consulting,,73246.0,Technology
-BigData-659,American Discord,US,98149.0,Health Care
-BigData-660,English Ford inc.,United Kingdom,,Energy
-BigData-661,English Discord,England,55007.0,Technology
-BigData-662,American Ford inc.,,9724.0,Health Care
-BigData-663,The Red Financial,Canada,33558.0,Industrial
-BigData-664,American Discord Company,US,36738.0,Financials
-BigData-665,Canadian Discord Mutual,United States,22713.0,Energy
-BigData-666,American Ford,England,8105.0,Energy
-BigData-667,A Apple Financial,Canada,53700.0,Energy
-BigData-668,English Apple,Canada,52366.0,Financials
-BigData-669,American Chevy,England,94955.0,Industrial
-BigData-670,American Orange inc.,Canada,65880.0,Energy
-BigData-671,The Micro,Canada,58369.0,Industrial
-BigData-672,American Discord Consulting,United States,40316.0,Financials
-BigData-673,American Theory inc.,Canada,,Financials
-BigData-674,The Theory,United Kingdom,76586.0,Technology
-BigData-675,A Ford,US,36728.0,Industrial
-BigData-676,American Python,England,11353.0,Financials
-BigData-677,Canadian Micro Company,England,,Technology
-BigData-678,The Chevy LLC,United Kingdom,89501.0,
-BigData-679,A Orange,Canada,58509.0,Health Care
-BigData-680,English Red,United Kingdom,25261.0,Financials
-BigData-681,Canadian Rust Consulting,England,67064.0,Technology
-BigData-682,Canadian Orange,US,78397.0,Financials
-BigData-683,American Red,,18621.0,Health Care
-BigData-684,American Theory,Canada,36551.0,Technology
-BigData-685,American Rust,United States,32259.0,Energy
-BigData-686,English Apple Incorporated,Canada,56272.0,Technology
-BigData-687,American Bloom,United Kingdom,75943.0,Financials
-BigData-688,Canadian Red,United States,3533.0,
-BigData-689,Canadian Micro Limited,England,13631.0,Financials
-BigData-690,English Rust,,14369.0,
-BigData-691,A Ford,,,Financials
-BigData-692,American Python Incorporated,United States,62880.0,Energy
-BigData-693,A Micro Company,United States,,Energy
-BigData-694,A Ford,England,33638.0,Industrial
-BigData-695,English Chevy Financial,United States,70101.0,Technology
-BigData-696,A Python Consulting,Canada,,Energy
-BigData-697,Canadian Red,England,63249.0,Technology
-BigData-698,English Orange Financial,Canada,43773.0,Health Care
-BigData-699,The Apple,US,,Technology
-BigData-700,American Rust inc.,England,24240.0,Energy
-BigData-701,English Theory Company,United States,17232.0,Financials
-BigData-702,Canadian Red,England,98489.0,Energy
-BigData-703,English Chevy Limited,,90224.0,Technology
-BigData-704,American Rust,US,25944.0,Health Care
-BigData-705,American Theory,England,90117.0,Health Care
-BigData-706,American Orange,US,77264.0,Industrial
-BigData-707,English Theory,England,74619.0,Technology
-BigData-708,The Apple Limited,Canada,12030.0,Health Care
-BigData-709,A Apple,England,12583.0,Financials
-BigData-710,Canadian Apple,England,67853.0,Financials
-BigData-711,The Chevy,United Kingdom,18972.0,Health Care
-BigData-712,American Chevy,United Kingdom,14669.0,
-BigData-713,A Red,United States,58173.0,Energy
-BigData-714,English Bloom,United Kingdom,39487.0,Technology
-BigData-715,English Orange Incorporated,,49400.0,Industrial
-BigData-716,English Ford Company,United Kingdom,24524.0,
-BigData-717,American Python,US,6267.0,Industrial
-BigData-718,English Orange,United States,37132.0,Technology
-BigData-719,English Orange,,99201.0,Industrial
-BigData-720,A Red,US,43138.0,Financials
-BigData-721,Canadian Bloom Mutual,,,Technology
-BigData-722,American Micro,England,93601.0,Energy
-BigData-723,American Theory,,20216.0,Energy
-BigData-724,English Chevy,US,62252.0,Industrial
-BigData-725,The Python Incorporated,,64297.0,Technology
-BigData-726,A Chevy Consulting,,47772.0,Technology
-BigData-727,Canadian Discord,,78941.0,Health Care
-BigData-728,Canadian Red Mutual,United Kingdom,94296.0,Industrial
-BigData-729,The Bloom inc.,United Kingdom,95832.0,Energy
-BigData-730,American Micro,United Kingdom,64025.0,Health Care
-BigData-731,American Chevy,Canada,41794.0,Energy
-BigData-732,A Rust,,35314.0,Financials
-BigData-733,A Micro inc.,United Kingdom,98263.0,Industrial
-BigData-734,English Rust Incorporated,,,Energy
-BigData-735,American Discord,,6083.0,
-BigData-736,A Micro inc.,United Kingdom,1236.0,Technology
-BigData-737,The Ford,,85667.0,Industrial
-BigData-738,American Orange,England,,Health Care
-BigData-739,The Theory Limited,Canada,50961.0,Financials
-BigData-740,Canadian Red Consulting,Canada,2303.0,
-BigData-741,A Bloom inc.,England,95257.0,Health Care
-BigData-742,Canadian Rust,Canada,12310.0,Financials
-BigData-743,English Python Company,United Kingdom,36316.0,Health Care
-BigData-744,A Discord,United Kingdom,86407.0,Technology
-BigData-745,Canadian Discord Incorporated,United States,92370.0,Technology
-BigData-746,English Red Limited,,23113.0,Health Care
-BigData-747,The Theory,England,37476.0,Health Care
-BigData-748,Canadian Apple Financial,,85298.0,Industrial
-BigData-749,The Ford,,37903.0,Health Care
-BigData-750,A Orange Company,Canada,26317.0,Health Care
-BigData-751,The Python inc.,England,70954.0,Industrial
-BigData-752,American Theory Mutual,,61115.0,Industrial
-BigData-753,A Ford LLC,England,63401.0,Financials
-BigData-754,A Rust,US,15383.0,Technology
-BigData-755,A Rust Incorporated,,,Energy
-BigData-756,Canadian Theory Limited,US,18106.0,
-BigData-757,English Chevy,Canada,93374.0,Technology
-BigData-758,The Chevy,US,73714.0,Technology
-BigData-759,The Red,,26572.0,Industrial
-BigData-760,American Python,,77642.0,Technology
-BigData-761,A Ford Incorporated,United States,69985.0,Energy
-BigData-762,The Red,Canada,97127.0,Financials
-BigData-763,A Chevy,United Kingdom,27826.0,Technology
-BigData-764,The Ford Incorporated,Canada,,Health Care
-BigData-765,American Orange,Canada,81914.0,Technology
-BigData-766,The Apple Company,England,,Energy
-BigData-767,American Theory,Canada,57474.0,Technology
-BigData-768,A Ford,United Kingdom,45796.0,Health Care
-BigData-769,The Bloom,US,99547.0,Energy
-BigData-770,Canadian Discord LLC,England,72355.0,Industrial
-BigData-771,English Red,England,89401.0,
-BigData-772,American Theory,,67652.0,Industrial
-BigData-773,English Red Mutual,United Kingdom,76304.0,Technology
-BigData-774,English Ford LLC,England,29776.0,Health Care
-BigData-775,American Theory,United Kingdom,25476.0,Financials
-BigData-776,Canadian Chevy Limited,England,,
-BigData-777,A Rust,Canada,87004.0,Health Care
-BigData-778,Canadian Red,United Kingdom,4682.0,Energy
-BigData-779,Canadian Theory,United Kingdom,,Health Care
-BigData-780,American Discord Consulting,,9434.0,Industrial
-BigData-781,The Rust,,77039.0,Technology
-BigData-782,A Ford,England,82871.0,Energy
-BigData-783,American Rust LLC,,89109.0,Industrial
-BigData-784,American Bloom,US,16074.0,Energy
-BigData-785,The Discord Financial,United Kingdom,,Health Care
-BigData-786,Canadian Python,England,,Energy
-BigData-787,A Python,United Kingdom,9054.0,
-BigData-788,A Python,,80824.0,Health Care
-BigData-789,American Orange Consulting,United States,1334.0,Technology
-BigData-790,Canadian Orange Financial,US,33738.0,Financials
-BigData-791,Canadian Discord Incorporated,United Kingdom,33117.0,Technology
-BigData-792,A Rust Mutual,Canada,36877.0,Energy
-BigData-793,Canadian Rust LLC,Canada,93142.0,Industrial
-BigData-794,The Micro Financial,United States,64368.0,
-BigData-795,A Micro Company,US,51150.0,Health Care
-BigData-796,English Rust Company,United Kingdom,89164.0,Energy
-BigData-797,A Ford,England,26341.0,Health Care
-BigData-798,Canadian Chevy Consulting,,87740.0,Health Care
-BigData-799,English Micro Company,,,Energy
-BigData-800,A Python,,67279.0,Health Care
+BigData-598,Canadian Discord,Usa,71999.0,Technology
+BigData-599,American Python,United Kingdom,15062.0,Financials
+BigData-600,English Micro mutual,Scotland,27693.0,Industrial
+BigData-601,Canadian Greggs inc.,,95661.0,Health Care
+BigData-602,English Bloom inc.,Usa,96514.0,Financials
+BigData-603,English Good llc,United States,67820.0,Energy
+BigData-604,The Unicorn,,75575.0,Health Care
+BigData-605,Canadian Big One,,34542.0,Technology
+BigData-606,American Orange,Uk,55532.0,Health Care
+BigData-607,Canadian Tesla financial,Fr,,Health Care
+BigData-608,American A&W company,Fra,67767.0,Health Care
+BigData-609,The Aviva llc,England,14953.0,
+BigData-610,Canadian Corsair inc.,United Kingdom,58583.0,Energy
+BigData-611,The Intact incorporated,Us,90102.0,Health Care
+BigData-612,A Anthropic inc.,,79259.0,Financials
+BigData-613,The Macro,England,96544.0,Industrial
+BigData-614,English Books mutual,Fra,48393.0,Technology
+BigData-615,The Big Business limited,Canada,42523.0,Financials
+BigData-616,English Red,Scotland,39497.0,Energy
+BigData-617,Canadian Amazon consulting,United States,67122.0,Technology
+BigData-618,Canadian Red,,46138.0,Energy
+BigData-619,American A&W company,Fr,,Technology
+BigData-620,The Ford financial,Us,52615.0,Technology
+BigData-621,The Corsair mutual,Ca,33282.0,Industrial
+BigData-622,English Discord mutual,United States,,Health Care
+BigData-623,American Lucas Films,United States,67788.0,Energy
+BigData-624,The Rust,England,44126.0,
+BigData-625,The Cbc inc.,France,15893.0,Industrial
+BigData-626,English Amazon consulting,,98923.0,Industrial
+BigData-627,English Aviva incorporated,United States,,
+BigData-628,English Bloom mutual,Us,50376.0,Industrial
+BigData-629,English Ford,Usa,32076.0,Industrial
+BigData-630,English Nvidia mutual,Can,33169.0,Energy
+BigData-631,The Lucas Films company,Fr,31161.0,Technology
+BigData-632,English Aviva,,99761.0,Financials
+BigData-633,A Amazon,United Kingdom,93866.0,Financials
+BigData-634,The Unicorn,Can,61779.0,
+BigData-635,American Books financial,Canada,95080.0,Industrial
+BigData-636,Canadian Tesla llc,Scotland,50129.0,Energy
+BigData-637,English Hyper limited,Us,30878.0,Technology
+BigData-638,Canadian Python llc,Us,59512.0,Health Care
+BigData-639,The Dc inc.,Usa,98255.0,Technology
+BigData-640,Canadian Brooks llc,,1341.0,
+BigData-641,English Evil mutual,Ca,40420.0,Technology
+BigData-642,A Mcdonalds mutual,Usa,,Industrial
+BigData-643,The Corsair inc.,Usa,97268.0,Financials
+BigData-644,Canadian Apple,Ca,20576.0,Health Care
+BigData-645,English Nvidia,Fr,70106.0,Energy
+BigData-646,The Theory incorporated,,89535.0,Financials
+BigData-647,The Bbc,United Kingdom,69140.0,Health Care
+BigData-648,The Cbc limited,Fra,65172.0,
+BigData-649,Canadian Bloom,,10272.0,Financials
+BigData-650,American Discord,Fr,40775.0,Energy
+BigData-651,English Satellite,United Kingdom,,Financials
+BigData-652,American A&W,Fra,74795.0,Industrial
+BigData-653,English Big Business limited,,98067.0,Industrial
+BigData-654,A Apple consulting,,60173.0,Energy
+BigData-655,English Rust company,United Kingdom,52093.0,
+BigData-656,Canadian Corsair inc.,England,50049.0,Energy
+BigData-657,A Amazon limited,England,20631.0,Energy
+BigData-658,The Mcdonalds consulting,,73246.0,Technology
+BigData-659,American Lucas Films,Fra,98149.0,Health Care
+BigData-660,English Skydance inc.,United Kingdom,,Energy
+BigData-661,English A&W,Can,55007.0,Technology
+BigData-662,American Bbc inc.,,9724.0,Health Care
+BigData-663,The Corsair financial,United States,33558.0,Industrial
+BigData-664,American Lucas Films company,France,36738.0,Financials
+BigData-665,Canadian Lucas Films mutual,Us,22713.0,Energy
+BigData-666,American Skydance,Scotland,8105.0,Energy
+BigData-667,A Micro financial,Can,53700.0,Energy
+BigData-668,English Theory,Can,52366.0,Financials
+BigData-669,American Marvel,Can,94955.0,Industrial
+BigData-670,American Satellite inc.,United States,65880.0,Energy
+BigData-671,The Python,Ca,58369.0,Industrial
+BigData-672,American Greggs consulting,Us,40316.0,Financials
+BigData-673,American Anthropic inc.,Ca,,Financials
+BigData-674,The Anthropic,England,76586.0,Technology
+BigData-675,A Skydance,Fr,36728.0,Industrial
+BigData-676,American Big One,Canada,11353.0,Financials
+BigData-677,Canadian Orange company,Canada,,Technology
+BigData-678,The Nbc llc,England,89501.0,
+BigData-679,A Amazon,Can,58509.0,Health Care
+BigData-680,English Corsair,England,25261.0,Financials
+BigData-681,Canadian Mcdonalds consulting,Uk,67064.0,Technology
+BigData-682,Canadian Hyper,Fra,78397.0,Financials
+BigData-683,American Nvidia,,18621.0,Health Care
+BigData-684,American Aviva,Ca,36551.0,Technology
+BigData-685,American Mcdonalds,Usa,32259.0,Energy
+BigData-686,English Theory incorporated,Ca,56272.0,Technology
+BigData-687,American Discord,England,75943.0,Financials
+BigData-688,Canadian Corsair,Usa,3533.0,
+BigData-689,Canadian Red limited,Canada,13631.0,Financials
+BigData-690,English Mcdonalds,,14369.0,
+BigData-691,A Unicorn,,,Financials
+BigData-692,American Big Business incorporated,Usa,62880.0,Energy
+BigData-693,A Orange company,France,,Energy
+BigData-694,A Bbc,Canada,33638.0,Industrial
+BigData-695,English Cbc financial,Usa,70101.0,Technology
+BigData-696,A Brooks consulting,Can,,Energy
+BigData-697,Canadian Nvidia,Uk,63249.0,Technology
+BigData-698,English Amazon financial,Can,43773.0,Health Care
+BigData-699,The Micro,France,,Technology
+BigData-700,American Good inc.,Canada,24240.0,Energy
+BigData-701,English Aviva company,Usa,17232.0,Financials
+BigData-702,Canadian Corsair,Scotland,98489.0,Energy
+BigData-703,English Cbc limited,,90224.0,Technology
+BigData-704,American Mcdonalds,Fra,25944.0,Health Care
+BigData-705,American Macro,Scotland,90117.0,Health Care
+BigData-706,American Google,Fra,77264.0,Industrial
+BigData-707,English Macro,Uk,74619.0,Technology
+BigData-708,The Apple limited,Can,12030.0,Health Care
+BigData-709,A Bloom,Canada,12583.0,Financials
+BigData-710,Canadian Bloom,Scotland,67853.0,Financials
+BigData-711,The Nbc,England,18972.0,Health Care
+BigData-712,American Dc,United Kingdom,14669.0,
+BigData-713,A Tesla,Usa,58173.0,Energy
+BigData-714,English Chevy,England,39487.0,Technology
+BigData-715,English Google incorporated,,49400.0,Industrial
+BigData-716,English Paramount company,United Kingdom,24524.0,
+BigData-717,American Brooks,Fra,6267.0,Industrial
+BigData-718,English Amazon,Usa,37132.0,Technology
+BigData-719,English Amazon,,99201.0,Industrial
+BigData-720,A Corsair,Fr,43138.0,Financials
+BigData-721,Canadian Ford mutual,,,Technology
+BigData-722,American Python,Canada,93601.0,Energy
+BigData-723,American Anthropic,,20216.0,Energy
+BigData-724,English Nbc,Fra,62252.0,Industrial
+BigData-725,The Big Business incorporated,,64297.0,Technology
+BigData-726,A Cbc consulting,,47772.0,Technology
+BigData-727,Canadian Greggs,,78941.0,Health Care
+BigData-728,Canadian Nvidia mutual,England,94296.0,Industrial
+BigData-729,The Discord inc.,England,95832.0,Energy
+BigData-730,American Orange,Uk,64025.0,Health Care
+BigData-731,American Dc,Ca,41794.0,Energy
+BigData-732,A Evil,,35314.0,Financials
+BigData-733,A Python inc.,England,98263.0,Industrial
+BigData-734,English Mcdonalds incorporated,,,Energy
+BigData-735,American Greggs,,6083.0,
+BigData-736,A Red inc.,England,1236.0,Technology
+BigData-737,The Skydance,,85667.0,Industrial
+BigData-738,American Amazon,Canada,,Health Care
+BigData-739,The Intact limited,Ca,50961.0,Financials
+BigData-740,Canadian Tesla consulting,Ca,2303.0,
+BigData-741,A Rust inc.,Scotland,95257.0,Health Care
+BigData-742,Canadian Brooks,United States,12310.0,Financials
+BigData-743,English Big One company,Uk,36316.0,Health Care
+BigData-744,A A&W,United Kingdom,86407.0,Technology
+BigData-745,Canadian Lucas Films incorporated,France,92370.0,Technology
+BigData-746,English Tesla limited,,23113.0,Health Care
+BigData-747,The Aviva,Canada,37476.0,Health Care
+BigData-748,Canadian Bloom financial,,85298.0,Industrial
+BigData-749,The Unicorn,,37903.0,Health Care
+BigData-750,A Hyper company,Ca,26317.0,Health Care
+BigData-751,The Big One inc.,Scotland,70954.0,Industrial
+BigData-752,American Intact mutual,,61115.0,Industrial
+BigData-753,A Bbc llc,Scotland,63401.0,Financials
+BigData-754,A Good,Fra,15383.0,Technology
+BigData-755,A Evil incorporated,,,Energy
+BigData-756,Canadian Intact limited,France,18106.0,
+BigData-757,English Nbc,United States,93374.0,Technology
+BigData-758,The Bbc,Fr,73714.0,Technology
+BigData-759,The Nvidia,,26572.0,Industrial
+BigData-760,American Big Business,,77642.0,Technology
+BigData-761,A Skydance incorporated,Us,69985.0,Energy
+BigData-762,The Nvidia,Can,97127.0,Financials
+BigData-763,A Nbc,England,27826.0,Technology
+BigData-764,The Skydance incorporated,Ca,,Health Care
+BigData-765,American Amazon,Can,81914.0,Technology
+BigData-766,The Micro company,Scotland,,Energy
+BigData-767,American Aviva,Can,57474.0,Technology
+BigData-768,A Paramount,Uk,45796.0,Health Care
+BigData-769,The Discord,Fra,99547.0,Energy
+BigData-770,Canadian A&W llc,Canada,72355.0,Industrial
+BigData-771,English Corsair,Canada,89401.0,
+BigData-772,American Anthropic,,67652.0,Industrial
+BigData-773,English Nvidia mutual,United Kingdom,76304.0,Technology
+BigData-774,English Skydance llc,Scotland,29776.0,Health Care
+BigData-775,American Anthropic,Uk,25476.0,Financials
+BigData-776,Canadian Dc limited,Scotland,,
+BigData-777,A Evil,United States,87004.0,Health Care
+BigData-778,Canadian Corsair,Uk,4682.0,Energy
+BigData-779,Canadian Aviva,England,,Health Care
+BigData-780,American A&W consulting,,9434.0,Industrial
+BigData-781,The Evil,,77039.0,Technology
+BigData-782,A Unicorn,Can,82871.0,Energy
+BigData-783,American Evil llc,,89109.0,Industrial
+BigData-784,American Rust,Fr,16074.0,Energy
+BigData-785,The Lucas Films financial,England,,Health Care
+BigData-786,Canadian Brooks,Scotland,,Energy
+BigData-787,A Books,Uk,9054.0,
+BigData-788,A Big One,,80824.0,Health Care
+BigData-789,American Google consulting,Usa,1334.0,Technology
+BigData-790,Canadian Hyper financial,France,33738.0,Financials
+BigData-791,Canadian A&W incorporated,Uk,33117.0,Technology
+BigData-792,A Good mutual,Ca,36877.0,Energy
+BigData-793,Canadian Mcdonalds llc,Ca,93142.0,Industrial
+BigData-794,The Red financial,Us,64368.0,
+BigData-795,A Red company,France,51150.0,Health Care
+BigData-796,English Evil company,England,89164.0,Energy
+BigData-797,A Paramount,Canada,26341.0,Health Care
+BigData-798,Canadian Cbc consulting,,87740.0,Health Care
+BigData-799,English Python company,,,Energy
+BigData-800,A Big One,,67279.0,Health Care

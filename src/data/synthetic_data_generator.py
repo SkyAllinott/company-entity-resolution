@@ -23,10 +23,10 @@ def generate_companies(records, generator):
     for i in range(records):
         data_list.append({
             "company_id": f"COMP-{i + 1:05d}",
-            "company_name": generator.choice(cv.company_name_prefix) + " " + generator.choice(cv.company_name_words),
-            "country": generator.choice(cv.countries),
+            "company_name": (generator.choice(cv.company_name_prefix) + " " + generator.choice(cv.company_name_words)).title(),
+            "country": (generator.choice(cv.countries)).title(),
             "registration_id": registration_ids[i],
-            "industry": generator.choice(cv.industry)
+            "industry": (generator.choice(cv.industry)).title()
         })
 
     df = pd.DataFrame(data_list)
@@ -78,7 +78,7 @@ def generate_provider_data(provider, companies, generator):
     for column, missing_rate in provider_miss_rates.items():
         provider_companies = make_missing_records(missing_rate, provider_companies, generator, column)
 
-    file_path = Path("./data/raw/" + provider + " company data.csv")
+    file_path = Path("./data/raw/") / f"{provider} company data.csv"
     file_path.parent.mkdir(parents=True, exist_ok=True)
     provider_companies.to_csv(file_path, index = False)
     return provider_companies

@@ -1,801 +1,801 @@
 provider_id,company_name,country,registration_id,industry
-Envirotech-1,English Orange,Canada,41824.0,
-Envirotech-2,Canadian Theory,United States,79909.0,Energy
-Envirotech-3,The Discord,US,69758.0,Industrial
-Envirotech-4,Canadian Ford,United Kingdom,29167.0,Industrial
-Envirotech-5,Canadian Chevy,United States,41425.0,Health Care
-Envirotech-6,English Micro Mutual,United States,62984.0,Energy
-Envirotech-7,English Red inc.,United States,70035.0,Health Care
-Envirotech-8,English Red,England,34393.0,Technology
-Envirotech-9,American Micro LLC,US,92194.0,Health Care
-Envirotech-10,American Apple Incorporated,England,93365.0,Energy
-Envirotech-11,A Rust Company,United Kingdom,46841.0,Technology
-Envirotech-12,English Chevy Mutual,England,64311.0,Technology
-Envirotech-13,The Ford,US,65322.0,Health Care
-Envirotech-14,English Micro Mutual,,24799.0,Technology
-Envirotech-15,The Ford,United Kingdom,22530.0,Technology
-Envirotech-16,A Micro,United Kingdom,98263.0,Industrial
-Envirotech-17,American Red Company,US,95937.0,Health Care
-Envirotech-18,A Orange,Canada,26317.0,Health Care
-Envirotech-19,English Theory Limited,England,89226.0,Energy
-Envirotech-20,English Python Financial,United Kingdom,78274.0,Financials
-Envirotech-21,English Ford Financial,,65657.0,Health Care
-Envirotech-22,A Orange LLC,,5323.0,Energy
-Envirotech-23,American Theory,US,80220.0,Financials
-Envirotech-24,A Bloom Financial,England,,Industrial
-Envirotech-25,The Bloom,United States,38633.0,Financials
-Envirotech-26,Canadian Chevy Incorporated,England,99965.0,Technology
-Envirotech-27,English Discord Financial,United Kingdom,34757.0,Industrial
-Envirotech-28,A Apple Financial,Canada,53700.0,Energy
-Envirotech-29,English Ford,England,96289.0,Technology
-Envirotech-30,American Discord,,74795.0,Industrial
-Envirotech-31,English Apple Mutual,United Kingdom,92546.0,Industrial
-Envirotech-32,American Theory Mutual,US,20216.0,Energy
-Envirotech-33,English Rust,United Kingdom,29805.0,Financials
-Envirotech-34,American Rust Consulting,US,25944.0,Health Care
-Envirotech-35,A Rust,Canada,87004.0,Health Care
-Envirotech-36,Canadian Micro,United States,59512.0,Health Care
-Envirotech-37,The Bloom Limited,England,54295.0,Technology
-Envirotech-38,A Micro inc.,Canada,53196.0,Health Care
-Envirotech-39,English Red,United Kingdom,,Financials
-Envirotech-40,Canadian Ford Mutual,United Kingdom,91103.0,Financials
-Envirotech-41,English Orange LLC,England,49400.0,Industrial
-Envirotech-42,The Theory Financial,United States,63642.0,Health Care
-Envirotech-43,Canadian Theory Limited,US,18106.0,Health Care
-Envirotech-44,A Python inc.,United Kingdom,51170.0,Health Care
-Envirotech-45,The Theory LLC,England,62451.0,Energy
-Envirotech-46,Canadian Micro Incorporated,United States,23413.0,Financials
-Envirotech-47,The Bloom Limited,,14704.0,Industrial
-Envirotech-48,English Chevy inc.,England,,Technology
-Envirotech-49,A Ford Consulting,United States,9343.0,Technology
-Envirotech-50,Canadian Ford,Canada,81886.0,Financials
-Envirotech-51,American Bloom Mutual,United Kingdom,28749.0,Financials
-Envirotech-52,American Python,Canada,66798.0,Financials
-Envirotech-53,American Orange,United States,1334.0,Technology
-Envirotech-54,A Python,England,80442.0,Financials
-Envirotech-55,American Python,Canada,10530.0,Industrial
-Envirotech-56,American Micro Consulting,United Kingdom,64025.0,Health Care
-Envirotech-57,Canadian Discord Mutual,United States,10370.0,Energy
-Envirotech-58,Canadian Ford Limited,England,74403.0,Financials
-Envirotech-59,The Apple Consulting,United States,33580.0,Industrial
-Envirotech-60,Canadian Ford,US,30022.0,Energy
-Envirotech-61,The Micro,United Kingdom,14483.0,Financials
-Envirotech-62,The Chevy Financial,United States,4930.0,Industrial
-Envirotech-63,American Ford Incorporated,United States,,Health Care
-Envirotech-64,English Discord Limited,England,50016.0,Industrial
-Envirotech-65,The Bloom Limited,United Kingdom,88163.0,Industrial
-Envirotech-66,A Chevy,Canada,92078.0,Industrial
-Envirotech-67,English Chevy,United Kingdom,33934.0,Health Care
-Envirotech-68,Canadian Orange LLC,United States,31664.0,Energy
-Envirotech-69,The Chevy,United Kingdom,89501.0,Financials
-Envirotech-70,American Micro,United Kingdom,37558.0,Health Care
-Envirotech-71,Canadian Bloom,United States,25493.0,Technology
-Envirotech-72,Canadian Rust LLC,Canada,93142.0,Industrial
-Envirotech-73,The Theory,,36701.0,Technology
-Envirotech-74,American Apple Consulting,United Kingdom,2326.0,Energy
-Envirotech-75,Canadian Apple Company,United Kingdom,,Technology
-Envirotech-76,A Apple,Canada,74790.0,
-Envirotech-77,A Python,United Kingdom,10642.0,Energy
-Envirotech-78,American Python,United Kingdom,34574.0,Technology
-Envirotech-79,English Orange Company,United States,37132.0,Technology
-Envirotech-80,American Theory Incorporated,US,97534.0,Financials
-Envirotech-81,Canadian Python Incorporated,England,24311.0,Energy
-Envirotech-82,English Red Mutual,United Kingdom,52544.0,Health Care
-Envirotech-83,A Bloom Financial,United Kingdom,38811.0,Health Care
-Envirotech-84,Canadian Bloom Consulting,United Kingdom,3636.0,Technology
-Envirotech-85,English Orange inc.,United Kingdom,36490.0,Technology
-Envirotech-86,American Ford,United Kingdom,81476.0,Energy
-Envirotech-87,Canadian Rust Incorporated,Canada,74852.0,Financials
-Envirotech-88,American Theory,United Kingdom,25476.0,Financials
-Envirotech-89,Canadian Discord,Canada,95961.0,Industrial
-Envirotech-90,The Theory Incorporated,Canada,50961.0,Financials
-Envirotech-91,Canadian Ford Mutual,England,56822.0,Industrial
-Envirotech-92,The Chevy Consulting,United Kingdom,18972.0,Health Care
-Envirotech-93,Canadian Discord LLC,United States,74544.0,Energy
-Envirotech-94,American Red,US,98326.0,Financials
-Envirotech-95,The Bloom,US,25851.0,Energy
-Envirotech-96,Canadian Orange Limited,,44336.0,Technology
-Envirotech-97,The Rust LLC,United Kingdom,1190.0,Financials
-Envirotech-98,English Micro Company,England,74498.0,Health Care
-Envirotech-99,American Rust,England,,Energy
-Envirotech-100,Canadian Chevy,United Kingdom,91947.0,Health Care
-Envirotech-101,American Apple Consulting,US,63854.0,Technology
-Envirotech-102,A Apple LLC,England,51742.0,Energy
-Envirotech-103,Canadian Rust,Canada,74541.0,Technology
-Envirotech-104,English Apple,United States,31714.0,Health Care
-Envirotech-105,English Red,Canada,30797.0,Financials
-Envirotech-106,English Discord Financial,United States,18010.0,Technology
-Envirotech-107,A Chevy,US,31615.0,Financials
-Envirotech-108,American Python LLC,United Kingdom,38290.0,Industrial
-Envirotech-109,English Red,United Kingdom,2949.0,Financials
-Envirotech-110,The Theory,Canada,88176.0,Health Care
-Envirotech-111,English Rust,England,7538.0,Industrial
-Envirotech-112,Canadian Chevy,United Kingdom,21338.0,Health Care
-Envirotech-113,English Ford inc.,US,37622.0,Health Care
-Envirotech-114,A Ford Mutual,,36728.0,Industrial
-Envirotech-115,English Bloom,,98132.0,Industrial
-Envirotech-116,A Ford,Canada,49842.0,Industrial
-Envirotech-117,A Ford Financial,United States,80301.0,Energy
-Envirotech-118,A Red,Canada,63875.0,Industrial
-Envirotech-119,Canadian Bloom,United States,27488.0,Health Care
-Envirotech-120,English Orange,Canada,31607.0,Health Care
-Envirotech-121,A Bloom Limited,Canada,41026.0,Technology
-Envirotech-122,A Python,England,66018.0,Industrial
-Envirotech-123,The Ford,United Kingdom,69140.0,Health Care
-Envirotech-124,English Ford inc.,US,12816.0,Energy
-Envirotech-125,The Red Company,Canada,73304.0,Industrial
-Envirotech-126,English Rust LLC,US,5341.0,Technology
-Envirotech-127,A Ford Incorporated,US,62757.0,Industrial
-Envirotech-128,The Red,United States,64611.0,
-Envirotech-129,The Bloom Consulting,United States,,Technology
-Envirotech-130,Canadian Rust Mutual,Canada,12310.0,Financials
-Envirotech-131,The Discord Financial,United States,69636.0,Technology
-Envirotech-132,Canadian Bloom Limited,Canada,79567.0,Technology
-Envirotech-133,Canadian Chevy,Canada,33582.0,
-Envirotech-134,Canadian Chevy,United States,69264.0,Health Care
-Envirotech-135,English Red Company,Canada,17563.0,Energy
-Envirotech-136,Canadian Chevy Consulting,England,97334.0,Technology
-Envirotech-137,English Theory Incorporated,Canada,67963.0,Technology
-Envirotech-138,The Apple,Canada,94994.0,Energy
-Envirotech-139,Canadian Bloom LLC,United States,4977.0,Financials
-Envirotech-140,American Chevy Financial,US,58576.0,Energy
-Envirotech-141,A Apple,US,78115.0,Industrial
-Envirotech-142,English Discord Financial,Canada,96094.0,Technology
-Envirotech-143,American Python Mutual,US,6267.0,Industrial
-Envirotech-144,A Orange,United States,16198.0,Industrial
-Envirotech-145,The Micro,,35523.0,Financials
-Envirotech-146,English Micro,United Kingdom,64607.0,Health Care
-Envirotech-147,English Orange,England,9847.0,Industrial
-Envirotech-148,Canadian Rust Consulting,United Kingdom,23076.0,Energy
-Envirotech-149,English Chevy,United States,33906.0,Health Care
-Envirotech-150,English Orange,Canada,76744.0,Technology
-Envirotech-151,Canadian Discord,England,16007.0,Energy
-Envirotech-152,American Chevy,US,70451.0,Industrial
-Envirotech-153,American Python,England,11353.0,Financials
-Envirotech-154,A Apple Mutual,US,62999.0,Technology
-Envirotech-155,English Rust,US,17747.0,Financials
-Envirotech-156,The Rust inc.,United States,77039.0,Technology
-Envirotech-157,Canadian Rust,United States,31788.0,Technology
-Envirotech-158,Canadian Orange,United States,8473.0,Industrial
-Envirotech-159,The Micro,United States,80022.0,Technology
-Envirotech-160,The Ford,Canada,85667.0,Industrial
-Envirotech-161,The Theory inc.,United States,71342.0,Financials
-Envirotech-162,A Bloom,United Kingdom,21611.0,Health Care
-Envirotech-163,Canadian Chevy,United States,53978.0,Technology
-Envirotech-164,A Theory LLC,US,79259.0,Financials
-Envirotech-165,The Orange,US,83391.0,Technology
-Envirotech-166,A Red,US,96545.0,Industrial
-Envirotech-167,Canadian Discord,United Kingdom,33117.0,Technology
-Envirotech-168,American Ford,US,9724.0,Health Care
-Envirotech-169,Canadian Bloom,England,78042.0,Health Care
-Envirotech-170,English Chevy,Canada,93374.0,Technology
-Envirotech-171,English Chevy Limited,Canada,,Financials
-Envirotech-172,Canadian Rust,United States,,Health Care
-Envirotech-173,American Python,England,53226.0,Technology
-Envirotech-174,Canadian Micro,Canada,70171.0,Technology
-Envirotech-175,A Micro,United States,38524.0,Health Care
-Envirotech-176,American Orange,US,80424.0,Energy
-Envirotech-177,The Apple,US,42069.0,Technology
-Envirotech-178,American Bloom,United Kingdom,32053.0,Industrial
-Envirotech-179,The Python Mutual,England,1750.0,Health Care
-Envirotech-180,The Discord,England,16844.0,Technology
-Envirotech-181,A Orange,United Kingdom,84890.0,Industrial
-Envirotech-182,English Discord Company,England,55007.0,Technology
-Envirotech-183,Canadian Rust Consulting,US,29200.0,Industrial
-Envirotech-184,Canadian Theory,United States,,Health Care
-Envirotech-185,English Bloom,England,11410.0,Industrial
-Envirotech-186,American Discord,US,42731.0,Industrial
-Envirotech-187,Canadian Python Limited,United States,1341.0,Technology
-Envirotech-188,English Apple Limited,England,27693.0,Industrial
-Envirotech-189,The Ford Consulting,United States,75575.0,Health Care
-Envirotech-190,American Orange,Canada,72192.0,Industrial
-Envirotech-191,Canadian Discord,England,75314.0,Financials
-Envirotech-192,English Ford,England,28480.0,Industrial
-Envirotech-193,Canadian Apple,United Kingdom,59147.0,Financials
-Envirotech-194,A Discord Consulting,United Kingdom,20620.0,Health Care
-Envirotech-195,American Theory,US,80742.0,Energy
-Envirotech-196,The Chevy Mutual,United Kingdom,2816.0,Technology
-Envirotech-197,American Apple Incorporated,Canada,78593.0,
-Envirotech-198,A Bloom Limited,United States,61766.0,Health Care
-Envirotech-199,A Python,United Kingdom,57222.0,Technology
-Envirotech-200,American Red,US,12067.0,Financials
-Envirotech-201,Canadian Python,United Kingdom,92804.0,Energy
-Envirotech-202,A Red Mutual,US,5989.0,Energy
-Envirotech-203,A Bloom Limited,England,44091.0,Financials
-Envirotech-204,A Rust Company,US,89192.0,Energy
-Envirotech-205,A Micro,England,,Industrial
-Envirotech-206,A Red,United States,58173.0,Energy
-Envirotech-207,American Ford,US,27110.0,Health Care
-Envirotech-208,A Theory,US,16804.0,Industrial
-Envirotech-209,American Bloom,US,16074.0,Energy
-Envirotech-210,Canadian Red inc.,United Kingdom,50049.0,Energy
-Envirotech-211,American Micro,Canada,29108.0,Health Care
-Envirotech-212,The Theory,,4784.0,Technology
-Envirotech-213,English Ford Mutual,US,82039.0,Energy
-Envirotech-214,Canadian Orange,Canada,67122.0,Technology
-Envirotech-215,Canadian Apple,England,67853.0,Financials
-Envirotech-216,The Micro Company,Canada,54660.0,Technology
-Envirotech-217,The Ford Incorporated,United States,63294.0,Technology
-Envirotech-218,The Apple Company,,94265.0,Health Care
-Envirotech-219,Canadian Ford Incorporated,United States,4074.0,Health Care
-Envirotech-220,Canadian Micro Company,England,46138.0,Energy
-Envirotech-221,A Micro,England,83729.0,Financials
-Envirotech-222,The Rust LLC,Canada,8225.0,Technology
-Envirotech-223,A Chevy inc.,US,93796.0,Financials
-Envirotech-224,American Discord,United Kingdom,9434.0,Industrial
-Envirotech-225,A Bloom Incorporated,Canada,35148.0,Energy
-Envirotech-226,The Red Financial,Canada,29006.0,Health Care
-Envirotech-227,American Discord LLC,England,11235.0,Health Care
-Envirotech-228,Canadian Ford Limited,United Kingdom,17958.0,Industrial
-Envirotech-229,English Chevy LLC,Canada,81183.0,Technology
-Envirotech-230,American Python,United Kingdom,22281.0,Financials
-Envirotech-231,Canadian Theory Limited,US,12100.0,Industrial
-Envirotech-232,Canadian Ford Company,England,6870.0,Health Care
-Envirotech-233,Canadian Chevy,England,7997.0,Health Care
-Envirotech-234,American Bloom Company,Canada,10564.0,Financials
-Envirotech-235,English Orange,United Kingdom,55388.0,Financials
-Envirotech-236,Canadian Red,England,63249.0,Technology
-Envirotech-237,Canadian Orange inc.,,83433.0,Industrial
-Envirotech-238,American Ford,United States,69679.0,Health Care
-Envirotech-239,English Chevy,England,65464.0,Financials
-Envirotech-240,Canadian Ford,Canada,99244.0,Energy
-Envirotech-241,A Discord,Canada,70365.0,Technology
-Envirotech-242,English Rust Financial,US,57937.0,Health Care
-Envirotech-243,American Chevy Financial,United States,99666.0,Financials
-Envirotech-244,American Red Limited,US,13458.0,Industrial
-Envirotech-245,The Chevy Consulting,United States,91940.0,Health Care
-Envirotech-246,English Bloom,United States,32076.0,Industrial
-Envirotech-247,The Rust Limited,Canada,68459.0,
-Envirotech-248,English Chevy,United Kingdom,1717.0,Energy
-Envirotech-249,English Orange,Canada,,Energy
-Envirotech-250,American Bloom inc.,United Kingdom,6939.0,Energy
-Envirotech-251,The Theory Consulting,Canada,,Financials
-Envirotech-252,The Chevy,England,75395.0,Technology
-Envirotech-253,Canadian Red Mutual,US,25006.0,Technology
-Envirotech-254,American Apple Limited,US,18751.0,Energy
-Envirotech-255,The Ford inc.,United Kingdom,89600.0,Energy
-Envirotech-256,A Red,United States,6204.0,Technology
-Envirotech-257,The Ford Consulting,US,66265.0,Industrial
-Envirotech-258,The Chevy Consulting,England,6803.0,Health Care
-Envirotech-259,The Python,US,25880.0,Industrial
-Envirotech-260,The Apple,Canada,28522.0,Health Care
-Envirotech-261,The Chevy,Canada,1405.0,Health Care
-Envirotech-262,The Python Financial,England,41841.0,Financials
-Envirotech-263,A Discord Company,Canada,73233.0,Technology
-Envirotech-264,The Bloom,US,99547.0,Energy
-Envirotech-265,Canadian Micro Limited,US,93461.0,Financials
-Envirotech-266,A Chevy Incorporated,United Kingdom,27826.0,Technology
-Envirotech-267,Canadian Micro,England,48109.0,Technology
-Envirotech-268,The Apple,US,83823.0,Technology
-Envirotech-269,English Apple,United Kingdom,24073.0,Technology
-Envirotech-270,American Rust,England,21334.0,Technology
-Envirotech-271,The Apple LLC,Canada,12030.0,Health Care
-Envirotech-272,Canadian Red LLC,Canada,32817.0,Financials
-Envirotech-273,The Red Financial,Canada,26572.0,Industrial
-Envirotech-274,A Theory,United States,43441.0,Energy
-Envirotech-275,The Rust Consulting,US,58740.0,Health Care
-Envirotech-276,The Micro Company,United States,64368.0,
-Envirotech-277,A Chevy Consulting,United States,25110.0,Financials
-Envirotech-278,A Red Mutual,United Kingdom,23988.0,Energy
-Envirotech-279,The Chevy,US,,Health Care
-Envirotech-280,The Discord Financial,Canada,69144.0,Technology
-Envirotech-281,The Bloom Incorporated,United Kingdom,83975.0,Financials
-Envirotech-282,The Chevy,Canada,35424.0,Financials
-Envirotech-283,Canadian Red Incorporated,Canada,92377.0,Energy
-Envirotech-284,American Python,Canada,28974.0,Health Care
-Envirotech-285,The Micro,United Kingdom,71161.0,Financials
-Envirotech-286,American Theory Incorporated,England,81894.0,Energy
-Envirotech-287,The Red,United States,2713.0,Financials
-Envirotech-288,The Orange,United States,14203.0,Industrial
-Envirotech-289,A Chevy inc.,England,8009.0,Financials
-Envirotech-290,The Red Consulting,United Kingdom,60526.0,Health Care
-Envirotech-291,English Chevy,United States,84366.0,Industrial
-Envirotech-292,English Theory,Canada,19713.0,Health Care
-Envirotech-293,Canadian Ford,US,52041.0,Technology
-Envirotech-294,Canadian Chevy,England,26717.0,Health Care
-Envirotech-295,American Ford Financial,US,51347.0,Health Care
-Envirotech-296,A Rust Limited,England,96488.0,Industrial
-Envirotech-297,A Ford,US,90551.0,Industrial
-Envirotech-298,English Micro Company,England,39497.0,Energy
-Envirotech-299,A Rust Mutual,England,37900.0,Health Care
-Envirotech-300,English Micro,US,95912.0,Energy
-Envirotech-301,The Bloom,,44126.0,Health Care
-Envirotech-302,The Ford,Canada,61779.0,Technology
-Envirotech-303,American Ford,Canada,83243.0,Industrial
-Envirotech-304,A Chevy LLC,Canada,23913.0,Technology
-Envirotech-305,American Bloom Consulting,US,6935.0,Energy
-Envirotech-306,Canadian Theory inc.,United States,65879.0,Industrial
-Envirotech-307,American Rust,England,9654.0,Industrial
-Envirotech-308,A Bloom,US,92890.0,Health Care
-Envirotech-309,The Red Limited,Canada,33282.0,Industrial
-Envirotech-310,American Apple Incorporated,US,92036.0,Health Care
-Envirotech-311,The Red Company,England,76213.0,Health Care
-Envirotech-312,A Discord Financial,US,31417.0,Industrial
-Envirotech-313,American Apple,Canada,48228.0,Energy
-Envirotech-314,A Theory Consulting,England,92184.0,Health Care
-Envirotech-315,American Micro,US,32177.0,Technology
-Envirotech-316,Canadian Micro Incorporated,England,54953.0,Energy
-Envirotech-317,Canadian Red Mutual,United States,4717.0,Industrial
-Envirotech-318,English Micro Financial,Canada,45449.0,Technology
-Envirotech-319,American Red Limited,US,,Financials
-Envirotech-320,English Chevy Consulting,United States,90224.0,Technology
-Envirotech-321,American Discord Limited,United Kingdom,79676.0,Industrial
-Envirotech-322,A Discord,United Kingdom,86407.0,Technology
-Envirotech-323,The Discord Consulting,United States,,Industrial
-Envirotech-324,Canadian Ford,,74518.0,Energy
-Envirotech-325,Canadian Chevy,Canada,77750.0,Energy
-Envirotech-326,American Rust,Canada,88551.0,Energy
-Envirotech-327,The Orange,England,62778.0,Industrial
-Envirotech-328,English Micro,United States,5322.0,Industrial
-Envirotech-329,A Bloom,England,95257.0,Health Care
-Envirotech-330,American Apple Incorporated,Canada,44130.0,Energy
-Envirotech-331,Canadian Discord inc.,United States,94034.0,
-Envirotech-332,Canadian Apple Limited,United Kingdom,85298.0,Industrial
-Envirotech-333,Canadian Bloom Company,England,46206.0,Industrial
-Envirotech-334,English Orange,US,77586.0,Financials
-Envirotech-335,Canadian Micro Company,Canada,98825.0,
-Envirotech-336,A Bloom,United States,15086.0,Health Care
-Envirotech-337,Canadian Theory Company,United Kingdom,58420.0,Health Care
-Envirotech-338,Canadian Apple inc.,US,86372.0,
-Envirotech-339,English Theory,United States,46458.0,Financials
-Envirotech-340,The Python Consulting,United States,41303.0,Industrial
-Envirotech-341,A Ford Mutual,Canada,4594.0,Industrial
-Envirotech-342,English Red,United Kingdom,76304.0,Technology
-Envirotech-343,The Bloom LLC,US,37352.0,Financials
-Envirotech-344,The Red,England,33893.0,Technology
-Envirotech-345,English Ford,United Kingdom,49225.0,Technology
-Envirotech-346,English Python,United States,56007.0,Industrial
-Envirotech-347,A Ford,United States,88566.0,Industrial
-Envirotech-348,English Discord,Canada,38229.0,Financials
-Envirotech-349,American Theory,Canada,57474.0,Technology
-Envirotech-350,American Theory LLC,England,61115.0,Industrial
-Envirotech-351,Canadian Rust LLC,England,6467.0,Energy
-Envirotech-352,The Apple,Canada,80423.0,Health Care
-Envirotech-353,American Discord LLC,England,17621.0,Industrial
-Envirotech-354,English Theory inc.,United States,25676.0,Industrial
-Envirotech-355,The Red Consulting,England,76643.0,Technology
-Envirotech-356,American Chevy Mutual,England,56076.0,Financials
-Envirotech-357,English Micro,US,44185.0,Health Care
-Envirotech-358,The Rust,United Kingdom,99041.0,Industrial
-Envirotech-359,Canadian Discord,US,77783.0,Industrial
-Envirotech-360,American Orange,England,9564.0,Energy
-Envirotech-361,American Discord,United States,95240.0,Industrial
-Envirotech-362,A Chevy,England,47772.0,Technology
-Envirotech-363,Canadian Apple,United States,28745.0,Health Care
-Envirotech-364,English Python,Canada,98067.0,Industrial
-Envirotech-365,English Python LLC,United Kingdom,84485.0,Technology
-Envirotech-366,Canadian Chevy,England,2626.0,Industrial
-Envirotech-367,American Chevy Incorporated,Canada,20695.0,Health Care
-Envirotech-368,American Theory Incorporated,US,51261.0,Health Care
-Envirotech-369,American Rust Consulting,England,89109.0,Industrial
-Envirotech-370,The Discord Consulting,United States,76662.0,Technology
-Envirotech-371,The Python Limited,United States,64297.0,Technology
-Envirotech-372,English Theory,England,50150.0,Financials
-Envirotech-373,English Theory Incorporated,United Kingdom,80274.0,Technology
-Envirotech-374,The Ford Limited,United States,83050.0,Financials
-Envirotech-375,A Ford Financial,Canada,23042.0,Industrial
-Envirotech-376,A Python Consulting,United States,41365.0,Financials
-Envirotech-377,American Bloom,United States,92155.0,Health Care
-Envirotech-378,English Rust,Canada,40420.0,Technology
-Envirotech-379,Canadian Rust Company,US,49057.0,Financials
-Envirotech-380,English Chevy Company,US,31686.0,Energy
-Envirotech-381,English Python Financial,US,75176.0,Financials
-Envirotech-382,American Chevy Limited,US,8059.0,Health Care
-Envirotech-383,A Orange,United Kingdom,93866.0,Financials
-Envirotech-384,American Red Limited,United States,79305.0,Technology
-Envirotech-385,A Rust Consulting,United States,37062.0,Health Care
-Envirotech-386,English Theory Consulting,Canada,7471.0,Health Care
-Envirotech-387,The Chevy Consulting,United States,15893.0,Industrial
-Envirotech-388,Canadian Chevy Financial,US,59305.0,Industrial
-Envirotech-389,The Rust,Canada,68429.0,Energy
-Envirotech-390,English Python Company,United Kingdom,56688.0,Financials
-Envirotech-391,Canadian Apple,United Kingdom,53621.0,Health Care
-Envirotech-392,The Bloom,Canada,32757.0,Industrial
-Envirotech-393,English Python,US,35526.0,Industrial
-Envirotech-394,English Rust Consulting,England,92407.0,Health Care
-Envirotech-395,American Red,,32683.0,Technology
-Envirotech-396,Canadian Theory,US,63226.0,Industrial
-Envirotech-397,American Theory,Canada,36551.0,Technology
-Envirotech-398,Canadian Rust,Canada,14177.0,Technology
-Envirotech-399,English Apple Consulting,United States,34059.0,Technology
-Envirotech-400,English Python,US,31883.0,Technology
-Envirotech-401,The Apple,Canada,75976.0,Financials
-Envirotech-402,English Bloom Consulting,United Kingdom,39487.0,Technology
-Envirotech-403,Canadian Chevy Company,England,60555.0,Technology
-Envirotech-404,The Chevy Mutual,US,11589.0,Financials
-Envirotech-405,American Orange,US,17762.0,Industrial
-Envirotech-406,Canadian Red Company,England,5320.0,Energy
-Envirotech-407,English Discord LLC,United Kingdom,22166.0,Technology
-Envirotech-408,American Orange,Canada,71195.0,Health Care
-Envirotech-409,The Python Financial,England,64715.0,Financials
-Envirotech-410,A Python LLC,United States,80824.0,Health Care
-Envirotech-411,English Discord,US,81384.0,Health Care
-Envirotech-412,English Python,US,45784.0,Health Care
-Envirotech-413,Canadian Discord Company,US,55243.0,Technology
-Envirotech-414,English Apple,Canada,95929.0,Technology
-Envirotech-415,English Orange Consulting,Canada,43773.0,
-Envirotech-416,English Red,US,28490.0,Health Care
-Envirotech-417,Canadian Rust Incorporated,Canada,70168.0,Industrial
-Envirotech-418,American Python Mutual,US,39761.0,Health Care
-Envirotech-419,A Discord,US,67674.0,Financials
-Envirotech-420,American Micro,England,,Energy
-Envirotech-421,A Theory,Canada,52067.0,Energy
-Envirotech-422,A Chevy Financial,,26962.0,Health Care
-Envirotech-423,A Apple,United States,17192.0,Health Care
-Envirotech-424,The Bloom,United States,75607.0,Industrial
-Envirotech-425,American Theory,US,25132.0,Energy
-Envirotech-426,A Red,United Kingdom,34556.0,Industrial
-Envirotech-427,Canadian Rust,United States,76326.0,Energy
-Envirotech-428,American Rust,United Kingdom,25663.0,Technology
-Envirotech-429,A Python,US,77696.0,Health Care
-Envirotech-430,Canadian Chevy Incorporated,England,79197.0,Health Care
-Envirotech-431,English Bloom Consulting,United Kingdom,33140.0,Industrial
-Envirotech-432,English Theory,England,74619.0,Technology
-Envirotech-433,A Python,England,50575.0,Energy
-Envirotech-434,English Chevy inc.,US,37354.0,Financials
-Envirotech-435,Canadian Chevy,US,87740.0,Health Care
-Envirotech-436,English Discord,US,1420.0,Energy
-Envirotech-437,The Micro,England,74276.0,Financials
-Envirotech-438,Canadian Discord Incorporated,England,72355.0,Industrial
-Envirotech-439,A Apple,England,45462.0,Financials
-Envirotech-440,Canadian Bloom,Canada,74811.0,Financials
-Envirotech-441,English Ford Mutual,England,56365.0,Health Care
-Envirotech-442,Canadian Chevy Limited,United Kingdom,64865.0,Technology
-Envirotech-443,A Chevy,United Kingdom,81840.0,Industrial
-Envirotech-444,English Bloom Incorporated,Canada,36044.0,Health Care
-Envirotech-445,American Orange,Canada,89269.0,Health Care
-Envirotech-446,A Python,United Kingdom,9054.0,Energy
-Envirotech-447,Canadian Theory,Canada,51112.0,Energy
-Envirotech-448,American Discord Company,United States,67788.0,Energy
-Envirotech-449,English Micro,US,60691.0,Industrial
-Envirotech-450,English Theory Company,,81706.0,Technology
-Envirotech-451,Canadian Red LLC,United Kingdom,4682.0,Energy
-Envirotech-452,A Chevy Consulting,US,46065.0,Industrial
-Envirotech-453,The Ford inc.,United Kingdom,37903.0,Health Care
-Envirotech-454,American Theory Consulting,England,6708.0,Financials
-Envirotech-455,The Theory,Canada,13832.0,Energy
-Envirotech-456,English Python Incorporated,Canada,24545.0,Industrial
-Envirotech-457,A Ford,United States,69985.0,
-Envirotech-458,Canadian Apple LLC,United Kingdom,6468.0,Financials
-Envirotech-459,English Rust Company,United Kingdom,,Energy
-Envirotech-460,English Python Consulting,,13555.0,Technology
-Envirotech-461,A Theory Consulting,United Kingdom,39511.0,Health Care
-Envirotech-462,American Apple Company,England,68926.0,Industrial
-Envirotech-463,American Ford Mutual,US,67294.0,
-Envirotech-464,Canadian Theory Financial,United States,73550.0,Technology
-Envirotech-465,Canadian Theory Mutual,United States,6972.0,Financials
-Envirotech-466,A Python,England,85181.0,Industrial
-Envirotech-467,The Ford,,73947.0,Health Care
-Envirotech-468,The Red,United States,97268.0,Financials
-Envirotech-469,American Ford Consulting,Canada,71140.0,Industrial
-Envirotech-470,American Python,United Kingdom,33645.0,Energy
-Envirotech-471,The Apple,Canada,98693.0,Energy
-Envirotech-472,The Python Company,United States,95173.0,Technology
-Envirotech-473,Canadian Theory,United States,60285.0,Energy
-Envirotech-474,A Ford Consulting,United Kingdom,49815.0,Industrial
-Envirotech-475,A Micro Consulting,England,23433.0,Financials
-Envirotech-476,American Orange LLC,Canada,81914.0,Technology
-Envirotech-477,English Red LLC,,,Industrial
-Envirotech-478,English Bloom,United Kingdom,7598.0,Financials
-Envirotech-479,The Apple LLC,Canada,41696.0,Energy
-Envirotech-480,A Ford LLC,United Kingdom,92385.0,Financials
-Envirotech-481,English Rust,United Kingdom,16149.0,Financials
-Envirotech-482,English Python,United Kingdom,36316.0,Health Care
-Envirotech-483,The Ford Mutual,United States,22130.0,Health Care
-Envirotech-484,American Orange,US,95988.0,Financials
-Envirotech-485,English Python Consulting,US,4403.0,Energy
-Envirotech-486,English Apple,United States,42308.0,Health Care
-Envirotech-487,American Theory,Canada,92488.0,Health Care
-Envirotech-488,American Micro Financial,England,93601.0,Energy
-Envirotech-489,American Rust,United States,19081.0,Financials
-Envirotech-490,American Apple,US,76762.0,Health Care
-Envirotech-491,English Apple Incorporated,United States,83820.0,Energy
-Envirotech-492,Canadian Theory LLC,England,11284.0,Health Care
-Envirotech-493,Canadian Red Consulting,United Kingdom,96402.0,Industrial
-Envirotech-494,Canadian Chevy,England,42609.0,Financials
-Envirotech-495,The Bloom Company,United Kingdom,95832.0,Energy
-Envirotech-496,Canadian Red Consulting,United States,87131.0,Energy
-Envirotech-497,A Micro Company,United States,78338.0,Industrial
-Envirotech-498,The Red,US,5812.0,Industrial
-Envirotech-499,A Red,England,92245.0,Energy
-Envirotech-500,A Orange LLC,England,62000.0,Health Care
-Envirotech-501,A Rust,England,17165.0,Industrial
-Envirotech-502,English Apple,Canada,72451.0,Industrial
-Envirotech-503,American Micro,US,97630.0,Technology
-Envirotech-504,American Chevy,US,80197.0,Industrial
-Envirotech-505,A Bloom,United Kingdom,49874.0,Financials
-Envirotech-506,Canadian Apple Incorporated,United Kingdom,92746.0,Financials
-Envirotech-507,Canadian Rust Mutual,Canada,47126.0,Industrial
-Envirotech-508,Canadian Orange Company,Canada,90772.0,Health Care
-Envirotech-509,The Orange,England,76951.0,Energy
-Envirotech-510,American Orange LLC,US,53175.0,Technology
-Envirotech-511,Canadian Bloom Consulting,United States,91316.0,Technology
-Envirotech-512,Canadian Orange,United Kingdom,4139.0,Energy
-Envirotech-513,English Micro Limited,Canada,97476.0,Energy
-Envirotech-514,The Micro,,87770.0,Industrial
-Envirotech-515,American Discord Company,United States,25699.0,Health Care
-Envirotech-516,The Orange Mutual,United States,17924.0,Industrial
-Envirotech-517,English Ford Company,England,50431.0,Health Care
-Envirotech-518,The Python Financial,Canada,39274.0,Industrial
-Envirotech-519,English Theory Consulting,United States,17232.0,Financials
-Envirotech-520,Canadian Apple Limited,United Kingdom,28473.0,Financials
-Envirotech-521,The Chevy,US,69799.0,Financials
-Envirotech-522,A Apple,England,12583.0,Financials
-Envirotech-523,American Discord LLC,US,98149.0,Health Care
-Envirotech-524,English Red Mutual,Canada,,Energy
-Envirotech-525,A Rust,United Kingdom,,Health Care
-Envirotech-526,English Red,United States,86104.0,Industrial
-Envirotech-527,Canadian Apple Incorporated,Canada,5475.0,Technology
-Envirotech-528,English Apple,Canada,34149.0,Health Care
-Envirotech-529,English Theory Financial,US,16940.0,Technology
-Envirotech-530,The Discord Mutual,US,,Industrial
-Envirotech-531,A Chevy,United Kingdom,72674.0,Financials
-Envirotech-532,Canadian Micro,England,13631.0,Financials
-Envirotech-533,A Ford,US,,Technology
-Envirotech-534,The Theory inc.,Canada,28704.0,Energy
-Envirotech-535,English Micro inc.,England,72533.0,Technology
-Envirotech-536,English Rust Mutual,England,9323.0,Health Care
-Envirotech-537,American Bloom,US,80275.0,Financials
-Envirotech-538,The Orange,United Kingdom,95744.0,Energy
-Envirotech-539,Canadian Python LLC,United Kingdom,95986.0,Technology
-Envirotech-540,The Discord inc.,United States,22887.0,Health Care
-Envirotech-541,American Discord Incorporated,England,22257.0,Health Care
-Envirotech-542,American Discord LLC,US,43329.0,Technology
-Envirotech-543,A Red Mutual,US,10999.0,Health Care
-Envirotech-544,Canadian Theory,US,88983.0,Energy
-Envirotech-545,A Rust,England,98408.0,Industrial
-Envirotech-546,Canadian Bloom,United Kingdom,7569.0,
-Envirotech-547,English Python,US,48393.0,Technology
-Envirotech-548,A Bloom,United States,68906.0,Technology
-Envirotech-549,A Discord,United Kingdom,1902.0,Industrial
-Envirotech-550,A Micro,United States,62594.0,Technology
-Envirotech-551,The Python,England,70954.0,Industrial
-Envirotech-552,English Discord Financial,US,1806.0,Industrial
-Envirotech-553,English Chevy,US,79303.0,Financials
-Envirotech-554,A Orange Company,US,7329.0,Technology
-Envirotech-555,The Ford Company,Canada,61595.0,Industrial
-Envirotech-556,Canadian Theory inc.,United Kingdom,37244.0,Financials
-Envirotech-557,The Red Limited,,59668.0,Financials
-Envirotech-558,English Micro Limited,United Kingdom,40030.0,Technology
-Envirotech-559,Canadian Rust inc.,United States,73707.0,Financials
-Envirotech-560,A Apple,United States,47195.0,Energy
-Envirotech-561,A Rust,England,21478.0,Industrial
-Envirotech-562,Canadian Python,Canada,34542.0,Technology
-Envirotech-563,Canadian Micro Limited,England,5747.0,Health Care
-Envirotech-564,Canadian Orange Incorporated,United States,48019.0,Technology
-Envirotech-565,The Bloom Company,England,82019.0,Industrial
-Envirotech-566,American Discord Company,England,67257.0,Energy
-Envirotech-567,The Red Mutual,England,25557.0,Energy
-Envirotech-568,English Chevy,United States,70101.0,Technology
-Envirotech-569,American Python Company,Canada,96531.0,Financials
-Envirotech-570,American Apple Consulting,Canada,60214.0,Financials
-Envirotech-571,American Orange Incorporated,England,,Health Care
-Envirotech-572,Canadian Bloom,United Kingdom,,Energy
-Envirotech-573,American Theory,England,54518.0,Energy
-Envirotech-574,A Red,United States,58077.0,Health Care
-Envirotech-575,Canadian Chevy Financial,Canada,26349.0,Financials
-Envirotech-576,The Chevy LLC,United Kingdom,84442.0,Health Care
-Envirotech-577,American Orange LLC,United States,55756.0,Financials
-Envirotech-578,Canadian Python,Canada,50290.0,Health Care
-Envirotech-579,Canadian Micro Mutual,,52634.0,Technology
-Envirotech-580,Canadian Python,England,72289.0,Energy
-Envirotech-581,The Apple,Canada,86369.0,Energy
-Envirotech-582,A Rust,England,29675.0,Financials
-Envirotech-583,A Chevy Financial,Canada,46277.0,Financials
-Envirotech-584,American Micro Consulting,US,17127.0,Financials
-Envirotech-585,The Bloom,England,42186.0,Financials
-Envirotech-586,Canadian Apple Incorporated,United States,25510.0,Financials
-Envirotech-587,The Apple,US,,Financials
-Envirotech-588,American Chevy inc.,Canada,,Industrial
-Envirotech-589,A Orange,United Kingdom,20631.0,Energy
-Envirotech-590,Canadian Ford,United Kingdom,89264.0,Health Care
-Envirotech-591,Canadian Bloom,US,11350.0,Health Care
-Envirotech-592,English Red,United States,99761.0,Financials
-Envirotech-593,Canadian Red Incorporated,United Kingdom,,Industrial
-Envirotech-594,American Discord Company,US,91219.0,Health Care
-Envirotech-595,A Bloom Limited,England,69717.0,Health Care
-Envirotech-596,Canadian Bloom Incorporated,,71999.0,Technology
-Envirotech-597,A Rust inc.,US,15383.0,Technology
-Envirotech-598,American Micro,US,70117.0,Industrial
-Envirotech-599,American Theory Company,England,98147.0,Energy
-Envirotech-600,A Apple Financial,United States,56788.0,Health Care
-Envirotech-601,A Chevy Financial,England,37279.0,Technology
-Envirotech-602,American Bloom Financial,United States,59259.0,Health Care
-Envirotech-603,American Python Company,US,79779.0,Health Care
-Envirotech-604,A Rust,United Kingdom,,Energy
-Envirotech-605,English Apple Company,Canada,56272.0,Technology
-Envirotech-606,American Micro,England,92773.0,Energy
-Envirotech-607,English Apple Mutual,Canada,7222.0,Energy
-Envirotech-608,A Chevy inc.,United Kingdom,88801.0,Health Care
-Envirotech-609,Canadian Chevy Limited,Canada,13538.0,Technology
-Envirotech-610,The Rust,England,73246.0,Technology
-Envirotech-611,American Bloom,,46409.0,Technology
-Envirotech-612,A Python,Canada,31503.0,Industrial
-Envirotech-613,The Chevy Financial,Canada,36976.0,Energy
-Envirotech-614,American Ford Company,Canada,20252.0,Technology
-Envirotech-615,The Discord Consulting,United Kingdom,39685.0,Health Care
-Envirotech-616,Canadian Chevy,United Kingdom,28341.0,Health Care
-Envirotech-617,Canadian Discord,United Kingdom,78941.0,Health Care
-Envirotech-618,American Discord,Canada,21368.0,Health Care
-Envirotech-619,The Chevy,Canada,5117.0,Industrial
-Envirotech-620,American Bloom,United States,95194.0,
-Envirotech-621,American Chevy,England,77275.0,Financials
-Envirotech-622,Canadian Discord Limited,England,8725.0,Health Care
-Envirotech-623,American Red Incorporated,Canada,26254.0,Financials
-Envirotech-624,Canadian Discord,,73723.0,Energy
-Envirotech-625,A Red Mutual,United Kingdom,95544.0,Industrial
-Envirotech-626,American Chevy,United Kingdom,14669.0,
-Envirotech-627,American Apple Financial,United Kingdom,18420.0,Energy
-Envirotech-628,English Rust,Canada,32466.0,Financials
-Envirotech-629,The Chevy Consulting,US,73714.0,Technology
-Envirotech-630,The Apple LLC,US,90364.0,Energy
-Envirotech-631,American Theory,United States,62794.0,Financials
-Envirotech-632,The Discord Incorporated,US,31161.0,Technology
-Envirotech-633,A Chevy LLC,United Kingdom,50643.0,Industrial
-Envirotech-634,A Orange Financial,United Kingdom,28329.0,Energy
-Envirotech-635,Canadian Theory inc.,England,58781.0,Energy
-Envirotech-636,The Python inc.,Canada,9682.0,Technology
-Envirotech-637,American Discord,United States,40316.0,Financials
-Envirotech-638,The Ford,,52296.0,Industrial
-Envirotech-639,A Apple,US,36704.0,Financials
-Envirotech-640,Canadian Red Limited,England,98489.0,Energy
-Envirotech-641,American Python Mutual,Canada,37105.0,Health Care
-Envirotech-642,The Python Incorporated,Canada,43636.0,Industrial
-Envirotech-643,The Orange LLC,Canada,34854.0,Industrial
-Envirotech-644,American Discord,United Kingdom,71470.0,Energy
-Envirotech-645,Canadian Chevy,England,94617.0,Industrial
-Envirotech-646,A Ford Incorporated,Canada,,Industrial
-Envirotech-647,American Bloom,US,40775.0,Energy
-Envirotech-648,The Chevy,Canada,93915.0,Energy
-Envirotech-649,Canadian Micro,Canada,89131.0,Technology
-Envirotech-650,English Micro Financial,US,91057.0,Financials
-Envirotech-651,English Micro,United Kingdom,14610.0,Energy
-Envirotech-652,American Ford inc.,,24198.0,Financials
-Envirotech-653,A Red,United Kingdom,81926.0,Technology
-Envirotech-654,The Bloom,US,23809.0,Energy
-Envirotech-655,English Rust Company,US,,Energy
-Envirotech-656,American Micro Company,Canada,6650.0,Industrial
-Envirotech-657,A Apple Company,United States,87387.0,Health Care
-Envirotech-658,The Discord,United States,60316.0,Energy
-Envirotech-659,The Apple Financial,United Kingdom,81283.0,Health Care
-Envirotech-660,Canadian Orange,,92953.0,Industrial
-Envirotech-661,English Ford,Canada,8922.0,Energy
-Envirotech-662,The Ford,Canada,57689.0,Health Care
-Envirotech-663,Canadian Ford Incorporated,United Kingdom,18656.0,Industrial
-Envirotech-664,American Red Incorporated,United States,59462.0,Technology
-Envirotech-665,English Python Mutual,Canada,53425.0,Technology
-Envirotech-666,A Rust,United Kingdom,17772.0,Health Care
-Envirotech-667,English Bloom,England,92803.0,Financials
-Envirotech-668,American Red,US,94804.0,Technology
-Envirotech-669,A Discord,United Kingdom,79597.0,Energy
-Envirotech-670,The Python,United Kingdom,5501.0,Energy
-Envirotech-671,English Discord Company,,52997.0,Financials
-Envirotech-672,American Ford,United Kingdom,94595.0,Financials
-Envirotech-673,A Python,,16137.0,Energy
-Envirotech-674,English Rust inc.,Canada,67820.0,Energy
-Envirotech-675,The Rust Company,,20792.0,Technology
-Envirotech-676,Canadian Python,US,1149.0,Industrial
-Envirotech-677,The Theory,Canada,94942.0,Financials
-Envirotech-678,American Apple Company,England,85907.0,Health Care
-Envirotech-679,Canadian Orange Incorporated,England,,Technology
-Envirotech-680,American Bloom,US,68922.0,Financials
-Envirotech-681,American Apple Incorporated,US,89436.0,Industrial
-Envirotech-682,A Discord,United States,46058.0,Industrial
-Envirotech-683,Canadian Apple,United Kingdom,10272.0,Financials
-Envirotech-684,American Red LLC,England,10180.0,Industrial
-Envirotech-685,English Red Financial,England,89401.0,Energy
-Envirotech-686,Canadian Red,,50129.0,Energy
-Envirotech-687,American Bloom LLC,United Kingdom,,Financials
-Envirotech-688,American Theory,United Kingdom,77302.0,Technology
-Envirotech-689,The Bloom Mutual,England,99178.0,Technology
-Envirotech-690,A Python,Canada,59866.0,Energy
-Envirotech-691,American Apple Consulting,US,93421.0,Health Care
-Envirotech-692,The Python Mutual,United States,94957.0,Industrial
-Envirotech-693,Canadian Red,Canada,90575.0,Industrial
-Envirotech-694,English Ford Company,United Kingdom,,Energy
-Envirotech-695,Canadian Apple,United States,,Technology
-Envirotech-696,American Bloom,US,73543.0,Industrial
-Envirotech-697,English Theory Limited,Canada,75819.0,Technology
-Envirotech-698,The Python Limited,,27266.0,Technology
-Envirotech-699,A Micro Mutual,US,8803.0,Financials
-Envirotech-700,English Apple Mutual,Canada,83240.0,Financials
-Envirotech-701,American Orange,United States,80814.0,Industrial
-Envirotech-702,American Orange Incorporated,US,77264.0,Industrial
-Envirotech-703,Canadian Theory,United Kingdom,92547.0,Financials
-Envirotech-704,The Chevy,US,10607.0,Industrial
-Envirotech-705,American Python,United Kingdom,77642.0,Technology
-Envirotech-706,A Rust Company,,62390.0,Financials
-Envirotech-707,A Discord,US,73625.0,Financials
-Envirotech-708,Canadian Apple Limited,United States,54610.0,Industrial
-Envirotech-709,English Ford,United Kingdom,24524.0,Health Care
-Envirotech-710,English Bloom,England,62338.0,Technology
-Envirotech-711,A Chevy,England,75481.0,Energy
-Envirotech-712,Canadian Theory LLC,US,89435.0,Health Care
-Envirotech-713,The Red,US,2225.0,Financials
-Envirotech-714,English Orange,England,99201.0,Industrial
-Envirotech-715,English Theory Company,US,45993.0,Technology
-Envirotech-716,English Chevy Company,United Kingdom,,Health Care
-Envirotech-717,English Rust,,14369.0,Technology
-Envirotech-718,The Discord,United States,53398.0,Financials
-Envirotech-719,American Bloom Limited,United States,41784.0,Financials
-Envirotech-720,English Apple,United States,34793.0,Financials
-Envirotech-721,A Theory inc.,Canada,80332.0,Energy
-Envirotech-722,American Micro,United States,5691.0,Technology
-Envirotech-723,A Micro,US,,Energy
-Envirotech-724,The Rust Financial,United States,50498.0,Technology
-Envirotech-725,American Red,United Kingdom,99599.0,Technology
-Envirotech-726,Canadian Orange Company,United States,,Financials
-Envirotech-727,Canadian Apple inc.,Canada,24301.0,Technology
-Envirotech-728,The Apple,US,67902.0,Industrial
-Envirotech-729,English Ford,United States,52510.0,Industrial
-Envirotech-730,English Rust,United States,87379.0,Energy
-Envirotech-731,Canadian Discord Incorporated,Canada,,Health Care
-Envirotech-732,English Red,England,92221.0,Financials
-Envirotech-733,A Discord Financial,England,46112.0,Energy
-Envirotech-734,American Micro,Canada,64228.0,Industrial
-Envirotech-735,The Discord,England,63163.0,Health Care
-Envirotech-736,The Apple,England,89535.0,Financials
-Envirotech-737,The Orange,United Kingdom,93094.0,Financials
-Envirotech-738,American Orange,England,47688.0,Financials
-Envirotech-739,The Orange,England,33962.0,Energy
-Envirotech-740,American Bloom Consulting,Canada,15872.0,Health Care
-Envirotech-741,American Bloom Limited,Canada,69145.0,Health Care
-Envirotech-742,A Red,United States,82190.0,Industrial
-Envirotech-743,English Bloom,US,43199.0,Health Care
-Envirotech-744,American Discord,United States,6083.0,Energy
-Envirotech-745,A Ford Limited,US,53554.0,Financials
-Envirotech-746,The Chevy,England,4431.0,Technology
-Envirotech-747,American Chevy Incorporated,Canada,20479.0,Technology
-Envirotech-748,English Apple Mutual,United Kingdom,73251.0,Technology
-Envirotech-749,American Python,United States,62880.0,Energy
-Envirotech-750,Canadian Red,US,78111.0,Energy
-Envirotech-751,A Python,Canada,56422.0,Industrial
-Envirotech-752,A Orange,United Kingdom,47964.0,Energy
-Envirotech-753,A Orange,Canada,58509.0,Health Care
-Envirotech-754,Canadian Micro,United Kingdom,,Health Care
-Envirotech-755,A Rust,England,63250.0,Technology
-Envirotech-756,American Ford,United Kingdom,24031.0,Technology
-Envirotech-757,English Bloom Consulting,US,50654.0,Industrial
-Envirotech-758,The Red,Canada,32486.0,Health Care
-Envirotech-759,Canadian Rust Company,Canada,92401.0,Financials
-Envirotech-760,A Rust,United Kingdom,24663.0,Technology
-Envirotech-761,English Red inc.,United Kingdom,87668.0,Energy
-Envirotech-762,American Bloom Incorporated,,37625.0,Technology
-Envirotech-763,The Orange,England,62026.0,Industrial
-Envirotech-764,English Discord Consulting,US,37781.0,Health Care
-Envirotech-765,A Ford Mutual,England,82871.0,Energy
-Envirotech-766,English Ford,,16889.0,Industrial
-Envirotech-767,Canadian Orange Company,US,78397.0,Financials
-Envirotech-768,The Ford,United Kingdom,25642.0,Energy
-Envirotech-769,Canadian Micro,Canada,24731.0,Health Care
-Envirotech-770,Canadian Theory,United Kingdom,27694.0,Industrial
-Envirotech-771,American Theory inc.,England,23174.0,Health Care
-Envirotech-772,A Orange,United States,30343.0,Technology
-Envirotech-773,American Orange,US,11743.0,Financials
-Envirotech-774,The Orange Mutual,United Kingdom,57170.0,Health Care
-Envirotech-775,English Bloom,US,50295.0,Energy
-Envirotech-776,The Theory LLC,United States,90102.0,Health Care
-Envirotech-777,The Red,England,62528.0,Technology
-Envirotech-778,Canadian Python,United States,16097.0,Financials
-Envirotech-779,The Theory,Canada,46397.0,Financials
-Envirotech-780,The Python,United States,96677.0,Financials
-Envirotech-781,Canadian Red Consulting,United States,3533.0,Health Care
-Envirotech-782,Canadian Rust,England,67064.0,Technology
-Envirotech-783,The Bloom Company,United States,68758.0,Financials
-Envirotech-784,A Ford Mutual,United States,99114.0,Health Care
-Envirotech-785,A Apple,US,94356.0,Industrial
-Envirotech-786,English Red,United Kingdom,72825.0,Industrial
-Envirotech-787,Canadian Discord,United States,71752.0,Health Care
-Envirotech-788,Canadian Chevy,United States,73404.0,Industrial
-Envirotech-789,The Rust,England,7117.0,Health Care
-Envirotech-790,The Micro,United Kingdom,95418.0,Technology
-Envirotech-791,The Python Mutual,England,42523.0,Financials
-Envirotech-792,Canadian Python,United Kingdom,7978.0,Industrial
-Envirotech-793,A Bloom Limited,,46754.0,Health Care
-Envirotech-794,English Orange Consulting,England,13150.0,Technology
-Envirotech-795,A Rust Mutual,Canada,36877.0,Energy
-Envirotech-796,A Apple Incorporated,England,29844.0,Health Care
-Envirotech-797,Canadian Micro,United States,83583.0,Technology
-Envirotech-798,The Orange,England,49733.0,Industrial
-Envirotech-799,The Chevy,England,5706.0,Industrial
-Envirotech-800,Canadian Rust,United States,3490.0,Energy
+Envirotech-1,English Hyper,Ca,41824.0,
+Envirotech-2,Canadian Macro,Us,79909.0,Energy
+Envirotech-3,The Lucas Films,Fra,69758.0,Industrial
+Envirotech-4,Canadian Paramount,Uk,29167.0,Industrial
+Envirotech-5,Canadian Dc,Us,41425.0,Health Care
+Envirotech-6,English Python mutual,France,62984.0,Energy
+Envirotech-7,English Corsair inc.,Us,70035.0,Health Care
+Envirotech-8,English Aviva,Scotland,34393.0,Technology
+Envirotech-9,American Rust llc,France,92194.0,Health Care
+Envirotech-10,American Theory incorporated,Uk,93365.0,Energy
+Envirotech-11,A Evil company,United Kingdom,46841.0,Technology
+Envirotech-12,English Cbc mutual,Canada,64311.0,Technology
+Envirotech-13,The Paramount,Fr,65322.0,Health Care
+Envirotech-14,English Red mutual,,24799.0,Technology
+Envirotech-15,The Paramount,Uk,22530.0,Technology
+Envirotech-16,A Python,England,98263.0,Industrial
+Envirotech-17,American Corsair company,Fra,95937.0,Health Care
+Envirotech-18,A Hyper,Ca,26317.0,Health Care
+Envirotech-19,English Anthropic limited,Canada,89226.0,Energy
+Envirotech-20,English Brooks financial,United Kingdom,78274.0,Financials
+Envirotech-21,English Skydance financial,,65657.0,Health Care
+Envirotech-22,A Google llc,,5323.0,Energy
+Envirotech-23,American Anthropic,Fr,80220.0,Financials
+Envirotech-24,A Rust financial,Canada,,Industrial
+Envirotech-25,The Ford,Usa,38633.0,Financials
+Envirotech-26,Canadian Cbc incorporated,Scotland,99965.0,Technology
+Envirotech-27,English Lucas Films financial,United Kingdom,34757.0,Industrial
+Envirotech-28,A Micro financial,Can,53700.0,Energy
+Envirotech-29,English Unicorn,Scotland,96289.0,Technology
+Envirotech-30,American A&W,,74795.0,Industrial
+Envirotech-31,English Micro mutual,England,92546.0,Industrial
+Envirotech-32,American Anthropic mutual,Fra,20216.0,Energy
+Envirotech-33,English Mcdonalds,England,29805.0,Financials
+Envirotech-34,American Mcdonalds consulting,Fra,25944.0,Health Care
+Envirotech-35,A Evil,United States,87004.0,Health Care
+Envirotech-36,Canadian Python,Us,59512.0,Health Care
+Envirotech-37,The Discord limited,Canada,54295.0,Technology
+Envirotech-38,A Python inc.,Ca,53196.0,Health Care
+Envirotech-39,English Corsair,England,,Financials
+Envirotech-40,Canadian Unicorn mutual,England,91103.0,Financials
+Envirotech-41,English Google llc,Uk,49400.0,Industrial
+Envirotech-42,The Discord financial,Usa,63642.0,Health Care
+Envirotech-43,Canadian Intact limited,France,18106.0,Health Care
+Envirotech-44,A Books inc.,England,51170.0,Health Care
+Envirotech-45,The Intact llc,Scotland,62451.0,Energy
+Envirotech-46,Canadian Theory incorporated,France,23413.0,Financials
+Envirotech-47,The Chevy limited,,14704.0,Industrial
+Envirotech-48,English Cbc inc.,Canada,,Technology
+Envirotech-49,A Unicorn consulting,France,9343.0,Technology
+Envirotech-50,Canadian Skydance,Ca,81886.0,Financials
+Envirotech-51,American Chevy mutual,England,28749.0,Financials
+Envirotech-52,American Brooks,Can,66798.0,Financials
+Envirotech-53,American Google,Usa,1334.0,Technology
+Envirotech-54,A Books,Canada,80442.0,Financials
+Envirotech-55,American Hyper,United States,10530.0,Industrial
+Envirotech-56,American Orange consulting,Uk,64025.0,Health Care
+Envirotech-57,Canadian Lucas Films mutual,Us,10370.0,Energy
+Envirotech-58,Canadian Paramount limited,Uk,74403.0,Financials
+Envirotech-59,The Theory consulting,Us,33580.0,Industrial
+Envirotech-60,Canadian Unicorn,France,30022.0,Energy
+Envirotech-61,The Orange,England,14483.0,Financials
+Envirotech-62,The Nbc financial,Usa,4930.0,Industrial
+Envirotech-63,American Paramount incorporated,Us,,Health Care
+Envirotech-64,English A&W limited,Uk,50016.0,Industrial
+Envirotech-65,The Ford limited,Uk,88163.0,Industrial
+Envirotech-66,A Cbc,Ca,92078.0,Industrial
+Envirotech-67,English Nbc,Uk,33934.0,Health Care
+Envirotech-68,Canadian Google llc,Us,31664.0,Energy
+Envirotech-69,The Nbc,England,89501.0,Financials
+Envirotech-70,American Orange,Uk,37558.0,Health Care
+Envirotech-71,Canadian Ford,Usa,25493.0,Technology
+Envirotech-72,Canadian Mcdonalds llc,Ca,93142.0,Industrial
+Envirotech-73,The Aviva,,36701.0,Technology
+Envirotech-74,American Micro consulting,United Kingdom,2326.0,Energy
+Envirotech-75,Canadian Micro company,England,,Technology
+Envirotech-76,A Micro,Ca,74790.0,
+Envirotech-77,A Big One,Uk,10642.0,Energy
+Envirotech-78,American Big One,United Kingdom,34574.0,Technology
+Envirotech-79,English Amazon company,Usa,37132.0,Technology
+Envirotech-80,American Intact incorporated,France,97534.0,Financials
+Envirotech-81,Canadian Big Business incorporated,Canada,24311.0,Energy
+Envirotech-82,English Nvidia mutual,England,52544.0,Health Care
+Envirotech-83,A Discord financial,Uk,38811.0,Health Care
+Envirotech-84,Canadian Ford consulting,United Kingdom,3636.0,Technology
+Envirotech-85,English Amazon inc.,England,36490.0,Technology
+Envirotech-86,American Paramount,England,81476.0,Energy
+Envirotech-87,Canadian Good incorporated,Ca,74852.0,Financials
+Envirotech-88,American Anthropic,Uk,25476.0,Financials
+Envirotech-89,Canadian Greggs,Ca,95961.0,Industrial
+Envirotech-90,The Intact incorporated,Ca,50961.0,Financials
+Envirotech-91,Canadian Skydance mutual,Canada,56822.0,Industrial
+Envirotech-92,The Nbc consulting,England,18972.0,Health Care
+Envirotech-93,Canadian Lucas Films llc,Us,74544.0,Energy
+Envirotech-94,American Nvidia,Fr,98326.0,Financials
+Envirotech-95,The Chevy,Fra,25851.0,Energy
+Envirotech-96,Canadian Amazon limited,,44336.0,Technology
+Envirotech-97,The Good llc,United Kingdom,1190.0,Financials
+Envirotech-98,English Orange company,Scotland,74498.0,Health Care
+Envirotech-99,American Good,Canada,,Energy
+Envirotech-100,Canadian Dc,United Kingdom,91947.0,Health Care
+Envirotech-101,American Micro consulting,Fr,63854.0,Technology
+Envirotech-102,A Bloom llc,Canada,51742.0,Energy
+Envirotech-103,Canadian Mcdonalds,United States,74541.0,Technology
+Envirotech-104,English Theory,Usa,31714.0,Health Care
+Envirotech-105,English Corsair,Can,30797.0,Financials
+Envirotech-106,English Greggs financial,Us,18010.0,Technology
+Envirotech-107,A Marvel,Fr,31615.0,Financials
+Envirotech-108,American Big One llc,England,38290.0,Industrial
+Envirotech-109,English Tesla,England,2949.0,Financials
+Envirotech-110,The Intact,Ca,88176.0,Health Care
+Envirotech-111,English Mcdonalds,Scotland,7538.0,Industrial
+Envirotech-112,Canadian Cbc,Uk,21338.0,Health Care
+Envirotech-113,English Unicorn inc.,Fra,37622.0,Health Care
+Envirotech-114,A Skydance mutual,,36728.0,Industrial
+Envirotech-115,English Discord,,98132.0,Industrial
+Envirotech-116,A Skydance,Can,49842.0,Industrial
+Envirotech-117,A Paramount financial,Usa,80301.0,Energy
+Envirotech-118,A Corsair,Can,63875.0,Industrial
+Envirotech-119,Canadian Ford,Us,27488.0,Health Care
+Envirotech-120,English Amazon,Ca,31607.0,Health Care
+Envirotech-121,A Chevy limited,Can,41026.0,Technology
+Envirotech-122,A Big One,Canada,66018.0,Industrial
+Envirotech-123,The Bbc,United Kingdom,69140.0,Health Care
+Envirotech-124,English Skydance inc.,Fr,12816.0,Energy
+Envirotech-125,The Nvidia company,Ca,73304.0,Industrial
+Envirotech-126,English Brooks llc,France,5341.0,Technology
+Envirotech-127,A Paramount incorporated,Fra,62757.0,Industrial
+Envirotech-128,The Nvidia,Us,64611.0,
+Envirotech-129,The Ford consulting,Us,,Technology
+Envirotech-130,Canadian Brooks mutual,United States,12310.0,Financials
+Envirotech-131,The A&W financial,Us,69636.0,Technology
+Envirotech-132,Canadian Rust limited,Ca,79567.0,Technology
+Envirotech-133,Canadian Cbc,Can,33582.0,
+Envirotech-134,Canadian Cbc,Us,69264.0,Health Care
+Envirotech-135,English Aviva company,Can,17563.0,Energy
+Envirotech-136,Canadian Nbc consulting,Uk,97334.0,Technology
+Envirotech-137,English Macro incorporated,Ca,67963.0,Technology
+Envirotech-138,The Micro,Can,94994.0,Energy
+Envirotech-139,Canadian Chevy llc,Usa,4977.0,Financials
+Envirotech-140,American Cbc financial,Fra,58576.0,Energy
+Envirotech-141,A Bloom,Fr,78115.0,Industrial
+Envirotech-142,English A&W financial,Ca,96094.0,Technology
+Envirotech-143,American Brooks mutual,Fra,6267.0,Industrial
+Envirotech-144,A Satellite,Us,16198.0,Industrial
+Envirotech-145,The Orange,,35523.0,Financials
+Envirotech-146,English Orange,United Kingdom,64607.0,Health Care
+Envirotech-147,English Amazon,Can,9847.0,Industrial
+Envirotech-148,Canadian Mcdonalds consulting,United Kingdom,23076.0,Energy
+Envirotech-149,English Nbc,Usa,33906.0,Health Care
+Envirotech-150,English Google,Can,76744.0,Technology
+Envirotech-151,Canadian A&W,Scotland,16007.0,Energy
+Envirotech-152,American Nbc,Fr,70451.0,Industrial
+Envirotech-153,American Big One,Canada,11353.0,Financials
+Envirotech-154,A Micro mutual,Fr,62999.0,Technology
+Envirotech-155,English Mcdonalds,Fra,17747.0,Financials
+Envirotech-156,The Evil inc.,Usa,77039.0,Technology
+Envirotech-157,Canadian Brooks,Usa,31788.0,Technology
+Envirotech-158,Canadian Google,United States,8473.0,Industrial
+Envirotech-159,The Python,France,80022.0,Technology
+Envirotech-160,The Skydance,Ca,85667.0,Industrial
+Envirotech-161,The Aviva inc.,Usa,71342.0,Financials
+Envirotech-162,A Discord,United Kingdom,21611.0,Health Care
+Envirotech-163,Canadian Marvel,Usa,53978.0,Technology
+Envirotech-164,A Anthropic llc,Fra,79259.0,Financials
+Envirotech-165,The Hyper,Fr,83391.0,Technology
+Envirotech-166,A Tesla,Fra,96545.0,Industrial
+Envirotech-167,Canadian A&W,Uk,33117.0,Technology
+Envirotech-168,American Bbc,France,9724.0,Health Care
+Envirotech-169,Canadian Chevy,Canada,78042.0,Health Care
+Envirotech-170,English Nbc,United States,93374.0,Technology
+Envirotech-171,English Dc limited,Can,,Financials
+Envirotech-172,Canadian Brooks,Us,,Health Care
+Envirotech-173,American Books,Canada,53226.0,Technology
+Envirotech-174,Canadian Red,Can,70171.0,Technology
+Envirotech-175,A Rust,France,38524.0,Health Care
+Envirotech-176,American Hyper,Fr,80424.0,Energy
+Envirotech-177,The Bloom,Fr,42069.0,Technology
+Envirotech-178,American Chevy,England,32053.0,Industrial
+Envirotech-179,The Books mutual,Uk,1750.0,Health Care
+Envirotech-180,The A&W,Scotland,16844.0,Technology
+Envirotech-181,A Amazon,United Kingdom,84890.0,Industrial
+Envirotech-182,English A&W company,Can,55007.0,Technology
+Envirotech-183,Canadian Evil consulting,Fr,29200.0,Industrial
+Envirotech-184,Canadian Anthropic,Us,,Health Care
+Envirotech-185,English Ford,Uk,11410.0,Industrial
+Envirotech-186,American Greggs,France,42731.0,Industrial
+Envirotech-187,Canadian Brooks limited,Usa,1341.0,Technology
+Envirotech-188,English Micro limited,Scotland,27693.0,Industrial
+Envirotech-189,The Unicorn consulting,Usa,75575.0,Health Care
+Envirotech-190,American Google,United States,72192.0,Industrial
+Envirotech-191,Canadian Lucas Films,Scotland,75314.0,Financials
+Envirotech-192,English Skydance,Uk,28480.0,Industrial
+Envirotech-193,Canadian Apple,Uk,59147.0,Financials
+Envirotech-194,A Marvel consulting,United Kingdom,20620.0,Health Care
+Envirotech-195,American Aviva,Fr,80742.0,Energy
+Envirotech-196,The Dc mutual,England,2816.0,Technology
+Envirotech-197,American Bloom incorporated,Can,78593.0,
+Envirotech-198,A Chevy limited,Usa,61766.0,Health Care
+Envirotech-199,A Big One,England,57222.0,Technology
+Envirotech-200,American Corsair,Fr,12067.0,Financials
+Envirotech-201,Canadian Books,United Kingdom,92804.0,Energy
+Envirotech-202,A Tesla mutual,Fra,5989.0,Energy
+Envirotech-203,A Rust limited,Can,44091.0,Financials
+Envirotech-204,A Evil company,France,89192.0,Energy
+Envirotech-205,A Python,Canada,,Industrial
+Envirotech-206,A Tesla,Usa,58173.0,Energy
+Envirotech-207,American Paramount,Fra,27110.0,Health Care
+Envirotech-208,A Anthropic,France,16804.0,Industrial
+Envirotech-209,American Rust,Fr,16074.0,Energy
+Envirotech-210,Canadian Corsair inc.,England,50049.0,Energy
+Envirotech-211,American Orange,United States,29108.0,Health Care
+Envirotech-212,The Macro,,4784.0,Technology
+Envirotech-213,English Skydance mutual,Fr,82039.0,Energy
+Envirotech-214,Canadian Amazon,United States,67122.0,Technology
+Envirotech-215,Canadian Bloom,Scotland,67853.0,Financials
+Envirotech-216,The Orange company,Ca,54660.0,Technology
+Envirotech-217,The Skydance incorporated,Us,63294.0,Technology
+Envirotech-218,The Apple company,,94265.0,Health Care
+Envirotech-219,Canadian Skydance incorporated,United States,4074.0,Health Care
+Envirotech-220,Canadian Red company,Scotland,46138.0,Energy
+Envirotech-221,A Orange,Can,83729.0,Financials
+Envirotech-222,The Evil llc,Ca,8225.0,Technology
+Envirotech-223,A Cbc inc.,France,93796.0,Financials
+Envirotech-224,American A&W,United Kingdom,9434.0,Industrial
+Envirotech-225,A Discord incorporated,United States,35148.0,Energy
+Envirotech-226,The Nvidia financial,United States,29006.0,Health Care
+Envirotech-227,American Lucas Films llc,Scotland,11235.0,Health Care
+Envirotech-228,Canadian Paramount limited,United Kingdom,17958.0,Industrial
+Envirotech-229,English Marvel llc,Ca,81183.0,Technology
+Envirotech-230,American Big Business,England,22281.0,Financials
+Envirotech-231,Canadian Macro limited,Fra,12100.0,Industrial
+Envirotech-232,Canadian Bbc company,Scotland,6870.0,Health Care
+Envirotech-233,Canadian Dc,Scotland,7997.0,Health Care
+Envirotech-234,American Discord company,United States,10564.0,Financials
+Envirotech-235,English Satellite,United Kingdom,55388.0,Financials
+Envirotech-236,Canadian Nvidia,Uk,63249.0,Technology
+Envirotech-237,Canadian Google inc.,,83433.0,Industrial
+Envirotech-238,American Skydance,United States,69679.0,Health Care
+Envirotech-239,English Nbc,Scotland,65464.0,Financials
+Envirotech-240,Canadian Paramount,Ca,99244.0,Energy
+Envirotech-241,A Lucas Films,United States,70365.0,Technology
+Envirotech-242,English Evil financial,Fr,57937.0,Health Care
+Envirotech-243,American Nbc financial,Usa,99666.0,Financials
+Envirotech-244,American Satellite limited,Fr,13458.0,Industrial
+Envirotech-245,The Dc consulting,France,91940.0,Health Care
+Envirotech-246,English Ford,Usa,32076.0,Industrial
+Envirotech-247,The Brooks limited,Can,68459.0,
+Envirotech-248,English Cbc,United Kingdom,1717.0,Energy
+Envirotech-249,English Satellite,Can,,Energy
+Envirotech-250,American Ford inc.,Uk,6939.0,Energy
+Envirotech-251,The Anthropic consulting,Ca,,Financials
+Envirotech-252,The Dc,Canada,75395.0,Technology
+Envirotech-253,Canadian Tesla mutual,France,25006.0,Technology
+Envirotech-254,American Bloom limited,Fra,18751.0,Energy
+Envirotech-255,The Paramount inc.,Uk,89600.0,Energy
+Envirotech-256,A Nvidia,Usa,6204.0,Technology
+Envirotech-257,The Bbc consulting,Fra,66265.0,Industrial
+Envirotech-258,The Nbc consulting,Scotland,6803.0,Health Care
+Envirotech-259,The Books,France,25880.0,Industrial
+Envirotech-260,The Theory,Ca,28522.0,Health Care
+Envirotech-261,The Cbc,United States,1405.0,Health Care
+Envirotech-262,The Hyper financial,Canada,41841.0,Financials
+Envirotech-263,A Lucas Films company,Can,73233.0,Technology
+Envirotech-264,The Discord,Fra,99547.0,Energy
+Envirotech-265,Canadian Python limited,France,93461.0,Financials
+Envirotech-266,A Nbc incorporated,England,27826.0,Technology
+Envirotech-267,Canadian Orange,Canada,48109.0,Technology
+Envirotech-268,The Micro,France,83823.0,Technology
+Envirotech-269,English Bloom,England,24073.0,Technology
+Envirotech-270,American Good,Can,21334.0,Technology
+Envirotech-271,The Apple llc,Can,12030.0,Health Care
+Envirotech-272,Canadian Nvidia llc,Ca,32817.0,Financials
+Envirotech-273,The Nvidia financial,United States,26572.0,Industrial
+Envirotech-274,A Intact,Us,43441.0,Energy
+Envirotech-275,The Good consulting,Fr,58740.0,Health Care
+Envirotech-276,The Red company,Us,64368.0,
+Envirotech-277,A Dc consulting,Usa,25110.0,Financials
+Envirotech-278,A Nvidia mutual,United Kingdom,23988.0,Energy
+Envirotech-279,The Cbc,Fra,,Health Care
+Envirotech-280,The Lucas Films financial,Ca,69144.0,Technology
+Envirotech-281,The Discord incorporated,United Kingdom,83975.0,Financials
+Envirotech-282,The Dc,Ca,35424.0,Financials
+Envirotech-283,Canadian Nvidia incorporated,Ca,92377.0,Energy
+Envirotech-284,American Books,Ca,28974.0,Health Care
+Envirotech-285,The Red,England,71161.0,Financials
+Envirotech-286,American Intact incorporated,Canada,81894.0,Energy
+Envirotech-287,The Corsair,Us,2713.0,Financials
+Envirotech-288,The Hyper,Us,14203.0,Industrial
+Envirotech-289,A Cbc inc.,Scotland,8009.0,Financials
+Envirotech-290,The Nvidia consulting,United Kingdom,60526.0,Health Care
+Envirotech-291,English Nbc,Us,84366.0,Industrial
+Envirotech-292,English Discord,United States,19713.0,Health Care
+Envirotech-293,Canadian Bbc,Fr,52041.0,Technology
+Envirotech-294,Canadian Marvel,Canada,26717.0,Health Care
+Envirotech-295,American Paramount financial,Fra,51347.0,Health Care
+Envirotech-296,A Evil limited,Scotland,96488.0,Industrial
+Envirotech-297,A Paramount,Fra,90551.0,Industrial
+Envirotech-298,English Red company,Scotland,39497.0,Energy
+Envirotech-299,A Evil mutual,Canada,37900.0,Health Care
+Envirotech-300,English Python,France,95912.0,Energy
+Envirotech-301,The Rust,,44126.0,Health Care
+Envirotech-302,The Unicorn,Can,61779.0,Technology
+Envirotech-303,American Paramount,United States,83243.0,Industrial
+Envirotech-304,A Dc llc,United States,23913.0,Technology
+Envirotech-305,American Discord consulting,France,6935.0,Energy
+Envirotech-306,Canadian Anthropic inc.,Us,65879.0,Industrial
+Envirotech-307,American Evil,Scotland,9654.0,Industrial
+Envirotech-308,A Ford,Fra,92890.0,Health Care
+Envirotech-309,The Corsair limited,Ca,33282.0,Industrial
+Envirotech-310,American Theory incorporated,France,92036.0,Health Care
+Envirotech-311,The Nvidia company,Scotland,76213.0,Health Care
+Envirotech-312,A Marvel financial,Fra,31417.0,Industrial
+Envirotech-313,American Theory,Ca,48228.0,Energy
+Envirotech-314,A Discord consulting,Canada,92184.0,Health Care
+Envirotech-315,American Python,Fr,32177.0,Technology
+Envirotech-316,Canadian Red incorporated,Canada,54953.0,Energy
+Envirotech-317,Canadian Tesla mutual,Usa,4717.0,Industrial
+Envirotech-318,English Red financial,Ca,45449.0,Technology
+Envirotech-319,American Satellite limited,France,,Financials
+Envirotech-320,English Cbc consulting,Usa,90224.0,Technology
+Envirotech-321,American Lucas Films limited,United Kingdom,79676.0,Industrial
+Envirotech-322,A A&W,United Kingdom,86407.0,Technology
+Envirotech-323,The Greggs consulting,Usa,,Industrial
+Envirotech-324,Canadian Unicorn,,74518.0,Energy
+Envirotech-325,Canadian Dc,Ca,77750.0,Energy
+Envirotech-326,American Unicorn,United States,88551.0,Energy
+Envirotech-327,The Hyper,Canada,62778.0,Industrial
+Envirotech-328,English Python,Usa,5322.0,Industrial
+Envirotech-329,A Rust,Scotland,95257.0,Health Care
+Envirotech-330,American Bloom incorporated,Can,44130.0,Energy
+Envirotech-331,Canadian Greggs inc.,Us,94034.0,
+Envirotech-332,Canadian Bloom limited,England,85298.0,Industrial
+Envirotech-333,Canadian Rust company,Canada,46206.0,Industrial
+Envirotech-334,English Satellite,France,77586.0,Financials
+Envirotech-335,Canadian Python company,United States,98825.0,
+Envirotech-336,A Discord,Us,15086.0,Health Care
+Envirotech-337,Canadian Aviva company,England,58420.0,Health Care
+Envirotech-338,Canadian Theory inc.,Fra,86372.0,
+Envirotech-339,English Anthropic,France,46458.0,Financials
+Envirotech-340,The Big Business consulting,France,41303.0,Industrial
+Envirotech-341,A Paramount mutual,Ca,4594.0,Industrial
+Envirotech-342,English Nvidia,United Kingdom,76304.0,Technology
+Envirotech-343,The Ford llc,Fra,37352.0,Financials
+Envirotech-344,The Corsair,Scotland,33893.0,Technology
+Envirotech-345,English Bbc,Uk,49225.0,Technology
+Envirotech-346,English Big One,Usa,56007.0,Industrial
+Envirotech-347,A Skydance,France,88566.0,Industrial
+Envirotech-348,English Lucas Films,Ca,38229.0,Financials
+Envirotech-349,American Aviva,Can,57474.0,Technology
+Envirotech-350,American Intact llc,Canada,61115.0,Industrial
+Envirotech-351,Canadian Good llc,Uk,6467.0,Energy
+Envirotech-352,The Bloom,Ca,80423.0,Health Care
+Envirotech-353,American Greggs llc,Scotland,17621.0,Industrial
+Envirotech-354,English Macro inc.,Us,25676.0,Industrial
+Envirotech-355,The Tesla consulting,Canada,76643.0,Technology
+Envirotech-356,American Bbc mutual,Canada,56076.0,Financials
+Envirotech-357,English Orange,Fr,44185.0,Health Care
+Envirotech-358,The Good,United Kingdom,99041.0,Industrial
+Envirotech-359,Canadian Marvel,Fr,77783.0,Industrial
+Envirotech-360,American Google,Canada,9564.0,Energy
+Envirotech-361,American A&W,United States,95240.0,Industrial
+Envirotech-362,A Cbc,Canada,47772.0,Technology
+Envirotech-363,Canadian Micro,Us,28745.0,Health Care
+Envirotech-364,English Big Business,Can,98067.0,Industrial
+Envirotech-365,English Books llc,United Kingdom,84485.0,Technology
+Envirotech-366,Canadian Marvel,Scotland,2626.0,Industrial
+Envirotech-367,American Nbc incorporated,Can,20695.0,Health Care
+Envirotech-368,American Macro incorporated,Fr,51261.0,Health Care
+Envirotech-369,American Evil consulting,Canada,89109.0,Industrial
+Envirotech-370,The A&W consulting,United States,76662.0,Technology
+Envirotech-371,The Big Business limited,Us,64297.0,Technology
+Envirotech-372,English Anthropic,Can,50150.0,Financials
+Envirotech-373,English Macro incorporated,England,80274.0,Technology
+Envirotech-374,The Paramount limited,Us,83050.0,Financials
+Envirotech-375,A Unicorn financial,United States,23042.0,Industrial
+Envirotech-376,A Hyper consulting,Usa,41365.0,Financials
+Envirotech-377,American Ford,United States,92155.0,Health Care
+Envirotech-378,English Evil,Ca,40420.0,Technology
+Envirotech-379,Canadian Brooks company,Fra,49057.0,Financials
+Envirotech-380,English Marvel company,Fra,31686.0,Energy
+Envirotech-381,English Big One financial,France,75176.0,Financials
+Envirotech-382,American Dc limited,Fr,8059.0,Health Care
+Envirotech-383,A Amazon,United Kingdom,93866.0,Financials
+Envirotech-384,American Nvidia limited,Us,79305.0,Technology
+Envirotech-385,A Evil consulting,Usa,37062.0,Health Care
+Envirotech-386,English Macro consulting,Can,7471.0,Health Care
+Envirotech-387,The Cbc consulting,France,15893.0,Industrial
+Envirotech-388,Canadian Cbc financial,Fr,59305.0,Industrial
+Envirotech-389,The Evil,Can,68429.0,Energy
+Envirotech-390,English Big Business company,Uk,56688.0,Financials
+Envirotech-391,Canadian Bloom,England,53621.0,Health Care
+Envirotech-392,The Chevy,Ca,32757.0,Industrial
+Envirotech-393,English Brooks,Fr,35526.0,Industrial
+Envirotech-394,English Evil consulting,Canada,92407.0,Health Care
+Envirotech-395,American Corsair,,32683.0,Technology
+Envirotech-396,Canadian Macro,Fra,63226.0,Industrial
+Envirotech-397,American Aviva,Ca,36551.0,Technology
+Envirotech-398,Canadian Brooks,Can,14177.0,Technology
+Envirotech-399,English Apple consulting,United States,34059.0,Technology
+Envirotech-400,English Big Business,France,31883.0,Technology
+Envirotech-401,The Theory,Can,75976.0,Financials
+Envirotech-402,English Chevy consulting,England,39487.0,Technology
+Envirotech-403,Canadian Nbc company,Canada,60555.0,Technology
+Envirotech-404,The Dc mutual,Fr,11589.0,Financials
+Envirotech-405,American Satellite,France,17762.0,Industrial
+Envirotech-406,Canadian Nvidia company,Canada,5320.0,Energy
+Envirotech-407,English A&W llc,United Kingdom,22166.0,Technology
+Envirotech-408,American Satellite,Ca,71195.0,Health Care
+Envirotech-409,The Books financial,Scotland,64715.0,Financials
+Envirotech-410,A Big One llc,France,80824.0,Health Care
+Envirotech-411,English A&W,Fra,81384.0,Health Care
+Envirotech-412,English Brooks,Fra,45784.0,Health Care
+Envirotech-413,Canadian Marvel company,France,55243.0,Technology
+Envirotech-414,English Apple,Can,95929.0,Technology
+Envirotech-415,English Amazon consulting,Can,43773.0,
+Envirotech-416,English Tesla,France,28490.0,Health Care
+Envirotech-417,Canadian Mcdonalds incorporated,Can,70168.0,Industrial
+Envirotech-418,American Big Business mutual,Fr,39761.0,Health Care
+Envirotech-419,A Lucas Films,France,67674.0,Financials
+Envirotech-420,American Rust,Scotland,,Energy
+Envirotech-421,A Macro,United States,52067.0,Energy
+Envirotech-422,A Dc financial,,26962.0,Health Care
+Envirotech-423,A Micro,Usa,17192.0,Health Care
+Envirotech-424,The Rust,Us,75607.0,Industrial
+Envirotech-425,American Intact,Fr,25132.0,Energy
+Envirotech-426,A Corsair,Uk,34556.0,Industrial
+Envirotech-427,Canadian Good,Us,76326.0,Energy
+Envirotech-428,American Good,England,25663.0,Technology
+Envirotech-429,A Big One,Fr,77696.0,Health Care
+Envirotech-430,Canadian Marvel incorporated,Canada,79197.0,Health Care
+Envirotech-431,English Discord consulting,United Kingdom,33140.0,Industrial
+Envirotech-432,English Macro,Uk,74619.0,Technology
+Envirotech-433,A Hyper,Uk,50575.0,Energy
+Envirotech-434,English Nbc inc.,Fra,37354.0,Financials
+Envirotech-435,Canadian Cbc,Fra,87740.0,Health Care
+Envirotech-436,English Lucas Films,Fr,1420.0,Energy
+Envirotech-437,The Python,Canada,74276.0,Financials
+Envirotech-438,Canadian A&W incorporated,Canada,72355.0,Industrial
+Envirotech-439,A Bloom,Scotland,45462.0,Financials
+Envirotech-440,Canadian Chevy,United States,74811.0,Financials
+Envirotech-441,English Skydance mutual,Scotland,56365.0,Health Care
+Envirotech-442,Canadian Marvel limited,Uk,64865.0,Technology
+Envirotech-443,A Cbc,England,81840.0,Industrial
+Envirotech-444,English Discord incorporated,Ca,36044.0,Health Care
+Envirotech-445,American Hyper,Ca,89269.0,Health Care
+Envirotech-446,A Books,Uk,9054.0,Energy
+Envirotech-447,Canadian Anthropic,Ca,51112.0,Energy
+Envirotech-448,American Lucas Films company,United States,67788.0,Energy
+Envirotech-449,English Red,Fra,60691.0,Industrial
+Envirotech-450,English Aviva company,,81706.0,Technology
+Envirotech-451,Canadian Corsair llc,Uk,4682.0,Energy
+Envirotech-452,A Bbc consulting,Fr,46065.0,Industrial
+Envirotech-453,The Unicorn inc.,Uk,37903.0,Health Care
+Envirotech-454,American Anthropic consulting,Scotland,6708.0,Financials
+Envirotech-455,The Macro,United States,13832.0,Energy
+Envirotech-456,English Big Business incorporated,United States,24545.0,Industrial
+Envirotech-457,A Skydance,Us,69985.0,
+Envirotech-458,Canadian Bloom llc,United Kingdom,6468.0,Financials
+Envirotech-459,English Evil company,England,,Energy
+Envirotech-460,English Books consulting,,13555.0,Technology
+Envirotech-461,A Anthropic consulting,England,39511.0,Health Care
+Envirotech-462,American Micro company,Canada,68926.0,Industrial
+Envirotech-463,American Paramount mutual,Fra,67294.0,
+Envirotech-464,Canadian Aviva financial,Us,73550.0,Technology
+Envirotech-465,Canadian Anthropic mutual,Usa,6972.0,Financials
+Envirotech-466,A Books,Canada,85181.0,Industrial
+Envirotech-467,The Bbc,,73947.0,Health Care
+Envirotech-468,The Corsair,Usa,97268.0,Financials
+Envirotech-469,American Skydance consulting,Ca,71140.0,Industrial
+Envirotech-470,American Big Business,England,33645.0,Energy
+Envirotech-471,The Theory,United States,98693.0,Energy
+Envirotech-472,The Big One company,Us,95173.0,Technology
+Envirotech-473,Canadian Intact,Us,60285.0,Energy
+Envirotech-474,A Paramount consulting,United Kingdom,49815.0,Industrial
+Envirotech-475,A Orange consulting,Uk,23433.0,Financials
+Envirotech-476,American Amazon llc,Can,81914.0,Technology
+Envirotech-477,English Corsair llc,,,Industrial
+Envirotech-478,English Chevy,United Kingdom,7598.0,Financials
+Envirotech-479,The Theory llc,Can,41696.0,Energy
+Envirotech-480,A Unicorn llc,England,92385.0,Financials
+Envirotech-481,English Mcdonalds,United Kingdom,16149.0,Financials
+Envirotech-482,English Big One,Uk,36316.0,Health Care
+Envirotech-483,The Bbc mutual,France,22130.0,Health Care
+Envirotech-484,American Amazon,France,95988.0,Financials
+Envirotech-485,English Big One consulting,Fr,4403.0,Energy
+Envirotech-486,English Apple,Usa,42308.0,Health Care
+Envirotech-487,American Intact,Can,92488.0,Health Care
+Envirotech-488,American Python financial,Canada,93601.0,Energy
+Envirotech-489,American Evil,Usa,19081.0,Financials
+Envirotech-490,American Bloom,Fr,76762.0,Health Care
+Envirotech-491,English Micro incorporated,Us,83820.0,Energy
+Envirotech-492,Canadian Intact llc,Canada,11284.0,Health Care
+Envirotech-493,Canadian Aviva consulting,Uk,96402.0,Industrial
+Envirotech-494,Canadian Marvel,Scotland,42609.0,Financials
+Envirotech-495,The Discord company,England,95832.0,Energy
+Envirotech-496,Canadian Nvidia consulting,Us,87131.0,Energy
+Envirotech-497,A Rust company,Us,78338.0,Industrial
+Envirotech-498,The Nvidia,Fr,5812.0,Industrial
+Envirotech-499,A Corsair,Uk,92245.0,Energy
+Envirotech-500,A Google llc,Can,62000.0,Health Care
+Envirotech-501,A Evil,Can,17165.0,Industrial
+Envirotech-502,English Apple,United States,72451.0,Industrial
+Envirotech-503,American Python,Fr,97630.0,Technology
+Envirotech-504,American Cbc,Fra,80197.0,Industrial
+Envirotech-505,A Chevy,United Kingdom,49874.0,Financials
+Envirotech-506,Canadian Bloom incorporated,England,92746.0,Financials
+Envirotech-507,Canadian Brooks mutual,Can,47126.0,Industrial
+Envirotech-508,Canadian Hyper company,Can,90772.0,Health Care
+Envirotech-509,The Satellite,Uk,76951.0,Energy
+Envirotech-510,American Satellite llc,Fr,53175.0,Technology
+Envirotech-511,Canadian Rust consulting,United States,91316.0,Technology
+Envirotech-512,Canadian Google,Uk,4139.0,Energy
+Envirotech-513,English Python limited,Ca,97476.0,Energy
+Envirotech-514,The Orange,,87770.0,Industrial
+Envirotech-515,American Greggs company,Usa,25699.0,Health Care
+Envirotech-516,The Hyper mutual,France,17924.0,Industrial
+Envirotech-517,English Paramount company,Scotland,50431.0,Health Care
+Envirotech-518,The Brooks financial,Can,39274.0,Industrial
+Envirotech-519,English Aviva consulting,Usa,17232.0,Financials
+Envirotech-520,Canadian Micro limited,United Kingdom,28473.0,Financials
+Envirotech-521,The Bbc,France,69799.0,Financials
+Envirotech-522,A Bloom,Canada,12583.0,Financials
+Envirotech-523,American Lucas Films llc,Fra,98149.0,Health Care
+Envirotech-524,English Nvidia mutual,Can,,Energy
+Envirotech-525,A Evil,United Kingdom,,Health Care
+Envirotech-526,English Nvidia,United States,86104.0,Industrial
+Envirotech-527,Canadian Theory incorporated,Can,5475.0,Technology
+Envirotech-528,English Bloom,United States,34149.0,Health Care
+Envirotech-529,English Anthropic financial,France,16940.0,Technology
+Envirotech-530,The Greggs mutual,Fra,,Industrial
+Envirotech-531,A Bbc,Uk,72674.0,Financials
+Envirotech-532,Canadian Red,Canada,13631.0,Financials
+Envirotech-533,A Skydance,Fr,,Technology
+Envirotech-534,The Intact inc.,Ca,28704.0,Energy
+Envirotech-535,English Theory inc.,Canada,72533.0,Technology
+Envirotech-536,English Mcdonalds mutual,Canada,9323.0,Health Care
+Envirotech-537,American Rust,Fra,80275.0,Financials
+Envirotech-538,The Amazon,England,95744.0,Energy
+Envirotech-539,Canadian Books llc,United Kingdom,95986.0,Technology
+Envirotech-540,The A&W inc.,Usa,22887.0,Health Care
+Envirotech-541,American Greggs incorporated,Scotland,22257.0,Health Care
+Envirotech-542,American A&W llc,Fr,43329.0,Technology
+Envirotech-543,A Corsair mutual,Fra,10999.0,Health Care
+Envirotech-544,Canadian Intact,Fra,88983.0,Energy
+Envirotech-545,A Brooks,Uk,98408.0,Industrial
+Envirotech-546,Canadian Ford,England,7569.0,
+Envirotech-547,English Books,Fra,48393.0,Technology
+Envirotech-548,A Discord,Usa,68906.0,Technology
+Envirotech-549,A A&W,United Kingdom,1902.0,Industrial
+Envirotech-550,A Red,Us,62594.0,Technology
+Envirotech-551,The Big One,Scotland,70954.0,Industrial
+Envirotech-552,English Marvel financial,France,1806.0,Industrial
+Envirotech-553,English Marvel,Fr,79303.0,Financials
+Envirotech-554,A Satellite company,Fra,7329.0,Technology
+Envirotech-555,The Unicorn company,Can,61595.0,Industrial
+Envirotech-556,Canadian Aviva inc.,Uk,37244.0,Financials
+Envirotech-557,The Aviva limited,,59668.0,Financials
+Envirotech-558,English Python limited,England,40030.0,Technology
+Envirotech-559,Canadian Good inc.,Usa,73707.0,Financials
+Envirotech-560,A Bloom,United States,47195.0,Energy
+Envirotech-561,A Mcdonalds,Canada,21478.0,Industrial
+Envirotech-562,Canadian Big One,United States,34542.0,Technology
+Envirotech-563,Canadian Orange limited,Scotland,5747.0,Health Care
+Envirotech-564,Canadian Hyper incorporated,Us,48019.0,Technology
+Envirotech-565,The Ford company,Can,82019.0,Industrial
+Envirotech-566,American Greggs company,Canada,67257.0,Energy
+Envirotech-567,The Nvidia mutual,Scotland,25557.0,Energy
+Envirotech-568,English Cbc,Usa,70101.0,Technology
+Envirotech-569,American Books company,Ca,96531.0,Financials
+Envirotech-570,American Bloom consulting,United States,60214.0,Financials
+Envirotech-571,American Amazon incorporated,Canada,,Health Care
+Envirotech-572,Canadian Discord,England,,Energy
+Envirotech-573,American Anthropic,Canada,54518.0,Energy
+Envirotech-574,A Nvidia,Usa,58077.0,Health Care
+Envirotech-575,Canadian Cbc financial,Ca,26349.0,Financials
+Envirotech-576,The Nbc llc,United Kingdom,84442.0,Health Care
+Envirotech-577,American Satellite llc,Us,55756.0,Financials
+Envirotech-578,Canadian Big One,Ca,50290.0,Health Care
+Envirotech-579,Canadian Orange mutual,,52634.0,Technology
+Envirotech-580,Canadian Brooks,Scotland,72289.0,Energy
+Envirotech-581,The Apple,Ca,86369.0,Energy
+Envirotech-582,A Evil,Scotland,29675.0,Financials
+Envirotech-583,A Marvel financial,Ca,46277.0,Financials
+Envirotech-584,American Python consulting,Fr,17127.0,Financials
+Envirotech-585,The Chevy,Canada,42186.0,Financials
+Envirotech-586,Canadian Bloom incorporated,Us,25510.0,Financials
+Envirotech-587,The Bloom,France,,Financials
+Envirotech-588,American Marvel inc.,United States,,Industrial
+Envirotech-589,A Amazon,England,20631.0,Energy
+Envirotech-590,Canadian Skydance,United Kingdom,89264.0,Health Care
+Envirotech-591,Canadian Chevy,Fra,11350.0,Health Care
+Envirotech-592,English Aviva,France,99761.0,Financials
+Envirotech-593,Canadian Nvidia incorporated,England,,Industrial
+Envirotech-594,American Marvel company,Fra,91219.0,Health Care
+Envirotech-595,A Rust limited,Uk,69717.0,Health Care
+Envirotech-596,Canadian Discord incorporated,,71999.0,Technology
+Envirotech-597,A Good inc.,Fra,15383.0,Technology
+Envirotech-598,American Theory,Fr,70117.0,Industrial
+Envirotech-599,American Intact company,Uk,98147.0,Energy
+Envirotech-600,A Bloom financial,Usa,56788.0,Health Care
+Envirotech-601,A Dc financial,Scotland,37279.0,Technology
+Envirotech-602,American Chevy financial,France,59259.0,Health Care
+Envirotech-603,American Brooks company,Fra,79779.0,Health Care
+Envirotech-604,A Good,United Kingdom,,Energy
+Envirotech-605,English Theory company,Ca,56272.0,Technology
+Envirotech-606,American Python,Scotland,92773.0,Energy
+Envirotech-607,English Theory mutual,Can,7222.0,Energy
+Envirotech-608,A Nbc inc.,England,88801.0,Health Care
+Envirotech-609,Canadian Cbc limited,Ca,13538.0,Technology
+Envirotech-610,The Mcdonalds,Uk,73246.0,Technology
+Envirotech-611,American Discord,,46409.0,Technology
+Envirotech-612,A Books,United States,31503.0,Industrial
+Envirotech-613,The Bbc financial,Ca,36976.0,Energy
+Envirotech-614,American Unicorn company,United States,20252.0,Technology
+Envirotech-615,The Lucas Films consulting,Uk,39685.0,Health Care
+Envirotech-616,Canadian Marvel,England,28341.0,Health Care
+Envirotech-617,Canadian Greggs,United Kingdom,78941.0,Health Care
+Envirotech-618,American A&W,Can,21368.0,Health Care
+Envirotech-619,The Dc,Ca,5117.0,Industrial
+Envirotech-620,American Discord,Us,95194.0,
+Envirotech-621,American Nbc,Can,77275.0,Financials
+Envirotech-622,Canadian Lucas Films limited,Canada,8725.0,Health Care
+Envirotech-623,American Corsair incorporated,Can,26254.0,Financials
+Envirotech-624,Canadian Lucas Films,,73723.0,Energy
+Envirotech-625,A Tesla mutual,United Kingdom,95544.0,Industrial
+Envirotech-626,American Dc,United Kingdom,14669.0,
+Envirotech-627,American Micro financial,England,18420.0,Energy
+Envirotech-628,English Good,Ca,32466.0,Financials
+Envirotech-629,The Bbc consulting,Fr,73714.0,Technology
+Envirotech-630,The Micro llc,France,90364.0,Energy
+Envirotech-631,American Macro,France,62794.0,Financials
+Envirotech-632,The Lucas Films incorporated,Fr,31161.0,Technology
+Envirotech-633,A Marvel llc,England,50643.0,Industrial
+Envirotech-634,A Google financial,England,28329.0,Energy
+Envirotech-635,Canadian Intact inc.,Scotland,58781.0,Energy
+Envirotech-636,The Big One inc.,United States,9682.0,Technology
+Envirotech-637,American Greggs,Us,40316.0,Financials
+Envirotech-638,The Paramount,,52296.0,Industrial
+Envirotech-639,A Apple,Fr,36704.0,Financials
+Envirotech-640,Canadian Corsair limited,Scotland,98489.0,Energy
+Envirotech-641,American Big Business mutual,Ca,37105.0,Health Care
+Envirotech-642,The Big Business incorporated,Ca,43636.0,Industrial
+Envirotech-643,The Hyper llc,United States,34854.0,Industrial
+Envirotech-644,American Lucas Films,United Kingdom,71470.0,Energy
+Envirotech-645,Canadian Dc,Uk,94617.0,Industrial
+Envirotech-646,A Skydance incorporated,United States,,Industrial
+Envirotech-647,American Discord,Fr,40775.0,Energy
+Envirotech-648,The Dc,Can,93915.0,Energy
+Envirotech-649,Canadian Python,Can,89131.0,Technology
+Envirotech-650,English Rust financial,Fr,91057.0,Financials
+Envirotech-651,English Red,England,14610.0,Energy
+Envirotech-652,American Bbc inc.,,24198.0,Financials
+Envirotech-653,A Aviva,England,81926.0,Technology
+Envirotech-654,The Ford,Fr,23809.0,Energy
+Envirotech-655,English Mcdonalds company,Fr,,Energy
+Envirotech-656,American Theory company,United States,6650.0,Industrial
+Envirotech-657,A Apple company,Us,87387.0,Health Care
+Envirotech-658,The Lucas Films,Usa,60316.0,Energy
+Envirotech-659,The Bloom financial,England,81283.0,Health Care
+Envirotech-660,Canadian Amazon,,92953.0,Industrial
+Envirotech-661,English Skydance,Ca,8922.0,Energy
+Envirotech-662,The Skydance,Ca,57689.0,Health Care
+Envirotech-663,Canadian Unicorn incorporated,England,18656.0,Industrial
+Envirotech-664,American Nvidia incorporated,Usa,59462.0,Technology
+Envirotech-665,English Brooks mutual,Ca,53425.0,Technology
+Envirotech-666,A Good,United Kingdom,17772.0,Health Care
+Envirotech-667,English Discord,Canada,92803.0,Financials
+Envirotech-668,American Satellite,France,94804.0,Technology
+Envirotech-669,A A&W,England,79597.0,Energy
+Envirotech-670,The Big One,England,5501.0,Energy
+Envirotech-671,English Lucas Films company,,52997.0,Financials
+Envirotech-672,American Unicorn,United Kingdom,94595.0,Financials
+Envirotech-673,A Books,,16137.0,Energy
+Envirotech-674,English Good inc.,United States,67820.0,Energy
+Envirotech-675,The Evil company,,20792.0,Technology
+Envirotech-676,Canadian Big One,Fr,1149.0,Industrial
+Envirotech-677,The Macro,United States,94942.0,Financials
+Envirotech-678,American Bloom company,Scotland,85907.0,Health Care
+Envirotech-679,Canadian Hyper incorporated,Scotland,,Technology
+Envirotech-680,American Rust,Fra,68922.0,Financials
+Envirotech-681,American Micro incorporated,Fra,89436.0,Industrial
+Envirotech-682,A A&W,Usa,46058.0,Industrial
+Envirotech-683,Canadian Bloom,England,10272.0,Financials
+Envirotech-684,American Aviva llc,Canada,10180.0,Industrial
+Envirotech-685,English Corsair financial,Canada,89401.0,Energy
+Envirotech-686,Canadian Tesla,,50129.0,Energy
+Envirotech-687,American Discord llc,England,,Financials
+Envirotech-688,American Macro,England,77302.0,Technology
+Envirotech-689,The Discord mutual,Scotland,99178.0,Technology
+Envirotech-690,A Brooks,Can,59866.0,Energy
+Envirotech-691,American Bloom consulting,Fr,93421.0,Health Care
+Envirotech-692,The Big One mutual,Us,94957.0,Industrial
+Envirotech-693,Canadian Aviva,Ca,90575.0,Industrial
+Envirotech-694,English Unicorn company,Uk,,Energy
+Envirotech-695,Canadian Bloom,Us,,Technology
+Envirotech-696,American Rust,Fr,73543.0,Industrial
+Envirotech-697,English Macro limited,United States,75819.0,Technology
+Envirotech-698,The Brooks limited,,27266.0,Technology
+Envirotech-699,A Red mutual,Fr,8803.0,Financials
+Envirotech-700,English Theory mutual,United States,83240.0,Financials
+Envirotech-701,American Hyper,Usa,80814.0,Industrial
+Envirotech-702,American Google incorporated,Fra,77264.0,Industrial
+Envirotech-703,Canadian Anthropic,Uk,92547.0,Financials
+Envirotech-704,The Nbc,Fra,10607.0,Industrial
+Envirotech-705,American Big Business,England,77642.0,Technology
+Envirotech-706,A Mcdonalds company,,62390.0,Financials
+Envirotech-707,A Lucas Films,Fra,73625.0,Financials
+Envirotech-708,Canadian Micro limited,Usa,54610.0,Industrial
+Envirotech-709,English Paramount,United Kingdom,24524.0,Health Care
+Envirotech-710,English Rust,Canada,62338.0,Technology
+Envirotech-711,A Cbc,Can,75481.0,Energy
+Envirotech-712,Canadian Anthropic llc,France,89435.0,Health Care
+Envirotech-713,The Nvidia,Fra,2225.0,Financials
+Envirotech-714,English Amazon,Scotland,99201.0,Industrial
+Envirotech-715,English Macro company,France,45993.0,Technology
+Envirotech-716,English Dc company,England,,Health Care
+Envirotech-717,English Mcdonalds,,14369.0,Technology
+Envirotech-718,The Lucas Films,Usa,53398.0,Financials
+Envirotech-719,American Ford limited,Us,41784.0,Financials
+Envirotech-720,English Bloom,Us,34793.0,Financials
+Envirotech-721,A Macro inc.,Can,80332.0,Energy
+Envirotech-722,American Python,Us,5691.0,Technology
+Envirotech-723,A Red,France,,Energy
+Envirotech-724,The Brooks financial,Usa,50498.0,Technology
+Envirotech-725,American Aviva,England,99599.0,Technology
+Envirotech-726,Canadian Google company,Us,,Financials
+Envirotech-727,Canadian Apple inc.,Ca,24301.0,Technology
+Envirotech-728,The Bloom,Fra,67902.0,Industrial
+Envirotech-729,English Unicorn,Usa,52510.0,Industrial
+Envirotech-730,English Mcdonalds,Usa,87379.0,Energy
+Envirotech-731,Canadian Greggs incorporated,Can,,Health Care
+Envirotech-732,English Corsair,Scotland,92221.0,Financials
+Envirotech-733,A Lucas Films financial,Canada,46112.0,Energy
+Envirotech-734,American Red,United States,64228.0,Industrial
+Envirotech-735,The Lucas Films,Canada,63163.0,Health Care
+Envirotech-736,The Theory,Uk,89535.0,Financials
+Envirotech-737,The Satellite,Uk,93094.0,Financials
+Envirotech-738,American Satellite,Scotland,47688.0,Financials
+Envirotech-739,The Amazon,Scotland,33962.0,Energy
+Envirotech-740,American Chevy consulting,United States,15872.0,Health Care
+Envirotech-741,American Chevy limited,Can,69145.0,Health Care
+Envirotech-742,A Satellite,Usa,82190.0,Industrial
+Envirotech-743,English Discord,Fra,43199.0,Health Care
+Envirotech-744,American Greggs,France,6083.0,Energy
+Envirotech-745,A Bbc limited,Fra,53554.0,Financials
+Envirotech-746,The Dc,Uk,4431.0,Technology
+Envirotech-747,American Cbc incorporated,United States,20479.0,Technology
+Envirotech-748,English Theory mutual,England,73251.0,Technology
+Envirotech-749,American Big Business,Usa,62880.0,Energy
+Envirotech-750,Canadian Tesla,France,78111.0,Energy
+Envirotech-751,A Big Business,Ca,56422.0,Industrial
+Envirotech-752,A Amazon,England,47964.0,Energy
+Envirotech-753,A Amazon,Can,58509.0,Health Care
+Envirotech-754,Canadian Red,United Kingdom,,Health Care
+Envirotech-755,A Evil,Canada,63250.0,Technology
+Envirotech-756,American Bbc,United Kingdom,24031.0,Technology
+Envirotech-757,English Ford consulting,Fr,50654.0,Industrial
+Envirotech-758,The Aviva,Ca,32486.0,Health Care
+Envirotech-759,Canadian Unicorn company,United States,92401.0,Financials
+Envirotech-760,A Mcdonalds,England,24663.0,Technology
+Envirotech-761,English Aviva inc.,Uk,87668.0,Energy
+Envirotech-762,American Ford incorporated,,37625.0,Technology
+Envirotech-763,The Satellite,Canada,62026.0,Industrial
+Envirotech-764,English Greggs consulting,Fra,37781.0,Health Care
+Envirotech-765,A Unicorn mutual,Can,82871.0,Energy
+Envirotech-766,English Skydance,,16889.0,Industrial
+Envirotech-767,Canadian Hyper company,Fra,78397.0,Financials
+Envirotech-768,The Bbc,England,25642.0,Energy
+Envirotech-769,Canadian Red,Can,24731.0,Health Care
+Envirotech-770,Canadian Anthropic,United Kingdom,27694.0,Industrial
+Envirotech-771,American Anthropic inc.,Scotland,23174.0,Health Care
+Envirotech-772,A Google,Usa,30343.0,Technology
+Envirotech-773,American Google,Fr,11743.0,Financials
+Envirotech-774,The Satellite mutual,England,57170.0,Health Care
+Envirotech-775,English Discord,Fr,50295.0,Energy
+Envirotech-776,The Intact llc,Us,90102.0,Health Care
+Envirotech-777,The Nvidia,Scotland,62528.0,Technology
+Envirotech-778,Canadian Big Business,France,16097.0,Financials
+Envirotech-779,The Anthropic,United States,46397.0,Financials
+Envirotech-780,The Big Business,Us,96677.0,Financials
+Envirotech-781,Canadian Corsair consulting,Usa,3533.0,Health Care
+Envirotech-782,Canadian Mcdonalds,Uk,67064.0,Technology
+Envirotech-783,The Ford company,Usa,68758.0,Financials
+Envirotech-784,A Bbc mutual,Usa,99114.0,Health Care
+Envirotech-785,A Apple,Fr,94356.0,Industrial
+Envirotech-786,English Nvidia,United Kingdom,72825.0,Industrial
+Envirotech-787,Canadian Greggs,Us,71752.0,Health Care
+Envirotech-788,Canadian Cbc,Us,73404.0,Industrial
+Envirotech-789,The Brooks,Scotland,7117.0,Health Care
+Envirotech-790,The Theory,Uk,95418.0,Technology
+Envirotech-791,The Big Business mutual,Canada,42523.0,Financials
+Envirotech-792,Canadian Big Business,United Kingdom,7978.0,Industrial
+Envirotech-793,A Ford limited,,46754.0,Health Care
+Envirotech-794,English Amazon consulting,Scotland,13150.0,Technology
+Envirotech-795,A Good mutual,Ca,36877.0,Energy
+Envirotech-796,A Apple incorporated,Uk,29844.0,Health Care
+Envirotech-797,Canadian Red,Usa,83583.0,Technology
+Envirotech-798,The Hyper,Scotland,49733.0,Industrial
+Envirotech-799,The Marvel,Canada,5706.0,Industrial
+Envirotech-800,Canadian Brooks,Us,3490.0,Energy
