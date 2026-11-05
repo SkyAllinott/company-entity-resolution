@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
-import data_tidying_functions as dt
 import config as cfg
 import standardization as stan
 import validation as val
@@ -89,7 +88,6 @@ class DataProvider():
         
         self.data = stan.standardize_country(self.data, "country")
         self.data = stan.standardize_company_names(self.data, "company_name")
-        
 
         return self.data
 
@@ -99,6 +97,8 @@ class DataProvider():
             raise ValueError(f"No data loaded and standardized for provider: {self.provider}")
 
         self.data = val.validate_country(self.data, "country")
+        self.data = val.validate_registration(self.data, "registration_id")
+        self.data = val.validate_company_name(self.data, "company_name")
 
         return self.data
 
@@ -106,9 +106,9 @@ class DataProvider():
         if self.data is None:
             raise ValueError(f"No data loaded, standardized, and validated for provider: {self.provider}")
 
-        data_quality = {}
         data_quality_metrics = {}
 
+        # Data quality on countries feature
         valid_countries_rate = (self.data["country_is_valid"].mean())
         missing_countries_rate = (self.data["country_is_missing"].mean())
         invalid_countries_rate = (self.data["country_is_invalid"].mean())
@@ -116,7 +116,20 @@ class DataProvider():
         data_quality_metrics["valid_countries_rate"] = valid_countries_rate
         data_quality_metrics["missing_countries_rate"] = missing_countries_rate
         data_quality_metrics["invalid_countries_rate"] = invalid_countries_rate
-        data_quality[self.provider] = data_quality_metrics
 
-        df = pd.DataFrame(data_quality_metrics, index=[self.provider])
+        # Registration
+        missing_registration_rate = (self.data["registration_missing"].mean())
+        registration_uniqueness = self.data["registration_uniqueness"].mean()
+
+        data_quality_metrics["missing_registration_rate"] = missing_registration_rate
+        data_quality_metrics["registration_uniqueness"] = registration_uniqueness
+
+        # Company Names
+        missing_company_names = self.data["company_missing"].mean()
+        company_name_uniqueness = self.data["company_uniqueness"].mean()
+
+        data_quality_metrics["company_missing"] = missing_company_names
+        data_quality_metrics["company_uniqueness"] = company_name_uniqueness
+
+        df = pd.DataFrame(data_quality_metrics, index=[self.provider]).transpose()
         return df

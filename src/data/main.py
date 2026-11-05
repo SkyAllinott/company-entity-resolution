@@ -1,6 +1,5 @@
 import pandas as pd
 from pathlib import Path
-import data_tidying_functions as dt
 
 from data_provider import DataProvider
 import config as cfg
