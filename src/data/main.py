@@ -1,9 +1,8 @@
-import pandas as pd
 from pathlib import Path
 
-from data_provider import DataProvider
 import config as cfg
-
+import pandas as pd
+from data_provider import DataProvider
 
 # Load the data 
 providers = [DataProvider(provider_name, quality_rules) for provider_name, quality_rules in cfg.provider_quality.items()]
